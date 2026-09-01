@@ -32,11 +32,6 @@ def esc(s: str) -> str:
     return html.escape(s, quote=False)
 
 
-def para_html(text: str) -> str:
-    """Multi-paragraph plain text -> <p> elements."""
-    return "".join(f"<p>{esc(p.strip())}</p>\n" for p in text.strip().split("\n\n") if p.strip())
-
-
 def chapter_xhtml(doc: dict, cid: str) -> str:
     title_es = doc["title_es"]
     head, _, sub = title_es.partition(". ")
@@ -62,26 +57,34 @@ def chapter_xhtml(doc: dict, cid: str) -> str:
     out.append(' <a href="#nS" id="rS" epub:type="noteref" class="nr">§</a></p>\n')
     out.append('<hr class="notes"/>\n<h3 class="notes" xml:lang="en" lang="en">Notas / Notes</h3>\n')
     out.append('<section class="notes" xml:lang="en" lang="en">\n')
+    # Kindle pop-ups render only the FIRST block element of the note target,
+    # so each note is exactly one <p>; sections are separated with <br/> and
+    # the vocab "list" is bullets + line breaks inside that same paragraph.
+    BR = "<br/>"
     for n, s in notes:
-        out.append(f'<aside id="n{n}" epub:type="footnote" class="fn">\n')
-        out.append(f'<p><a href="#r{n}" class="back">{n}.</a> <b>Literal:</b> {esc(s["literal"])}</p>\n')
+        parts = []
         if s.get("ormsby"):
             label = "Ormsby" if s.get("ormsby_match", True) else "Ormsby (loose)"
-            out.append(f"<p><b>{label}:</b> {esc(s['ormsby'])}</p>\n")
+            parts.append(f"<b>{label}:</b> {esc(s['ormsby'])}")
+        parts.append(f"<b>Literal:</b> {esc(s['literal'])}")
         if s.get("vocab"):
-            items = " · ".join(f'<b xml:lang="es" lang="es">{esc(v["w"])}</b> {esc(v["d"])}' for v in s["vocab"])
-            out.append(f'<p class="vocab">{items}</p>\n')
+            items = BR.join(f'• <b xml:lang="es" lang="es">{esc(v["w"])}</b> — {esc(v["d"])}' for v in s["vocab"])
+            parts.append(f"<b>Vocabulary</b>{BR}{items}")
         if s.get("ormsby_note"):
-            out.append(f"<p><b>Ormsby's note:</b> {esc(s['ormsby_note'])}</p>\n")
+            parts.append(f"<b>Ormsby's note:</b> {esc(s['ormsby_note'])}")
         if s.get("note"):
-            out.append(f"<p><b>Note:</b> {esc(s['note'])}</p>\n")
+            parts.append(f"<b>Note:</b> {esc(s['note'])}")
+        body = (BR + BR).join(parts)
+        out.append(f'<aside id="n{n}" epub:type="footnote" class="fn">\n')
+        out.append(f'<p><a href="#r{n}" class="back">{n}.</a> {body}</p>\n')
         out.append("</aside>\n")
+    summary_paras = [esc(p.strip()) for p in doc.get("summary", "").strip().split("\n\n") if p.strip()]
+    context_paras = [esc(p.strip()) for p in doc.get("context", "").strip().split("\n\n") if p.strip()]
+    body = "<b>Chapter summary</b>" + BR + (BR + BR).join(summary_paras)
+    if context_paras:
+        body += BR + BR + "<b>Context</b>" + BR + (BR + BR).join(context_paras)
     out.append('<aside id="nS" epub:type="footnote" class="fn">\n')
-    out.append('<p><a href="#rS" class="back">§</a> <b>Chapter summary</b></p>\n')
-    out.append(para_html(doc.get("summary", "")))
-    if doc.get("context"):
-        out.append("<p><b>Context</b></p>\n")
-        out.append(para_html(doc["context"]))
+    out.append(f'<p><a href="#rS" class="back">§</a> {body}</p>\n')
     out.append("</aside>\n</section>\n</section>\n")
     out.append(XHTML_FOOT)
     return "".join(out)
@@ -95,8 +98,8 @@ def title_xhtml(chapters) -> str:
     out.append('<div xml:lang="en" lang="en">\n')
     out.append("<p class=\"howto\"><b>How to read this book.</b> The text is Cervantes' original Spanish "
                "(Project Gutenberg #2000). Every sentence ends with a small number. Tap it for a note with "
-               "three parts: a word-for-word <b>literal</b> gloss that follows the Spanish order, John "
-               "<b>Ormsby</b>'s 1885 translation of the same sentence, and a <b>vocabulary</b> list of the "
+               "three parts: John <b>Ormsby</b>'s 1885 translation of the same sentence, a word-for-word "
+               "<b>literal</b> gloss that follows the Spanish order, and a <b>vocabulary</b> list of the "
                "words an intermediate reader is likely to need. Where Ormsby wrote a translator's note on "
                "that sentence it is included. The § mark at the end of a chapter opens a summary and a "
                "context note for the whole chapter.</p>\n")
