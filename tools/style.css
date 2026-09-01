@@ -1,0 +1,15 @@
+body { font-family: serif; line-height: 1.5; margin: 0 1em; }
+h1, h2 { text-align: center; font-weight: normal; }
+h2 { font-size: 1.4em; margin: 1.5em 0 0.2em 0; }
+p.subtitle { text-align: center; font-style: italic; margin: 0 0 1.5em 0; }
+p { text-align: justify; margin: 0 0 0.8em 0; text-indent: 0; }
+p.dialogue { margin-left: 1em; }
+a.nr { font-size: 0.7em; vertical-align: super; line-height: 0; text-decoration: none; margin-left: 0.15em; }
+hr.notes { margin: 2em 0 1em 0; }
+h3.notes { font-size: 1em; font-weight: bold; text-align: left; }
+aside.fn { font-size: 0.92em; margin: 0 0 1.2em 0; }
+aside.fn p { margin: 0 0 0.35em 0; text-align: left; }
+aside.fn p.es { font-style: italic; }
+aside.fn p.vocab { font-size: 0.95em; }
+aside.fn a.back { text-decoration: none; font-weight: bold; }
+p.howto { text-align: left; }

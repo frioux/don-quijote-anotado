@@ -1,0 +1,697 @@
+part: 1
+chapter: 1
+title_es: "Capítulo primero. Que trata de la condición y ejercicio del famoso hidalgo don Quijote de la Mancha"
+title_en: "Which treats of the character and pursuits of the famous gentleman Don Quixote of La Mancha"
+paragraphs:
+  - sentences:
+      - es: "En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín flaco y galgo corredor."
+        literal: "In a place of La Mancha, of whose name not I-want to-remember-myself, not [it] has much time that lived a hidalgo of those of lance in rack, buckler old, nag skinny and greyhound runner."
+        ormsby: "In a village of La Mancha, the name of which I have no desire to call to mind, there lived not long since one of those gentlemen that keep a lance in the lance-rack, an old buckler, a lean hack, and a greyhound for coursing."
+        vocab:
+          - {w: "lugar", d: "place; in Cervantes' time also 'village, small town', which is the sense here"}
+          - {w: "cuyo", d: "whose"}
+          - {w: "acordarse de", d: "to remember; 'no quiero acordarme' = I don't care to recall"}
+          - {w: "no ha mucho tiempo", d: "not long ago; 'ha' is the old form of 'hace'"}
+          - {w: "hidalgo", d: "minor untitled nobleman, from 'hijo de algo' (son of something)"}
+          - {w: "de los de", d: "one of those with"}
+          - {w: "lanza", d: "lance"}
+          - {w: "astillero", d: "lance rack (today the word means 'shipyard')"}
+          - {w: "adarga", d: "oval leather shield of Moorish origin"}
+          - {w: "rocín", d: "workhorse, nag"}
+          - {w: "flaco", d: "skinny, lean"}
+          - {w: "galgo", d: "greyhound"}
+          - {w: "corredor", d: "running, i.e. kept for coursing hares"}
+        note: "The most famous opening line in Spanish literature. The narrator's refusal to name the village is a joke at the expense of chivalric romances, which always name everything grandly. Ormsby's own note on this sentence simply points to his preface, where he discusses the tradition that the village is Argamasilla de Alba."
+      - es: "Una olla de algo más vaca que carnero, salpicón las más noches, duelos y quebrantos los sábados, lantejas los viernes, algún palomino de añadidura los domingos, consumían las tres partes de su hacienda."
+        literal: "A pot of somewhat more cow than mutton, salpicón the most nights, griefs and breakings the Saturdays, lentils the Fridays, some squab of addition the Sundays, consumed the three parts of his estate."
+        ormsby: "An olla of rather more beef than mutton, a salad on most nights, scraps on Saturdays, lentils on Fridays, and a pigeon or so extra on Sundays, made away with three-quarters of his income."
+        vocab:
+          - {w: "olla", d: "stew pot, and the stew cooked in it (Spain's national dish)"}
+          - {w: "vaca", d: "beef (literally 'cow'); cheaper than mutton at the time"}
+          - {w: "carnero", d: "mutton (literally 'ram')"}
+          - {w: "salpicón", d: "cold dish of minced leftover meat with onion, oil and vinegar"}
+          - {w: "las más noches", d: "most nights"}
+          - {w: "duelos y quebrantos", d: "literally 'griefs and breakings'; a cheap dish of eggs with bacon or offal, see Ormsby's note"}
+          - {w: "lantejas", d: "= lentejas, lentils"}
+          - {w: "palomino", d: "young pigeon, squab"}
+          - {w: "de añadidura", d: "as an extra, into the bargain"}
+          - {w: "las tres partes", d: "three parts (of four), i.e. three-quarters"}
+          - {w: "hacienda", d: "estate, property, income"}
+        ormsby_note: "The national dish, the olla, of which the puchero of Central and Northern Spain is a poor relation, is a stew with beef, bacon, sausage, chickpeas, and cabbage for its prime constituents, and for ingredients any other meat or vegetable that may be available. There is nothing exceptional in Don Quixote's olla being more a beef than a mutton one, for mutton is scarce in Spain except in the mountain districts. Salpicon (salad) is meat minced with red peppers, onions, oil, and vinegar, and is in fact a sort of meat salad. Duelos y quebrantos, the title of the Don's Saturday dish, would be a puzzle even to the majority of Spanish readers were it not for Pellicer's explanation. In the cattle-feeding districts of Spain, the carcasses of animals that came to an untimely end were converted into salt meat, and the parts unfit for that purpose were sold cheap under the name of duelos y quebrantos, 'sorrows and losses' (literally 'breakings'), and were held to be sufficiently unlike meat to be eaten on days when flesh was forbidden, among which in Castile Saturday was included in commemoration of the battle of Navas de Tolosa. Any rendering of such a phrase must necessarily be unsatisfactory, and in adopting 'scraps' I have, as in the other cases, merely gone on the principle of choosing the least of evils."
+      - es: "El resto della concluían sayo de velarte, calzas de velludo para las fiestas, con sus pantuflos de lo mesmo, y los días de entresemana se honraba con su vellorí de lo más fino."
+        literal: "The rest of-it finished-off tunic of fine-broadcloth, breeches of velvet for the feast-days, with their slippers of the same, and the days of mid-week he-honored-himself with his homespun of the most fine."
+        ormsby: "The rest of it went in a doublet of fine cloth and velvet breeches and shoes to match for holidays, while on weekdays he made a brave figure in his best homespun."
+        vocab:
+          - {w: "della", d: "= de ella, 'of it'; Cervantes contracts de + ella/él/este/ellos constantly (della, dél, deste, dellos)"}
+          - {w: "concluir", d: "here: to use up, finish off"}
+          - {w: "sayo", d: "loose tunic or doublet"}
+          - {w: "velarte", d: "fine black broadcloth"}
+          - {w: "calzas", d: "breeches, hose"}
+          - {w: "velludo", d: "velvet (literally 'hairy')"}
+          - {w: "fiestas", d: "feast days, holidays"}
+          - {w: "pantuflos", d: "slippers, soft indoor shoes"}
+          - {w: "mesmo", d: "= mismo, 'same'; archaic form used throughout"}
+          - {w: "entresemana", d: "weekdays, midweek"}
+          - {w: "honrarse con", d: "to do oneself proud with, to dress up in"}
+          - {w: "vellorí", d: "undyed grey homespun wool"}
+      - es: "Tenía en su casa una ama que pasaba de los cuarenta, y una sobrina que no llegaba a los veinte, y un mozo de campo y plaza, que así ensillaba el rocín como tomaba la podadera."
+        literal: "He-had in his house a housekeeper who passed of the forty, and a niece who not arrived at the twenty, and a lad of field and square, who as-much saddled the nag as took-up the pruning-hook."
+        ormsby: "He had in his house a housekeeper past forty, a niece under twenty, and a lad for the field and marketplace, who used to saddle the hack as well as handle the billhook."
+        vocab:
+          - {w: "ama", d: "housekeeper (also 'mistress of the house', 'wet-nurse')"}
+          - {w: "pasar de", d: "to be over (an age)"}
+          - {w: "sobrina", d: "niece"}
+          - {w: "no llegar a", d: "to not reach, be under"}
+          - {w: "mozo", d: "lad, young servant"}
+          - {w: "plaza", d: "town square, market"}
+          - {w: "así ... como", d: "as much ... as, both ... and"}
+          - {w: "ensillar", d: "to saddle"}
+          - {w: "podadera", d: "pruning hook, billhook"}
+      - es: "Frisaba la edad de nuestro hidalgo con los cincuenta años; era de complexión recia, seco de carnes, enjuto de rostro, gran madrugador y amigo de la caza."
+        literal: "Bordered the age of our hidalgo with the fifty years; he-was of constitution robust, dry of fleshes, lean of face, great early-riser and friend of the hunt."
+        ormsby: "The age of this gentleman of ours was bordering on fifty; he was of a hardy habit, spare, gaunt-featured, a very early riser and a great sportsman."
+        vocab:
+          - {w: "frisar con", d: "to border on, approach (an age)"}
+          - {w: "complexión", d: "constitution, physical build; a false friend, not 'complexion'"}
+          - {w: "recio", d: "robust, tough, sturdy"}
+          - {w: "seco de carnes", d: "spare, lean of flesh"}
+          - {w: "enjuto", d: "lean, gaunt, dried-out"}
+          - {w: "rostro", d: "face"}
+          - {w: "madrugador", d: "early riser (madrugar = to get up early)"}
+          - {w: "amigo de", d: "fond of"}
+          - {w: "caza", d: "hunting"}
+      - es: "Quieren decir que tenía el sobrenombre de Quijada, o Quesada, que en esto hay alguna diferencia en los autores que deste caso escriben; aunque, por conjeturas verosímiles, se deja entender que se llamaba Quejana."
+        literal: "They-want to-say that he-had the surname of Quijada, or Quesada, that in this there-is some difference in the authors who of-this case write; although, by conjectures plausible, it lets-itself understand that he-was-called Quejana."
+        ormsby: "They will have it his surname was Quixada or Quesada (for here there is some difference of opinion among the authors who write on the subject), although from reasonable conjectures it seems plain that he was called Quexana."
+        vocab:
+          - {w: "querer decir", d: "to mean; here impersonal 'they claim, it is said'"}
+          - {w: "sobrenombre", d: "surname, byname"}
+          - {w: "quijada", d: "jaw, jawbone (as a common noun)"}
+          - {w: "quesada", d: "cheesecake (as a common noun)"}
+          - {w: "deste", d: "= de este"}
+          - {w: "caso", d: "matter, case"}
+          - {w: "verosímil", d: "plausible, likely"}
+          - {w: "dejarse entender", d: "to be inferred, to be understood"}
+        note: "First appearance of the mock-scholarly pose: the narrator pretends to be reconciling earlier 'authors' as if this were a real chronicle. The candidate surnames are also jokes: a quijada is a jawbone and a quesada a cheesecake."
+      - es: "Pero esto importa poco a nuestro cuento; basta que en la narración dél no se salga un punto de la verdad."
+        literal: "But this matters little to our tale; [it] suffices that in the narration of-it not one-departs a point from the truth."
+        ormsby: "This, however, is of but little importance to our tale; it will be enough not to stray a hair's breadth from the truth in the telling of it."
+        vocab:
+          - {w: "importar", d: "to matter"}
+          - {w: "cuento", d: "tale, story"}
+          - {w: "bastar", d: "to suffice; 'basta que' = it is enough that"}
+          - {w: "dél", d: "= de él, 'of it'"}
+          - {w: "salirse de", d: "to depart from, stray from"}
+          - {w: "un punto", d: "one jot, a hair's breadth"}
+  - sentences:
+      - es: "Es, pues, de saber que este sobredicho hidalgo, los ratos que estaba ocioso, que eran los más del año, se daba a leer libros de caballerías, con tanta afición y gusto, que olvidó casi de todo punto el ejercicio de la caza, y aun la administración de su hacienda."
+        literal: "It-is, then, to know that this above-said hidalgo, the whiles that he-was idle, which were the most of the year, gave-himself to read books of chivalries, with such fondness and pleasure, that he-forgot almost of all point the exercise of the hunt, and even the administration of his estate."
+        ormsby: "You must know, then, that the above-named gentleman whenever he was at leisure (which was mostly all the year round) gave himself up to reading books of chivalry with such ardour and avidity that he almost entirely neglected the pursuit of his field-sports, and even the management of his property;"
+        vocab:
+          - {w: "es de saber", d: "be it known, you must know"}
+          - {w: "pues", d: "then, well; a connective, not 'because' here"}
+          - {w: "sobredicho", d: "aforesaid, above-mentioned"}
+          - {w: "rato", d: "a while, spell of time"}
+          - {w: "ocioso", d: "idle, at leisure"}
+          - {w: "darse a", d: "to give oneself over to, take up"}
+          - {w: "libros de caballerías", d: "romances of chivalry, the genre being parodied"}
+          - {w: "afición", d: "fondness, enthusiasm"}
+          - {w: "de todo punto", d: "entirely, completely"}
+          - {w: "aun", d: "even (no accent; 'aún' with accent means 'still')"}
+      - es: "Y llegó a tanto su curiosidad y desatino en esto, que vendió muchas hanegas de tierra de sembradura para comprar libros de caballerías en que leer, y así, llevó a su casa todos cuantos pudo haber dellos;"
+        literal: "And arrived at so-much his curiosity and folly in this, that he-sold many fanegas of land of sowing to buy books of chivalries in which to-read, and thus, he-carried to his house all as-many-as he-could get of-them;"
+        ormsby: "and to such a pitch did his eagerness and infatuation go that he sold many an acre of tillageland to buy books of chivalry to read, and brought home as many of them as he could get."
+        vocab:
+          - {w: "llegar a tanto", d: "to reach such a pitch"}
+          - {w: "curiosidad", d: "here: eager interest, not idle curiosity"}
+          - {w: "desatino", d: "folly, foolishness"}
+          - {w: "hanega", d: "= fanega, a land measure of roughly 1.5 acres (also a grain measure)"}
+          - {w: "tierra de sembradura", d: "arable land, sown land"}
+          - {w: "todos cuantos", d: "all that, as many as"}
+          - {w: "haber", d: "here in its old sense 'to get hold of, obtain'"}
+          - {w: "dellos", d: "= de ellos"}
+      - es: "y de todos, ningunos le parecían tan bien como los que compuso el famoso Feliciano de Silva, porque la claridad de su prosa y aquellas entricadas razones suyas le parecían de perlas, y más cuando llegaba a leer aquellos requiebros y cartas de desafíos, donde en muchas partes hallaba escrito:"
+        literal: "and of all, none to-him seemed so well as those that composed the famous Feliciano de Silva, because the clarity of his prose and those intricate reasonings of-his to-him seemed of pearls, and more when he-came to read those compliments and letters of challenges, where in many parts he-found written:"
+        ormsby: "But of all there were none he liked so well as those of the famous Feliciano de Silva's composition, for their lucidity of style and complicated conceits were as pearls in his sight, particularly when in his reading he came upon courtships and cartels, where he often found passages like"
+        vocab:
+          - {w: "parecer bien", d: "to seem good, to please"}
+          - {w: "componer", d: "to compose, write"}
+          - {w: "Feliciano de Silva", d: "prolific 16th-century author of sequels to Amadís, famous for his tortured style"}
+          - {w: "entricado", d: "= intrincado, intricate, convoluted"}
+          - {w: "razones", d: "here: sentences, arguments, turns of phrase"}
+          - {w: "parecer de perlas", d: "to seem perfect, 'like pearls'"}
+          - {w: "requiebro", d: "flirtatious compliment, gallantry"}
+          - {w: "carta de desafío", d: "letter of challenge, cartel"}
+          - {w: "hallar", d: "to find"}
+      - es: "La razón de la sinrazón que a mi razón se hace, de tal manera mi razón enflaquece, que con razón me quejo de la vuestra fermosura."
+        literal: "The reason of the unreason that to my reason is done, in such manner my reason weakens, that with reason I complain of the your beauty."
+        ormsby: "\"the reason of the unreason with which my reason is afflicted so weakens my reason that with reason I murmur at your beauty;\""
+        vocab:
+          - {w: "razón", d: "reason, in several senses at once: rationale, mind, justification"}
+          - {w: "sinrazón", d: "unreason, injustice, wrong"}
+          - {w: "enflaquecer", d: "to weaken, grow thin"}
+          - {w: "con razón", d: "rightly, with good reason"}
+          - {w: "quejarse de", d: "to complain of"}
+          - {w: "la vuestra fermosura", d: "your beauty; 'fermosura' is archaic 'hermosura' with the old initial f-, and the article before 'vuestra' is deliberately antique"}
+        note: "A near-quotation from Feliciano de Silva, chosen because it is almost meaningless. The joke is the mannered style of the romances, not its content."
+      - es: "Y también cuando leía: ...los altos cielos que de vuestra divinidad divinamente con las estrellas os fortifican, y os hacen merecedora del merecimiento que merece la vuestra grandeza."
+        literal: "And also when he-read: ...the high heavens that of your divinity divinely with the stars you fortify, and you make deserving of the desert that deserves the your greatness."
+        ormsby: "or again, \"the high heavens, that of your divinity divinely fortify you with the stars, render you deserving of the desert your greatness deserves.\""
+        vocab:
+          - {w: "cielos", d: "heavens"}
+          - {w: "divinidad", d: "divinity"}
+          - {w: "fortificar", d: "to fortify, strengthen"}
+          - {w: "merecedor, -a", d: "deserving"}
+          - {w: "merecimiento", d: "merit, desert (what one deserves)"}
+          - {w: "merecer", d: "to deserve"}
+          - {w: "grandeza", d: "greatness, grandeur; also the rank of the highest nobility (grandes)"}
+        ormsby_note: "The first passage quoted is from the Chronicle of Don Florisel de Niquea, by Feliciano de Silva, the volumes of which appeared in 1532, 1536, and 1551, and from the tenth and eleventh books of the Amadís series. The second is from Olivante de Laura, by Torquemada (1564). Clemencín points out that the first passage had been previously picked out as a sample of the absurdity of the school, by Diego Hurtado de Mendoza."
+  - sentences:
+      - es: "Con estas razones perdía el pobre caballero el juicio, y desvelábase por entenderlas y desentrañarles el sentido, que no se lo sacara ni las entendiera el mesmo Aristóteles, si resucitara para sólo ello."
+        literal: "With these reasonings lost the poor gentleman the judgment, and kept-himself-awake to understand-them and dis-entrail-from-them the sense, which not it would-have-extracted nor them would-have-understood the same Aristotle, if he-rose-from-the-dead for only that."
+        ormsby: "Over conceits of this sort the poor gentleman lost his wits, and used to lie awake striving to understand them and worm the meaning out of them; what Aristotle himself could not have made out or extracted had he come to life again for that special purpose."
+        vocab:
+          - {w: "razones", d: "sentences, arguments"}
+          - {w: "caballero", d: "gentleman; also 'knight'. The book plays on both senses from here on"}
+          - {w: "perder el juicio", d: "to lose one's mind; 'juicio' = judgment, sanity"}
+          - {w: "desvelarse por", d: "to lose sleep over, strive to"}
+          - {w: "desentrañar", d: "to unravel, get to the bottom of; literally 'disembowel'"}
+          - {w: "sacar", d: "to extract, get out"}
+          - {w: "el mesmo Aristóteles", d: "Aristotle himself"}
+          - {w: "resucitar", d: "to rise from the dead"}
+          - {w: "para sólo ello", d: "for that alone"}
+      - es: "No estaba muy bien con las heridas que don Belianís daba y recebía, porque se imaginaba que, por grandes maestros que le hubiesen curado, no dejaría de tener el rostro y todo el cuerpo lleno de cicatrices y señales."
+        literal: "Not he-was very well with the wounds that Don Belianís gave and received, because he-imagined that, for great masters that him might-have cured, not he-would-cease to have the face and all the body full of scars and marks."
+        ormsby: "He was not at all easy about the wounds which Don Belianis gave and took, because it seemed to him that, great as were the surgeons who had cured him, he must have had his face and body covered all over with seams and scars."
+        vocab:
+          - {w: "no estar bien con", d: "to be uneasy about, not to approve of"}
+          - {w: "herida", d: "wound"}
+          - {w: "recebir", d: "= recibir"}
+          - {w: "por ... que", d: "however ...: 'por grandes maestros que' = however great the surgeons"}
+          - {w: "maestro", d: "master; here a master surgeon"}
+          - {w: "no dejar de", d: "to not fail to; 'no dejaría de tener' = he could not fail to have"}
+          - {w: "cicatriz", d: "scar"}
+          - {w: "señal", d: "mark"}
+        ormsby_note: "The History of Don Belianis de Grecia, by the Licentiate Jerónimo Fernández, 1547. It has been by some included in the Amadís series, but it is in reality an independent romance."
+      - es: "Pero, con todo, alababa en su autor aquel acabar su libro con la promesa de aquella inacabable aventura, y muchas veces le vino deseo de tomar la pluma y dalle fin al pie de la letra, como allí se promete;"
+        literal: "But, with all, he-praised in its author that finishing his book with the promise of that unfinishable adventure, and many times to-him came desire of taking the pen and giving-it end to the foot of the letter, as there is-promised;"
+        ormsby: "He commended, however, the author's way of ending his book with the promise of that interminable adventure, and many a time was he tempted to take up his pen and finish it properly as is there proposed,"
+        vocab:
+          - {w: "con todo", d: "all the same, nevertheless"}
+          - {w: "alabar", d: "to praise"}
+          - {w: "aquel acabar", d: "that way of ending (infinitive used as a noun)"}
+          - {w: "inacabable", d: "endless, unfinishable; puns on 'acabar'"}
+          - {w: "venirle deseo a uno", d: "to feel a desire"}
+          - {w: "pluma", d: "pen (literally 'feather')"}
+          - {w: "dalle", d: "= darle; old assimilation of infinitive + le"}
+          - {w: "dar fin a", d: "to finish"}
+          - {w: "al pie de la letra", d: "to the letter, exactly as written"}
+      - es: "y sin duda alguna lo hiciera, y aun saliera con ello, si otros mayores y continuos pensamientos no se lo estorbaran."
+        literal: "and without doubt any it he-would-have-done, and even would-have-come-out with it, if other greater and continuous thoughts not to-him it had-hindered."
+        ormsby: "which no doubt he would have done, and made a successful piece of work of it too, had not greater and more absorbing thoughts prevented him."
+        vocab:
+          - {w: "sin duda alguna", d: "without any doubt"}
+          - {w: "hiciera / saliera / estorbaran", d: "-ra subjunctive used as conditional and pluperfect ('would have done'), very common in Golden Age Spanish"}
+          - {w: "salir con", d: "to succeed at, pull off"}
+          - {w: "estorbar", d: "to hinder, get in the way of"}
+      - es: "Tuvo muchas veces competencia con el cura de su lugar —que era hombre docto, graduado en Sigüenza—, sobre cuál había sido mejor caballero: Palmerín de Ingalaterra o Amadís de Gaula;"
+        literal: "He-had many times contest with the priest of his village —who was man learned, graduated in Sigüenza—, over which had been better knight: Palmerín of England or Amadís of Gaul;"
+        ormsby: "Many an argument did he have with the curate of his village (a learned man, and a graduate of Sigüenza) as to which had been the better knight, Palmerín of England or Amadís of Gaul."
+        vocab:
+          - {w: "competencia", d: "here: dispute, argument; not 'competence'"}
+          - {w: "cura", d: "parish priest"}
+          - {w: "lugar", d: "village"}
+          - {w: "docto", d: "learned"}
+          - {w: "graduado", d: "holding a university degree"}
+          - {w: "Ingalaterra", d: "= Inglaterra, England (old form)"}
+          - {w: "Palmerín de Inglaterra", d: "hero of a Portuguese romance (1547) admired even by Cervantes"}
+          - {w: "Amadís de Gaula", d: "hero of the most famous romance of chivalry (1508), the model for all the rest"}
+        ormsby_note: "Sigüenza was one of the Universidades menores, the degrees of which were often laughed at by the Spanish humorists."
+      - es: "mas maese Nicolás, barbero del mesmo pueblo, decía que ninguno llegaba al Caballero del Febo, y que si alguno se le podía comparar, era don Galaor, hermano de Amadís de Gaula, porque tenía muy acomodada condición para todo;"
+        literal: "but master Nicolás, barber of the same town, said that none reached to the Knight of the Phoebus, and that if any to-him could be-compared, it-was Don Galaor, brother of Amadís of Gaul, because he-had very accommodating disposition for everything;"
+        ormsby: "Master Nicholas, the village barber, however, used to say that neither of them came up to the Knight of Phoebus, and that if there was any that could compare with him it was Don Galaor, the brother of Amadís of Gaul, because he had a spirit that was equal to every occasion,"
+        vocab:
+          - {w: "mas", d: "but (literary; no accent, unlike 'más' = more)"}
+          - {w: "maese", d: "master; old title for craftsmen"}
+          - {w: "barbero", d: "barber, who in this period also did minor surgery and bloodletting"}
+          - {w: "pueblo", d: "village, town"}
+          - {w: "llegar a", d: "here: to measure up to"}
+          - {w: "Caballero del Febo", d: "Knight of Phoebus (the Sun), hero of 'Espejo de príncipes y caballeros' (1555)"}
+          - {w: "don Galaor", d: "Amadís's brother, a cheerful womanizer in the romance"}
+          - {w: "acomodado", d: "accommodating, easy-going"}
+          - {w: "condición", d: "disposition, temperament"}
+      - es: "que no era caballero melindroso, ni tan llorón como su hermano, y que en lo de la valentía no le iba en zaga."
+        literal: "that not he-was knight squeamish, nor so weepy as his brother, and that in the [matter] of the valor not to-him he-went in rear."
+        ormsby: "and was no finikin knight, nor lachrymose like his brother, while in the matter of valour he was not a whit behind him."
+        vocab:
+          - {w: "melindroso", d: "finicky, squeamish, affected"}
+          - {w: "llorón", d: "weepy, a crybaby"}
+          - {w: "en lo de", d: "in the matter of"}
+          - {w: "valentía", d: "valor, bravery"}
+          - {w: "no ir en zaga a alguien", d: "to be no whit behind someone ('zaga' = the rear)"}
+  - sentences:
+      - es: "En resolución, él se enfrascó tanto en su letura, que se le pasaban las noches leyendo de claro en claro, y los días de turbio en turbio; y así, del poco dormir y del mucho leer, se le secó el celebro, de manera que vino a perder el juicio."
+        literal: "In resolution, he himself-immersed so-much in his reading, that to-him passed the nights reading from clear to clear, and the days from murky to murky; and thus, from the little sleeping and from the much reading, to-him dried the brain, in manner that he-came to lose the judgment."
+        ormsby: "In short, he became so absorbed in his books that he spent his nights from sunset to sunrise, and his days from dawn to dark, poring over them; and what with little sleep and much reading his brains got so dry that he lost his wits."
+        vocab:
+          - {w: "en resolución", d: "in short"}
+          - {w: "enfrascarse en", d: "to become engrossed in (literally to get into a flask)"}
+          - {w: "letura", d: "= lectura, reading"}
+          - {w: "de claro en claro", d: "from dusk to dawn, straight through the night"}
+          - {w: "de turbio en turbio", d: "from dawn to dusk (literally 'from murk to murk')"}
+          - {w: "celebro", d: "= cerebro, brain"}
+          - {w: "secarse", d: "to dry up"}
+          - {w: "venir a + inf.", d: "to end up doing"}
+        note: "Sixteenth-century medicine held that the brain needed moisture; too much study and too little sleep 'dried' it and produced madness. 'Seco de carnes' above already hinted at this dry, choleric temperament."
+      - es: "Llenósele la fantasía de todo aquello que leía en los libros, así de encantamentos como de pendencias, batallas, desafíos, heridas, requiebros, amores, tormentas y disparates imposibles;"
+        literal: "Filled-itself-to-him the fantasy with all that which he-read in the books, as-much of enchantments as of brawls, battles, challenges, wounds, compliments, loves, storms and absurdities impossible;"
+        ormsby: "His fancy grew full of what he used to read about in his books, enchantments, quarrels, battles, challenges, wounds, wooings, loves, agonies, and all sorts of impossible nonsense;"
+        vocab:
+          - {w: "llenósele", d: "= se le llenó; object pronouns attached to the end of a conjugated verb, very common in Cervantes"}
+          - {w: "fantasía", d: "imagination"}
+          - {w: "encantamento", d: "= encantamiento, enchantment, spell"}
+          - {w: "pendencia", d: "quarrel, brawl"}
+          - {w: "desafío", d: "challenge, duel"}
+          - {w: "tormenta", d: "storm (Ormsby reads it as 'torment')"}
+          - {w: "disparate", d: "absurdity, nonsense"}
+      - es: "y asentósele de tal modo en la imaginación que era verdad toda aquella máquina de aquellas sonadas soñadas invenciones que leía, que para él no había otra historia más cierta en el mundo."
+        literal: "and settled-itself-to-him in such manner in the imagination that it-was truth all that machinery of those famous dreamed-up inventions that he-read, that for him not there-was other history more certain in the world."
+        ormsby: "and it so possessed his mind that the whole fabric of invention and fancy he read of was true, that to him no history in the world had more reality in it."
+        vocab:
+          - {w: "asentarse", d: "to settle, become fixed"}
+          - {w: "máquina", d: "here: contrivance, whole elaborate fabric"}
+          - {w: "sonado", d: "famous, much talked-of"}
+          - {w: "soñado", d: "dreamed, dreamt-up; 'sonadas soñadas' is a deliberate jingle"}
+          - {w: "invención", d: "invention, fiction"}
+          - {w: "historia", d: "both 'history' and 'story': Spanish has one word, a pun the whole book exploits"}
+          - {w: "cierto", d: "true, certain"}
+      - es: "Decía él que el Cid Ruy Díaz había sido muy buen caballero, pero que no tenía que ver con el Caballero de la Ardiente Espada, que de sólo un revés había partido por medio dos fieros y descomunales gigantes."
+        literal: "Said he that the Cid Ruy Díaz had been very good knight, but that not he-had to see with the Knight of the Burning Sword, who of only one backhand had split by half two fierce and huge giants."
+        ormsby: "He used to say the Cid Ruy Díaz was a very good knight, but that he was not to be compared with the Knight of the Burning Sword who with one back-stroke cut in half two fierce and monstrous giants."
+        vocab:
+          - {w: "el Cid Ruy Díaz", d: "Rodrigo Díaz de Vivar, the historical 11th-century Castilian hero"}
+          - {w: "no tener que ver con", d: "to be nothing compared to (literally 'to have nothing to do with')"}
+          - {w: "Caballero de la Ardiente Espada", d: "Knight of the Burning Sword, nickname of Amadís de Grecia"}
+          - {w: "revés", d: "backhand stroke"}
+          - {w: "partir por medio", d: "to split in half"}
+          - {w: "fiero", d: "fierce"}
+          - {w: "descomunal", d: "enormous, monstrous"}
+      - es: "Mejor estaba con Bernardo del Carpio, porque en Roncesvalles había muerto a Roldán el encantado, valiéndose de la industria de Hércules, cuando ahogó a Anteo, el hijo de la Tierra, entre los brazos."
+        literal: "Better he-was with Bernardo del Carpio, because in Roncesvalles he-had killed Roldán the enchanted, availing-himself of the artifice of Hercules, when he-choked Antaeus, the son of the Earth, between the arms."
+        ormsby: "He thought more of Bernardo del Carpio because at Roncesvalles he slew Roland in spite of enchantments, availing himself of the artifice of Hercules when he strangled Antaeus the son of Terra in his arms."
+        vocab:
+          - {w: "estar mejor con", d: "to think more highly of"}
+          - {w: "Bernardo del Carpio", d: "legendary Spanish hero who, in Spanish tradition, killed Roland at Roncesvalles"}
+          - {w: "había muerto a", d: "had killed; 'morir' used transitively, archaic"}
+          - {w: "encantado", d: "enchanted, i.e. made invulnerable by magic"}
+          - {w: "valerse de", d: "to make use of"}
+          - {w: "industria", d: "here: cunning, stratagem; not 'industry'"}
+          - {w: "ahogar", d: "to choke, strangle, drown"}
+          - {w: "Anteo", d: "Antaeus, giant invincible while touching his mother Earth; Hercules lifted him off the ground and crushed him"}
+        ormsby_note: "The Spanish tradition of the battle of Roncesvalles is, of course, at variance with the Chanson de Roland, but it is somewhat nearer historical truth, inasmuch as the slaughter of Roland and the rearguard of Charlemagne's army was effected not by Saracens, but by the Basque mountaineers."
+      - es: "Decía mucho bien del gigante Morgante, porque, con ser de aquella generación gigantea, que todos son soberbios y descomedidos, él solo era afable y bien criado."
+        literal: "He-said much good of the giant Morgante, because, with being of that lineage gigantic, who all are arrogant and rude, he alone was affable and well raised."
+        ormsby: "He approved highly of the giant Morgante, because, although of the giant breed which is always arrogant and ill-conditioned, he alone was affable and well-bred."
+        vocab:
+          - {w: "decir bien de", d: "to speak well of"}
+          - {w: "Morgante", d: "giant converted to Christianity in Pulci's Italian comic epic 'Morgante' (1483)"}
+          - {w: "con ser", d: "despite being"}
+          - {w: "generación", d: "here: lineage, breed"}
+          - {w: "gigantea", d: "of giants, gigantic"}
+          - {w: "soberbio", d: "arrogant, proud"}
+          - {w: "descomedido", d: "rude, insolent, immoderate"}
+          - {w: "afable", d: "affable, courteous"}
+          - {w: "bien criado", d: "well brought up, well-mannered"}
+      - es: "Pero, sobre todos, estaba bien con Reinaldos de Montalbán, y más cuando le veía salir de su castillo y robar cuantos topaba, y cuando en allende robó aquel ídolo de Mahoma que era todo de oro, según dice su historia."
+        literal: "But, above all, he-was well with Reinaldos of Montalbán, and more when him he-saw go-out from his castle and rob as-many-as he-ran-into, and when in over-there he-stole that idol of Mohammed that was all of gold, according-to says his history."
+        ormsby: "But above all he admired Reinaldos of Montalban, especially when he saw him sallying forth from his castle and robbing everyone he met, and when beyond the seas he stole that image of Mahomet which, as his history says, was entirely of gold."
+        vocab:
+          - {w: "estar bien con", d: "to approve of, be fond of"}
+          - {w: "Reinaldos de Montalbán", d: "Renaud de Montauban, one of Charlemagne's paladins; in Spanish ballads a robber knight"}
+          - {w: "cuantos", d: "all those whom, everyone that"}
+          - {w: "topar", d: "to run into, bump into"}
+          - {w: "allende", d: "overseas, beyond the sea; 'en allende' = in Barbary, the East"}
+          - {w: "ídolo", d: "idol; medieval Christians wrongly believed Muslims worshipped an idol of Mohammed"}
+          - {w: "según", d: "according to"}
+      - es: "Diera él, por dar una mano de coces al traidor de Galalón, al ama que tenía, y aun a su sobrina de añadidura."
+        literal: "Would-give he, for giving a hand of kicks to the traitor of Galalón, the housekeeper that he-had, and even his niece of addition."
+        ormsby: "To have a bout of kicking at that traitor of a Ganelon he would have given his housekeeper, and his niece into the bargain."
+        vocab:
+          - {w: "diera", d: "would give; -ra form as conditional"}
+          - {w: "dar una mano de coces", d: "to give a round of kicks ('coz' = kick; 'una mano de' = a bout of)"}
+          - {w: "el traidor de Galalón", d: "that traitor Ganelon; 'el traidor de X' = 'that traitor of an X'"}
+          - {w: "de añadidura", d: "into the bargain"}
+        ormsby_note: "Ganelon, the arch-traitor of the Charlemagne legend. In Spanish he appears as Galalon, in Italian as Gano; but in this as in the cases of Roland, Baldwin, and others, I have thought it best to give the name in the form in which it is best known, and will be most readily recognized, instead of Roldan, Valdovinos, etc."
+  - sentences:
+      - es: "En efeto, rematado ya su juicio, vino a dar en el más estraño pensamiento que jamás dio loco en el mundo;"
+        literal: "In effect, finished-off already his judgment, he-came to hit upon the most strange thought that ever hit-upon madman in the world;"
+        ormsby: "In short, his wits being quite gone, he hit upon the strangest notion that ever madman in this world hit upon,"
+        vocab:
+          - {w: "en efeto", d: "= en efecto, in fact, in short"}
+          - {w: "rematado", d: "finished off, done for; 'loco rematado' is still 'stark raving mad'"}
+          - {w: "dar en", d: "to hit upon, take into one's head"}
+          - {w: "estraño", d: "= extraño, strange"}
+          - {w: "jamás", d: "ever (in this construction); usually 'never'"}
+          - {w: "loco", d: "madman"}
+      - es: "y fue que le pareció convenible y necesario, así para el aumento de su honra como para el servicio de su república, hacerse caballero andante, y irse por todo el mundo con sus armas y caballo a buscar las aventuras y a ejercitarse en todo aquello que él había leído que los caballeros andantes se ejercitaban, deshaciendo todo género de agravio, y poniéndose en ocasiones y peligros donde, acabándolos, cobrase eterno nombre y fama."
+        literal: "and it-was that to-him seemed fitting and necessary, as-much for the increase of his honor as for the service of his commonwealth, to-make-himself knight errant, and to-go-off through all the world with his arms and horse to seek the adventures and to exercise-himself in all that which he had read that the knights errant exercised-themselves-in, undoing every kind of wrong, and putting-himself in occasions and dangers where, finishing-them, he-might-gain eternal name and fame."
+        ormsby: "and that was that he fancied it was right and requisite, as well for the support of his own honour as for the service of his country, that he should make a knight-errant of himself, roaming the world over in full armour and on horseback in quest of adventures, and putting in practice himself all that he had read of as being the usual practices of knights-errant; righting every kind of wrong, and exposing himself to peril and danger from which, in the issue, he was to reap eternal renown and fame."
+        vocab:
+          - {w: "convenible", d: "fitting, suitable; archaic for 'conveniente'"}
+          - {w: "honra", d: "honor, reputation"}
+          - {w: "república", d: "commonwealth, the state; not a republic"}
+          - {w: "caballero andante", d: "knight-errant ('andante' = walking, wandering)"}
+          - {w: "armas", d: "arms; here armor"}
+          - {w: "ejercitarse en", d: "to practice, engage in"}
+          - {w: "deshacer agravios", d: "to right wrongs ('agravio' = wrong, offense); a stock phrase of the romances"}
+          - {w: "ocasión", d: "here: hazardous situation, occasion for action"}
+          - {w: "cobrar fama", d: "to win fame"}
+      - es: "Imaginábase el pobre ya coronado por el valor de su brazo, por lo menos, del imperio de Trapisonda; y así, con estos tan agradables pensamientos, llevado del estraño gusto que en ellos sentía, se dio priesa a poner en efeto lo que deseaba."
+        literal: "Imagined-himself the poor-man already crowned by the valor of his arm, at the least, of the empire of Trebizond; and thus, with these so agreeable thoughts, carried by the strange pleasure that in them he-felt, himself he-gave haste to put in effect that which he-desired."
+        ormsby: "Already the poor man saw himself crowned by the might of his arm Emperor of Trebizond at least; and so, led away by the intense enjoyment he found in these pleasant fancies, he set himself forthwith to put his scheme into execution."
+        vocab:
+          - {w: "el pobre", d: "the poor fellow"}
+          - {w: "coronado", d: "crowned"}
+          - {w: "el valor de su brazo", d: "the might of his arm, his prowess"}
+          - {w: "por lo menos", d: "at least"}
+          - {w: "Trapisonda", d: "Trebizond, a small Greek empire on the Black Sea (1204-1461), a favorite prize in the romances"}
+          - {w: "llevado de", d: "carried away by"}
+          - {w: "gusto", d: "pleasure"}
+          - {w: "darse priesa", d: "= darse prisa, to hurry"}
+          - {w: "poner en efeto", d: "to put into effect"}
+        ormsby_note: "Like Reinaldos or Rinaldo, who came to be Emperor of Trebizond."
+  - sentences:
+      - es: "Y lo primero que hizo fue limpiar unas armas que habían sido de sus bisabuelos, que, tomadas de orín y llenas de moho, luengos siglos había que estaban puestas y olvidadas en un rincón."
+        literal: "And the first that he-did was to-clean some arms that had been of his great-grandfathers, which, taken by rust and full of mold, long centuries there-was that they-were placed and forgotten in a corner."
+        ormsby: "The first thing he did was to clean up some armour that had belonged to his great-grandfather, and had been for ages lying forgotten in a corner eaten with rust and covered with mildew."
+        vocab:
+          - {w: "lo primero", d: "the first thing"}
+          - {w: "armas", d: "armor"}
+          - {w: "bisabuelo", d: "great-grandfather"}
+          - {w: "tomado de orín", d: "rust-eaten ('orín' = rust; also 'urine')"}
+          - {w: "moho", d: "mold, mildew"}
+          - {w: "luengo", d: "long (archaic); 'luengos siglos' = long centuries"}
+          - {w: "había que", d: "archaic for 'hacía que': it had been [so long] that"}
+          - {w: "rincón", d: "corner (an inside corner)"}
+      - es: "Limpiólas y aderezólas lo mejor que pudo, pero vio que tenían una gran falta, y era que no tenían celada de encaje, sino morrión simple;"
+        literal: "He-cleaned-them and fixed-them-up the best that he-could, but he-saw that they-had a great fault, and it-was that not they-had helmet of fitting, but-rather morion simple;"
+        ormsby: "He scoured and polished it as best he could, but he perceived one great defect in it, that it had no closed helmet, nothing but a simple morion."
+        vocab:
+          - {w: "limpiólas", d: "= las limpió"}
+          - {w: "aderezar", d: "to fix up, dress, prepare"}
+          - {w: "lo mejor que pudo", d: "as best he could"}
+          - {w: "falta", d: "defect, lack"}
+          - {w: "celada", d: "closed helmet with a visor"}
+          - {w: "de encaje", d: "that locks into the gorget, i.e. a full closed helmet"}
+          - {w: "sino", d: "but rather"}
+          - {w: "morrión", d: "morion, an open helmet with a brim"}
+        ormsby_note: "That is, a simple headpiece without either visor or beaver."
+      - es: "mas a esto suplió su industria, porque de cartones hizo un modo de media celada, que, encajada con el morrión, hacían una apariencia de celada entera."
+        literal: "but to this supplied his ingenuity, because of pasteboards he-made a kind of half helmet, which, fitted with the morion, made an appearance of helmet whole."
+        ormsby: "This deficiency, however, his ingenuity supplied, for he contrived a kind of half-helmet of pasteboard which, fitted on to the morion, looked like a whole one."
+        vocab:
+          - {w: "suplir", d: "to make up for, supply"}
+          - {w: "industria", d: "ingenuity, cleverness"}
+          - {w: "cartón", d: "pasteboard, cardboard"}
+          - {w: "un modo de", d: "a sort of"}
+          - {w: "media celada", d: "half-helmet"}
+          - {w: "encajado", d: "fitted, slotted in"}
+          - {w: "apariencia", d: "appearance, semblance"}
+          - {w: "entero", d: "whole, complete"}
+      - es: "Es verdad que para probar si era fuerte y podía estar al riesgo de una cuchillada, sacó su espada y le dio dos golpes, y con el primero y en un punto deshizo lo que había hecho en una semana;"
+        literal: "It-is truth that to test if it-was strong and could stand at the risk of a sword-slash, he-drew his sword and to-it gave two blows, and with the first and in one instant he-undid that which he-had done in a week;"
+        ormsby: "It is true that, in order to see if it was strong and fit to stand a cut, he drew his sword and gave it a couple of slashes, the first of which undid in an instant what had taken him a week to do."
+        vocab:
+          - {w: "probar", d: "to test, try"}
+          - {w: "estar al riesgo de", d: "to withstand, be exposed to"}
+          - {w: "cuchillada", d: "slash, sword cut"}
+          - {w: "sacar la espada", d: "to draw the sword"}
+          - {w: "golpe", d: "blow"}
+          - {w: "en un punto", d: "in an instant"}
+          - {w: "deshacer", d: "to undo, destroy"}
+      - es: "y no dejó de parecerle mal la facilidad con que la había hecho pedazos, y, por asegurarse deste peligro, la tornó a hacer de nuevo, poniéndole unas barras de hierro por de dentro, de tal manera que él quedó satisfecho de su fortaleza;"
+        literal: "and not it-failed to seem-to-him bad the ease with which it he-had made pieces, and, to secure-himself from-this danger, it he-turned to make anew, putting-to-it some bars of iron by from within, in such manner that he remained satisfied of its strength;"
+        ormsby: "The ease with which he had knocked it to pieces disconcerted him somewhat, and to guard against that danger he set to work again, fixing bars of iron on the inside until he was satisfied with its strength;"
+        vocab:
+          - {w: "no dejar de", d: "to not fail to"}
+          - {w: "parecer mal", d: "to displease"}
+          - {w: "facilidad", d: "ease"}
+          - {w: "hacer pedazos", d: "to smash to pieces"}
+          - {w: "asegurarse de", d: "to guard against, make sure about"}
+          - {w: "tornar a hacer", d: "to do again ('tornar a' = 'volver a')"}
+          - {w: "de nuevo", d: "anew"}
+          - {w: "barra de hierro", d: "iron bar"}
+          - {w: "por de dentro", d: "on the inside"}
+          - {w: "fortaleza", d: "strength (also 'fortress')"}
+      - es: "y, sin querer hacer nueva experiencia della, la diputó y tuvo por celada finísima de encaje."
+        literal: "and, without wanting to make new experiment of-it, it he-deputed and held for helmet most-fine of fitting."
+        ormsby: "and then, not caring to try any more experiments with it, he passed it and adopted it as a helmet of the most perfect construction."
+        vocab:
+          - {w: "experiencia", d: "here: experiment, test"}
+          - {w: "della", d: "= de ella, of it"}
+          - {w: "diputar", d: "to designate, deem (archaic)"}
+          - {w: "tener por", d: "to consider, regard as"}
+          - {w: "finísimo", d: "superlative of 'fino': very fine, first-rate"}
+  - sentences:
+      - es: "Fue luego a ver su rocín, y, aunque tenía más cuartos que un real y más tachas que el caballo de Gonela, que tantum pellis et ossa fuit, le pareció que ni el Bucéfalo de Alejandro ni Babieca el del Cid con él se igualaban."
+        literal: "He-went next to see his nag, and, although it-had more quarters than a real and more blemishes than the horse of Gonela, which 'only skin and bones was', to-him it-seemed that neither the Bucephalus of Alexander nor Babieca the [one] of the Cid with him equaled-themselves."
+        ormsby: "He next proceeded to inspect his hack, which, with more quartos than a real and more blemishes than the steed of Gonela, that \"tantum pellis et ossa fuit,\" surpassed in his eyes the Bucephalus of Alexander or the Babieca of the Cid."
+        vocab:
+          - {w: "luego", d: "here: next, then (today usually 'later')"}
+          - {w: "cuarto", d: "a crack in a horse's hoof; also a copper coin worth 1/8 of a real, hence the pun"}
+          - {w: "real", d: "silver coin"}
+          - {w: "tacha", d: "flaw, blemish"}
+          - {w: "Gonela", d: "Italian court jester famous for his bag-of-bones horse"}
+          - {w: "tantum pellis et ossa fuit", d: "Latin: 'it was only skin and bones'"}
+          - {w: "Bucéfalo", d: "Bucephalus, Alexander the Great's horse"}
+          - {w: "Babieca", d: "the Cid's horse"}
+          - {w: "igualarse con", d: "to be equal to"}
+        ormsby_note: "An untranslatable pun on the word quarto, which means a sand-crack in a horse's hoof, as well as the coin equal to one-eighth of the real. Gonela, or Gonnella, was a jester in the service of Borso, Duke of Ferrara (1450-1470). A book of the jests attributed to him was printed in 1568, the year before Cervantes went to Italy."
+      - es: "Cuatro días se le pasaron en imaginar qué nombre le pondría;"
+        literal: "Four days to-him passed in imagining what name to-it he-would-put;"
+        ormsby: "Four days were spent in thinking what name to give him,"
+        vocab:
+          - {w: "pasársele a uno", d: "(of time) to go by for someone"}
+          - {w: "imaginar", d: "here: to think over, devise"}
+          - {w: "poner nombre", d: "to give a name"}
+      - es: "porque, según se decía él a sí mesmo, no era razón que caballo de caballero tan famoso, y tan bueno él por sí, estuviese sin nombre conocido;"
+        literal: "because, according-as said he to himself, not it-was reason that horse of knight so famous, and so good he by himself, should-be without name known;"
+        ormsby: "because (as he said to himself) it was not right that a horse belonging to a knight so famous, and one with such merits of his own, should be without some distinctive name,"
+        vocab:
+          - {w: "según", d: "as, according as"}
+          - {w: "a sí mesmo", d: "= a sí mismo, to himself"}
+          - {w: "no era razón que", d: "it was not right that"}
+          - {w: "por sí", d: "in itself, in its own right"}
+          - {w: "conocido", d: "known, recognized"}
+      - es: "y ansí, procuraba acomodársele de manera que declarase quién había sido, antes que fuese de caballero andante, y lo que era entonces;"
+        literal: "and so, he-tried to fit-it-to-him in manner that it-should-declare who he-had been, before that he-was of knight errant, and that which he-was then;"
+        ormsby: "and he strove to adapt it so as to indicate what he had been before belonging to a knight-errant, and what he then was;"
+        vocab:
+          - {w: "ansí", d: "= así, thus"}
+          - {w: "procurar", d: "to try, endeavor"}
+          - {w: "acomodar", d: "to fit, adapt"}
+          - {w: "declarar", d: "to make plain, declare"}
+          - {w: "antes que", d: "before"}
+          - {w: "ser de", d: "to belong to"}
+      - es: "pues estaba muy puesto en razón que, mudando su señor estado, mudase él también el nombre, y le cobrase famoso y de estruendo, como convenía a la nueva orden y al nuevo ejercicio que ya profesaba."
+        literal: "since it-was very put in reason that, changing his master state, should-change he also the name, and it should-acquire famous and of thunder, as befitted to the new order and to the new exercise that already he-professed."
+        ormsby: "for it was only reasonable that, his master taking a new character, he should take a new name, and that it should be a distinguished and full-sounding one, befitting the new order and calling he was about to follow."
+        vocab:
+          - {w: "pues", d: "since, for"}
+          - {w: "estar puesto en razón", d: "to stand to reason"}
+          - {w: "mudar", d: "to change"}
+          - {w: "estado", d: "estate, condition, station in life"}
+          - {w: "cobrar", d: "to acquire, take on"}
+          - {w: "de estruendo", d: "resounding, high-sounding ('estruendo' = din, thunder)"}
+          - {w: "convenir a", d: "to befit"}
+          - {w: "orden", d: "order, as in an order of knighthood"}
+          - {w: "ejercicio", d: "calling, profession"}
+          - {w: "profesar", d: "to profess, take up (as one enters a religious order)"}
+      - es: "Y así, después de muchos nombres que formó, borró y quitó, añadió, deshizo y tornó a hacer en su memoria e imaginación, al fin le vino a llamar Rocinante:"
+        literal: "And so, after many names that he-formed, erased and removed, added, undid and turned to make in his memory and imagination, at the end him he-came to call Rocinante:"
+        ormsby: "And so, after having composed, struck out, rejected, added to, unmade, and remade a multitude of names out of his memory and fancy, he decided upon calling him Rocinante,"
+        vocab:
+          - {w: "formar", d: "to form, make up"}
+          - {w: "borrar", d: "to erase"}
+          - {w: "quitar", d: "to remove"}
+          - {w: "deshacer", d: "to undo"}
+          - {w: "tornar a hacer", d: "to remake"}
+          - {w: "al fin", d: "in the end"}
+          - {w: "venir a llamar", d: "to end up calling"}
+      - es: "nombre, a su parecer, alto, sonoro y significativo de lo que había sido cuando fue rocín, antes de lo que ahora era, que era antes y primero de todos los rocines del mundo."
+        literal: "name, to his seeming, lofty, sonorous and significant of that which he-had been when he-was nag, before of that which now he-was, which was before and first of all the nags of the world."
+        ormsby: "a name, to his thinking, lofty, sonorous, and significant of his condition as a hack before he became what he now was, the first and foremost of all the hacks in the world."
+        vocab:
+          - {w: "a su parecer", d: "in his opinion"}
+          - {w: "alto", d: "lofty"}
+          - {w: "sonoro", d: "sonorous"}
+          - {w: "significativo", d: "meaningful"}
+          - {w: "Rocinante", d: "rocín (nag) + ante (before): 'formerly a nag' and 'foremost of nags' at once"}
+          - {w: "antes y primero", d: "first and foremost"}
+        ormsby_note: "Rocín is a horse employed in labor, as distinguished from one kept for pleasure, the chase, or personal use generally; the word therefore may fairly be translated 'hack.' Ante is an old form of Antes, 'before,' whether in time or in order."
+  - sentences:
+      - es: "Puesto nombre, y tan a su gusto, a su caballo, quiso ponérsele a sí mismo, y en este pensamiento duró otros ocho días, y al cabo se vino a llamar don Quijote;"
+        literal: "Put name, and so to his taste, to his horse, he-wanted to put-it-to himself, and in this thought he-lasted other eight days, and at the end himself he-came to call Don Quijote;"
+        ormsby: "Having got a name for his horse so much to his taste, he was anxious to get one for himself, and he was eight days more pondering over this point, till at last he made up his mind to call himself \"Don Quixote,\""
+        vocab:
+          - {w: "puesto nombre", d: "the name having been given; absolute participle, a Latinate construction Cervantes likes"}
+          - {w: "a su gusto", d: "to his liking"}
+          - {w: "ponérsele", d: "to give one (a name) to himself"}
+          - {w: "durar", d: "to last; here: to persist, spend time"}
+          - {w: "al cabo", d: "in the end"}
+          - {w: "quijote", d: "the piece of armor covering the thigh; the ending -ote is comic and augmentative"}
+        ormsby_note: "Quixote, or, as it is now written, Quijote, means the piece of armor that protects the thigh (cuissan, cuish). Smollett's Sir Lancelot Greaves is a kind of parody on the name. Quixada and Quesada were both distinguished family names. The Governor of the Goletta, who was one of the passengers on board the unfortunate Sol galley, was a Quesada; and the faithful majordomo of Charles V and guardian of Don John of Austria was a Quixada."
+      - es: "de donde —como queda dicho— tomaron ocasión los autores desta tan verdadera historia que, sin duda, se debía de llamar Quijada, y no Quesada, como otros quisieron decir."
+        literal: "from where —as remains said— took occasion the authors of-this so true history that, without doubt, he must-have been-called Quijada, and not Quesada, as others wanted to say."
+        ormsby: "whence, as has been already said, the authors of this veracious history have inferred that his name must have been beyond a doubt Quixada, and not Quesada as others would have it."
+        vocab:
+          - {w: "de donde", d: "whence, from which"}
+          - {w: "como queda dicho", d: "as has been said"}
+          - {w: "tomar ocasión", d: "to find grounds, take the opportunity"}
+          - {w: "desta", d: "= de esta"}
+          - {w: "tan verdadera historia", d: "so true a history (ironic)"}
+          - {w: "deber de + inf.", d: "must (supposition): 'se debía de llamar' = his name must have been"}
+          - {w: "quisieron decir", d: "claimed, would have it"}
+      - es: "Pero, acordándose que el valeroso Amadís no sólo se había contentado con llamarse Amadís a secas, sino que añadió el nombre de su reino y patria, por Hepila famosa, y se llamó Amadís de Gaula, así quiso, como buen caballero, añadir al suyo el nombre de la suya y llamarse don Quijote de la Mancha, con que, a su parecer, declaraba muy al vivo su linaje y patria, y la honraba con tomar el sobrenombre della."
+        literal: "But, remembering that the valiant Amadís not only had contented-himself with calling-himself Amadís plainly, but rather added the name of his kingdom and homeland, to make-it famous, and called-himself Amadís of Gaul, so he-wanted, as good knight, to add to his the name of his [homeland] and call-himself Don Quijote of La Mancha, with which, to his seeming, he-declared very to the life his lineage and homeland, and it he-honored with taking the surname from-it."
+        ormsby: "Recollecting, however, that the valiant Amadís was not content to call himself curtly Amadís and nothing more, but added the name of his kingdom and country to make it famous, and called himself Amadís of Gaul, he, like a good knight, resolved to add on the name of his, and to style himself Don Quixote of La Mancha, whereby, he considered, he described accurately his origin and country, and did honour to it in taking his surname from it."
+        vocab:
+          - {w: "acordarse (de) que", d: "to recall that"}
+          - {w: "valeroso", d: "valiant"}
+          - {w: "contentarse con", d: "to be content with"}
+          - {w: "a secas", d: "plainly, and nothing more (literally 'dry')"}
+          - {w: "reino", d: "kingdom"}
+          - {w: "patria", d: "homeland, native land"}
+          - {w: "por Hepila famosa", d: "an obscure phrase; most editors read it as a corruption of 'por hacerla famosa', 'to make it famous', which is how Ormsby translates it"}
+          - {w: "Gaula", d: "Gaul; in the romance, a vague Wales or France"}
+          - {w: "añadir", d: "to add"}
+          - {w: "al vivo", d: "vividly, to the life"}
+          - {w: "linaje", d: "lineage"}
+          - {w: "sobrenombre", d: "surname, byname"}
+  - sentences:
+      - es: "Limpias, pues, sus armas, hecho del morrión celada, puesto nombre a su rocín y confirmándose a sí mismo, se dio a entender que no le faltaba otra cosa sino buscar una dama de quien enamorarse;"
+        literal: "Cleaned, then, his arms, made of the morion helmet, put name to his nag and confirming himself, he-gave-himself to understand that not to-him was-lacking other thing but to seek a lady of whom to fall-in-love;"
+        ormsby: "So then, his armour being furbished, his morion turned into a helmet, his hack christened, and he himself confirmed, he came to the conclusion that nothing more was needed now but to look out for a lady to be in love with;"
+        vocab:
+          - {w: "limpias ... hecho ... puesto", d: "absolute participles: 'his armor cleaned, a helmet made of the morion, a name given'"}
+          - {w: "confirmarse", d: "to confirm oneself; a joke on the sacrament of confirmation, at which one takes a name"}
+          - {w: "darse a entender", d: "to persuade oneself, conclude"}
+          - {w: "no faltar otra cosa sino", d: "for nothing to be lacking but"}
+          - {w: "dama", d: "lady"}
+          - {w: "enamorarse de", d: "to fall in love with"}
+      - es: "porque el caballero andante sin amores era árbol sin hojas y sin fruto y cuerpo sin alma."
+        literal: "because the knight errant without loves was tree without leaves and without fruit and body without soul."
+        ormsby: "for a knight-errant without love was like a tree without leaves or fruit, or a body without a soul."
+        vocab:
+          - {w: "amores", d: "a love, a romantic attachment; the plural is normal for one affair"}
+          - {w: "hoja", d: "leaf"}
+          - {w: "fruto", d: "fruit (as produce; 'fruta' is fruit you eat)"}
+          - {w: "alma", d: "soul"}
+      - es: "Decíase él a sí:"
+        literal: "Said-himself he to himself:"
+        ormsby: "As he said to himself,"
+        vocab:
+          - {w: "decíase", d: "= se decía, he said to himself"}
+          - {w: "a sí", d: "to himself"}
+  - sentences:
+      - es: "— Si yo, por malos de mis pecados, o por mi buena suerte, me encuentro por ahí con algún gigante, como de ordinario les acontece a los caballeros andantes, y le derribo de un encuentro, o le parto por mitad del cuerpo, o, finalmente, le venzo y le rindo, ¿no será bien tener a quien enviarle presentado y que entre y se hinque de rodillas ante mi dulce señora, y diga con voz humilde y rendido:"
+        literal: "— If I, for bad of my sins, or for my good luck, myself find out there with some giant, as of ordinary to-them happens to the knights errant, and him I-knock-down of one encounter, or him I-split by half of the body, or, finally, him I-vanquish and him I-subdue, not will-it-be good to-have to whom to send-him presented and that he-enter and himself he-sink of knees before my sweet lady, and say with voice humble and submissive:"
+        ormsby: "\"If, for my sins, or by my good fortune, I come across some giant hereabouts, a common occurrence with knights-errant, and overthrow him in one onslaught, or cleave him asunder to the waist, or, in short, vanquish and subdue him, will it not be well to have someone I may send him to as a present, that he may come in and fall on his knees before my sweet lady, and in a humble, submissive voice say,"
+        vocab:
+          - {w: "por malos de mis pecados", d: "for my sins; a set phrase, 'through the evil of my sins'"}
+          - {w: "suerte", d: "luck"}
+          - {w: "encontrarse con", d: "to run into"}
+          - {w: "por ahí", d: "out there, somewhere around"}
+          - {w: "de ordinario", d: "usually"}
+          - {w: "acontecer", d: "to happen, befall"}
+          - {w: "derribar", d: "to knock down, unhorse"}
+          - {w: "de un encuentro", d: "at one charge, in a single clash"}
+          - {w: "partir por mitad", d: "to split in half"}
+          - {w: "vencer", d: "to vanquish"}
+          - {w: "rendir", d: "to subdue, force to surrender"}
+          - {w: "enviar presentado", d: "to send as a present, as tribute"}
+          - {w: "hincarse de rodillas", d: "to kneel down"}
+          - {w: "rendido", d: "submissive, surrendered"}
+      - es: "«Yo, señora, soy el gigante Caraculiambro, señor de la ínsula Malindrania, a quien venció en singular batalla el jamás como se debe alabado caballero don Quijote de la Mancha, el cual me mandó que me presentase ante vuestra merced, para que la vuestra grandeza disponga de mí a su talante»?"
+        literal: "«I, lady, am the giant Caraculiambro, lord of the island Malindrania, whom vanquished in single battle the never as it-should-be praised knight Don Quijote of La Mancha, who me ordered that myself I-present before your mercy, so that the your greatness dispose of me at her will»?"
+        ormsby: "'I am the giant Caraculiambro, lord of the island of Malindrania, vanquished in single combat by the never sufficiently extolled knight Don Quixote of La Mancha, who has commanded me to present myself before your Grace, that your Highness dispose of me at your pleasure'?\""
+        vocab:
+          - {w: "Caraculiambro", d: "invented giant's name built from 'cara' (face) and 'culo' (backside), a rude joke"}
+          - {w: "ínsula", d: "island; the Latinate word the romances use instead of 'isla', later Sancho's obsession"}
+          - {w: "Malindrania", d: "invented, from 'malandrín', scoundrel"}
+          - {w: "singular batalla", d: "single combat"}
+          - {w: "el jamás como se debe alabado", d: "the never-sufficiently-praised; a romance-style epithet"}
+          - {w: "mandar que", d: "to order that"}
+          - {w: "vuestra merced", d: "your grace, your worship; the polite address that later shrank into 'usted'"}
+          - {w: "disponer de", d: "to dispose of, do as one likes with"}
+          - {w: "talante", d: "will, pleasure, mood"}
+  - sentences:
+      - es: "¡Oh, cómo se holgó nuestro buen caballero cuando hubo hecho este discurso, y más cuando halló a quien dar nombre de su dama!"
+        literal: "Oh, how himself rejoiced our good gentleman when he-had made this speech, and more when he-found to whom to give name of his lady!"
+        ormsby: "Oh, how our good gentleman enjoyed the delivery of this speech, especially when he had thought of someone to call his Lady!"
+        vocab:
+          - {w: "holgarse", d: "to rejoice, be delighted (archaic)"}
+          - {w: "hubo hecho", d: "had made; the literary 'preterite anterior'"}
+          - {w: "discurso", d: "speech; also train of thought"}
+          - {w: "hallar", d: "to find"}
+          - {w: "dar nombre de", d: "to give the title of"}
+      - es: "Y fue, a lo que se cree, que en un lugar cerca del suyo había una moza labradora de muy buen parecer, de quien él un tiempo anduvo enamorado, aunque, según se entiende, ella jamás lo supo, ni le dio cata dello."
+        literal: "And it-was, to what is-believed, that in a village near of his there-was a girl farm-laboring of very good looks, of whom he a time went-about in-love, although, according-as is-understood, she never it knew, nor to-it gave notice of-it."
+        ormsby: "There was, so the story goes, in a village near his own a very good-looking farm-girl with whom he had been at one time in love, though, so far as is known, she never knew it nor gave a thought to the matter."
+        vocab:
+          - {w: "a lo que se cree", d: "as is believed, so the story goes"}
+          - {w: "moza", d: "girl, young woman"}
+          - {w: "labradora", d: "farm girl, peasant"}
+          - {w: "de buen parecer", d: "good-looking"}
+          - {w: "un tiempo", d: "for a time"}
+          - {w: "andar enamorado", d: "to be in love ('andar' for an ongoing state)"}
+          - {w: "según se entiende", d: "as is understood"}
+          - {w: "dar cata de", d: "to take notice of (archaic idiom)"}
+          - {w: "dello", d: "= de ello"}
+      - es: "Llamábase Aldonza Lorenzo, y a ésta le pareció ser bien darle título de señora de sus pensamientos;"
+        literal: "Called-herself Aldonza Lorenzo, and to this-one to-him it-seemed to-be good to-give-her title of lady of his thoughts;"
+        ormsby: "Her name was Aldonza Lorenzo, and upon her he thought fit to confer the title of Lady of his Thoughts;"
+        vocab:
+          - {w: "llamábase", d: "= se llamaba"}
+          - {w: "Aldonza", d: "a rustic, unfashionable name; a proverb runs 'a falta de moza, buena es Aldonza' (if there's no girl, Aldonza will do)"}
+          - {w: "parecer ser bien", d: "to seem right"}
+          - {w: "señora de sus pensamientos", d: "lady of his thoughts, the courtly-love formula"}
+      - es: "y, buscándole nombre que no desdijese mucho del suyo, y que tirase y se encaminase al de princesa y gran señora, vino a llamarla Dulcinea del Toboso, porque era natural del Toboso;"
+        literal: "and, seeking-for-her name that not should-clash much with hers, and that should-tend and direct-itself to that of princess and great lady, he-came to call-her Dulcinea of El Toboso, because she-was native of El Toboso;"
+        ormsby: "and after some search for a name which should not be out of harmony with her own, and should suggest and indicate that of a princess and great lady, he decided upon calling her Dulcinea del Toboso, she being of El Toboso,"
+        vocab:
+          - {w: "desdecir de", d: "to clash with, be unworthy of"}
+          - {w: "tirar a", d: "to tend toward, lean toward"}
+          - {w: "encaminarse a", d: "to head toward"}
+          - {w: "Dulcinea", d: "coined from 'dulce' (sweet) with a pastoral-romance ending"}
+          - {w: "El Toboso", d: "a real village in La Mancha, some 30 miles from the traditional site of Don Quijote's home"}
+          - {w: "natural de", d: "native of"}
+      - es: "nombre, a su parecer, músico y peregrino y significativo, como todos los demás que a él y a sus cosas había puesto."
+        literal: "name, to his seeming, musical and rare and significant, like all the others that to him and to his things he-had put."
+        ormsby: "a name, to his mind, musical, uncommon, and significant, like all those he had already bestowed upon himself and the things belonging to him."
+        vocab:
+          - {w: "músico", d: "musical (used here as an adjective)"}
+          - {w: "peregrino", d: "rare, uncommon, exotic (also 'pilgrim')"}
+          - {w: "significativo", d: "meaningful"}
+          - {w: "los demás", d: "the rest, the others"}
+          - {w: "poner", d: "to give (a name)"}
+summary: |
+  An unnamed gentleman of about fifty lives in an unnamed village of La Mancha. He is an hidalgo, the lowest rung of the nobility, and a poor one: three-quarters of his income goes on a thin diet, he keeps a housekeeper, a niece, one servant, a skinny nag and a greyhound, and his surname is uncertain (Quijada, Quesada or Quejana).
+
+  He reads romances of chivalry obsessively, sells farmland to buy more, argues with the village priest and barber about which fictional knight is greatest, and finally, from too much reading and too little sleep, his brain dries out and he goes mad. He believes the books are true history and decides to become a knight-errant himself, to right wrongs and win eternal fame.
+
+  He cleans his great-grandfather's rusted armor and patches a pasteboard visor onto its open helmet. The visor fails its first sword test; he rebuilds it with iron bars and prudently declines to test it again. After four days he names his nag Rocinante, after eight more he names himself Don Quijote de la Mancha, and, since a knight-errant must have a lady, he settles on a farm girl from a nearby village whom he once admired from afar, Aldonza Lorenzo, and renames her Dulcinea del Toboso. He rehearses the speech a conquered giant will make to her.
+context: |
+  The hidalgo. An hidalgo was a member of the untitled lower nobility, exempt from taxes and forbidden by pride from manual work or trade. Many were poor. The famous diet paragraph is a precise class marker: beef was cheaper than mutton, lentils were fast-day food for Fridays, 'duelos y quebrantos' was a cheap Saturday dish permitted on a day of semi-abstinence in Castile, and a pigeon was a Sunday luxury. His clothes tell the same story: fine broadcloth and velvet only for feast days, undyed homespun during the week. Keeping a lance, a shield, a horse and a hunting greyhound is what marks him as gentry at all.
+
+  The romances of chivalry. Amadís de Gaula (1508), its many sequels (several by Feliciano de Silva), Palmerín de Inglaterra, Belianís de Grecia and the Caballero del Febo were the bestsellers of sixteenth-century Spain, condemned by moralists as lies that corrupted readers. Cervantes said in his prologue that his purpose was to destroy the authority of these books. By 1605 the genre was already dying, so the parody is partly affectionate. The two quotations Don Quijote admires are real, lightly altered, and were already notorious as examples of bad style. The Carolingian names (Roldán, Bernardo del Carpio, Reinaldos de Montalbán, Galalón, Morgante) come from Spanish ballads and Italian epics, which he ranks alongside the historical Cid as if all were equally true. This confusion of 'historia' (which means both history and story) is the seed of his madness.
+
+  The narrator's game. 'The authors who write of this case', 'this so true history', 'as has been said': Cervantes imitates the pose of the romances, which claimed to be translations of ancient chronicles. The fictional Arabic historian Cide Hamete Benengeli will appear in Chapter 9 and take this joke much further. The narrator's refusal to name the village, and his inability to settle the hero's surname, are part of the same mock-scholarship.
+
+  Madness and medicine. Renaissance medicine followed Galen: the brain needed moisture, and sleeplessness and hard study dried it out, producing mania. Cervantes' description is medically orthodox for its time. The hidalgo's lean, dry build ('seco de carnes, enjuto de rostro') already suggests the choleric temperament prone to this.
+
+  The names. Quijada is a jawbone and quesada a cheesecake. A quijote is the piece of armor over the thigh, and the suffix -ote is comic and slightly ridiculous. Rocinante fuses 'rocín' (nag) with 'antes' (before): formerly a nag, and first among nags. Dulcinea is built on 'dulce' (sweet) in the manner of pastoral heroines like Melibea, while Aldonza was proverbially a coarse country name. Caraculiambro combines 'face' and 'backside', Malindrania comes from 'scoundrel', and 'ínsula' is the pompous Latin word for island that the romances used; Sancho Panza will spend the rest of the book hoping to govern one.
+
+  Knight-errantry as a checklist. Armor, horse, a resounding name, and a lady to serve are the formal requirements of the genre, and Don Quijote assembles them one by one. He forgets that a knight must be dubbed by another knight, which becomes the plot of Chapter 3. His plan to send defeated giants to kneel before his lady is exactly what happens in Amadís.
+
+  Reading Cervantes' Spanish. Expect these archaisms throughout: initial f- for modern h- (fermosura); contractions of 'de' with pronouns (della, dél, deste, desta, dellos, dello); object pronouns attached to conjugated verbs (Llenósele, Limpiólas, Decíase, Llamábase, Imaginábase); the -ra form of the subjunctive used as a conditional or pluperfect (hiciera, diera, saliera); 'ha' for 'hace' in time expressions; and older spellings such as mesmo, ansí, efeto, estraño, letura, celebro, recebir, priesa, luengo, lantejas, entricado, encantamento. Ormsby's translation is faithful but Victorian; where the literal gloss and Ormsby disagree, the gloss follows the Spanish.
