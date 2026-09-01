@@ -122,15 +122,11 @@ breaks because Kindle shows only the first block of a note.
 ## 7. Build and check
 
     make verify     # Spanish still matches Gutenberg
-    make check      # builds dist/dq-p1c01.epub and runs epubcheck; must be clean
+    make check      # builds dist/don-quijote-anotado.epub from every chapter; epubcheck must be clean
     make site       # assembles _site/ for the browser reader
 
 Then send the EPUB to the Kindle and read the chapter there. The things that
 have needed fixing on the device so far are in the git log.
 
-## Not yet generalized
-
-The build, the `site` target and `site/index.html` still assume one EPUB named
-`dq-p1c01.epub`. Before adding a second chapter, change `make build` to pass
-every `content/part*/ch*.yaml` to `tools/build_epub.py` (it already accepts
-several) and rename the output.
+Every `content/part*/ch*.yaml` goes into the one EPUB; a new chapter is picked up
+by the build as soon as the file exists.

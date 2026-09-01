@@ -13,7 +13,7 @@ Read it in the browser: <https://frioux.github.io/don-quijote-anotado/> (the sam
 
     make fetch      # download sources into sources/ (already committed)
     make skeleton PART=1 CHAPTER_NUM=2   # skeleton YAML for a chapter
-    make build      # tools/build_epub.py -> dist/dq-p1c01.epub
+    make build      # all content/part*/ch*.yaml -> dist/don-quijote-anotado.epub
     make check      # epubcheck (brew install epubcheck)
     make verify     # confirm the Spanish body still matches Gutenberg verbatim
     make site       # assemble _site/ (viewer page + EPUB) for GitHub Pages
@@ -35,6 +35,6 @@ The editorial rules for filling in a chapter are in ANNOTATING.md.
 
 ## Reading it on a Kindle
 
-Send `dist/dq-p1c01.epub` via <https://www.amazon.com/sendtokindle> or your
+Send `dist/don-quijote-anotado.epub` via <https://www.amazon.com/sendtokindle> or your
 Send-to-Kindle email address. Tap a superscript number to open the note;
 long-press a Spanish word for the Kindle Spanish dictionary.

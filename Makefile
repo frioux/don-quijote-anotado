@@ -2,7 +2,8 @@ PY ?= python3
 PART ?= 1
 CHAPTER_NUM ?= 1
 CHAPTER ?= content/part$(PART)/ch$(shell printf %02d $(CHAPTER_NUM)).yaml
-OUT ?= dist/dq-p1c01.epub
+CHAPTERS := $(sort $(wildcard content/part*/ch[0-9][0-9].yaml))
+OUT ?= dist/don-quijote-anotado.epub
 
 .PHONY: fetch skeleton build check verify site clean
 
@@ -19,13 +20,13 @@ skeleton:
 
 build:
 	mkdir -p dist
-	$(PY) tools/build_epub.py $(CHAPTER) $(OUT)
+	$(PY) tools/build_epub.py $(CHAPTERS) $(OUT)
 
 check: build
 	epubcheck $(OUT)
 
 verify:
-	$(PY) tools/verify_text.py $(CHAPTER)
+	for c in $(CHAPTERS); do $(PY) tools/verify_text.py $$c || exit 1; done
 
 clean:
 	rm -rf dist _site
