@@ -12,13 +12,15 @@ Read it in the browser: <https://frioux.github.io/don-quijote-anotado/> (the sam
 ## Build
 
     make fetch      # download sources into sources/ (already committed)
-    make skeleton   # tools/extract_chapter.py -> content/partN/chNN.yaml skeleton
+    make skeleton PART=1 CHAPTER_NUM=2   # skeleton YAML for a chapter
     make build      # tools/build_epub.py -> dist/dq-p1c01.epub
     make check      # epubcheck (brew install epubcheck)
     make verify     # confirm the Spanish body still matches Gutenberg verbatim
     make site       # assemble _site/ (viewer page + EPUB) for GitHub Pages
 
 Requirements: Python 3.9+, PyYAML, epubcheck.
+
+The editorial rules for filling in a chapter are in ANNOTATING.md.
 
 ## Layout
 
