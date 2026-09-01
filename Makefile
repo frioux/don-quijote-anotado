@@ -2,7 +2,7 @@ PY ?= python3
 CHAPTER ?= content/part1/ch01.yaml
 OUT ?= dist/dq-p1c01.epub
 
-.PHONY: fetch skeleton build check verify clean
+.PHONY: fetch skeleton build check verify site clean
 
 fetch:
 	mkdir -p sources
@@ -25,4 +25,10 @@ verify:
 	$(PY) tools/verify_text.py $(CHAPTER)
 
 clean:
-	rm -rf dist
+	rm -rf dist _site
+
+# Static site for GitHub Pages: the viewer page plus the built EPUB.
+site: build
+	rm -rf _site && mkdir -p _site
+	cp site/index.html _site/
+	cp $(OUT) _site/

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Don Quijote anotado</title>
+<style>
+  :root { color-scheme: light dark; --bg: #faf8f3; --fg: #222; --bar: #f0ece2; --line: #d8d2c4; --accent: #7a3b1e; --pop: #fffdf8; }
+  @media (prefers-color-scheme: dark) { :root { --bg: #1b1a18; --fg: #e8e4dc; --bar: #26241f; --line: #3d392f; --accent: #e0a070; --pop: #26241f; } }
+  html, body { height: 100%; margin: 0; background: var(--bg); color: var(--fg); font-family: Georgia, "Times New Roman", serif; }
+  header { display: flex; flex-wrap: wrap; gap: .5rem 1rem; align-items: center; padding: .5rem 1rem; background: var(--bar); border-bottom: 1px solid var(--line); font-family: system-ui, sans-serif; font-size: .9rem; }
+  header h1 { font-size: 1rem; margin: 0 auto 0 0; font-weight: 600; }
+  header a { color: var(--accent); }
+  button, select { font: inherit; padding: .25rem .6rem; background: var(--bg); color: var(--fg); border: 1px solid var(--line); border-radius: 4px; cursor: pointer; }
+  #viewer { height: calc(100% - 3.2rem); }
+  #viewer iframe { border: 0; }
+  #overlay { position: fixed; inset: 0; background: rgba(0,0,0,.35); display: none; align-items: flex-end; justify-content: center; z-index: 10; }
+  #overlay.open { display: flex; }
+  #popup { background: var(--pop); color: var(--fg); max-width: 44rem; width: 100%; max-height: 70vh; overflow: auto; padding: 1rem 1.25rem 1.25rem; border-radius: 10px 10px 0 0; box-shadow: 0 -4px 24px rgba(0,0,0,.3); line-height: 1.5; box-sizing: border-box; }
+  @media (min-width: 700px) { #overlay { align-items: center; } #popup { border-radius: 10px; margin: 1rem; } }
+  #popup .close { float: right; font-family: system-ui, sans-serif; }
+  #popup a.back { display: none; }
+  #help { max-width: 44rem; margin: 2rem auto; padding: 0 1rem; line-height: 1.5; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Don Quijote de la Mancha · edición anotada</h1>
+  <button id="prev" title="Anterior">‹</button>
+  <select id="toc" title="Índice"></select>
+  <button id="next" title="Siguiente">›</button>
+  <a id="download" href="dq-p1c01.epub" download>Download EPUB</a>
+  <a href="https://github.com/frioux/don-quijote-anotado">GitHub</a>
+</header>
+<div id="viewer"></div>
+<div id="overlay"><div id="popup"></div></div>
+
+<script src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/epubjs@0.3.93/dist/epub.min.js"></script>
+<script>
+(function () {
+  var EPUB = "dq-p1c01.epub";
+  var overlay = document.getElementById("overlay");
+  var popup = document.getElementById("popup");
+  var viewerEl = document.getElementById("viewer");
+
+  function showNote(html) {
+    popup.innerHTML = '<button class="close" type="button">Close ✕</button>' + html;
+    overlay.classList.add("open");
+    popup.scrollTop = 0;
+  }
+  function hideNote() { overlay.classList.remove("open"); }
+  overlay.addEventListener("click", function (e) {
+    if (e.target === overlay || e.target.classList.contains("close")) hideNote();
+  });
+  document.addEventListener("keydown", function (e) { if (e.key === "Escape") hideNote(); });
+
+  if (typeof ePub !== "function") {
+    viewerEl.innerHTML = '<div id="help"><p>The reader library could not be loaded. You can still <a href="' + EPUB + '">download the EPUB</a>.</p></div>';
+    return;
+  }
+
+  var book = ePub(EPUB);
+  var rendition = book.renderTo("viewer", { flow: "scrolled-doc", width: "100%", height: "100%" });
+  rendition.themes.default({
+    "body": { "background": "transparent", "color": "inherit", "max-width": "42rem", "margin": "0 auto", "padding": "1rem 1.25rem 4rem" },
+    "a.nr": { "color": "#7a3b1e" }
+  });
+
+  // Footnote pop-ups: intercept clicks on noteref links inside the chapter
+  // iframe and show the target <aside> in an overlay on this page.
+  rendition.hooks.content.register(function (contents) {
+    var doc = contents.document;
+    var links = doc.querySelectorAll("a.nr");
+    Array.prototype.forEach.call(links, function (a) {
+      a.addEventListener("click", function (e) {
+        var href = a.getAttribute("href") || "";
+        if (href.charAt(0) !== "#") return;
+        var target = doc.getElementById(href.slice(1));
+        if (!target) return;
+        e.preventDefault();
+        e.stopPropagation();
+        showNote(target.innerHTML);
+      }, true);
+    });
+  });
+
+  rendition.display();
+
+  document.getElementById("prev").addEventListener("click", function () { rendition.prev(); });
+  document.getElementById("next").addEventListener("click", function () { rendition.next(); });
+
+  var toc = document.getElementById("toc");
+  book.loaded.navigation.then(function (nav) {
+    nav.toc.forEach(function (item) {
+      var opt = document.createElement("option");
+      opt.value = item.href; opt.textContent = item.label.trim();
+      toc.appendChild(opt);
+    });
+  });
+  toc.addEventListener("change", function () { rendition.display(toc.value); });
+  rendition.on("relocated", function (loc) {
+    var href = loc && loc.start && loc.start.href;
+    if (!href) return;
+    for (var i = 0; i < toc.options.length; i++) {
+      if (toc.options[i].value.split("#")[0] === href) { toc.selectedIndex = i; break; }
+    }
+  });
+})();
+</script>
+</body>
+</html>

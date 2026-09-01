@@ -7,6 +7,8 @@ context note. Built for Kindle (pop-up footnotes) but standard EPUB3.
 
 Status: pilot. Part I, Chapter 1 only.
 
+Read it in the browser: <https://frioux.github.io/don-quijote-anotado/> (the same EPUB, rendered with epub.js; tap a number for the note). The EPUB itself is built and published by GitHub Actions on every push.
+
 ## Build
 
     make fetch      # download sources into sources/ (already committed)
@@ -14,6 +16,7 @@ Status: pilot. Part I, Chapter 1 only.
     make build      # tools/build_epub.py -> dist/dq-p1c01.epub
     make check      # epubcheck (brew install epubcheck)
     make verify     # confirm the Spanish body still matches Gutenberg verbatim
+    make site       # assemble _site/ (viewer page + EPUB) for GitHub Pages
 
 Requirements: Python 3.9+, PyYAML, epubcheck.
 
@@ -25,6 +28,8 @@ Requirements: Python 3.9+, PyYAML, epubcheck.
     tools/verify_text.py      YAML Spanish == Gutenberg Spanish
     tools/style.css           reader stylesheet
     sources/                  raw public-domain sources, see SOURCES.md
+    site/index.html           browser reader for GitHub Pages (epub.js)
+    .github/workflows/        builds, validates and deploys on push
 
 ## Reading it on a Kindle
 
