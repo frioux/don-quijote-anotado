@@ -2,7 +2,8 @@
 
 An EPUB whose body is Cervantes' original Spanish. Every sentence carries a
 footnote with a word-for-word gloss, John Ormsby's 1885 English translation of
-the same sentence, and a vocabulary list. Each chapter ends with a summary and
+the same sentence, a vocabulary list, and a grammar breakdown of the sentence
+(conjugations, function words, agreement, word order). Each chapter ends with a summary and
 context note. Built for Kindle (pop-up footnotes) but standard EPUB3.
 
 Status: pilot. Part I, Chapter 1 only.
