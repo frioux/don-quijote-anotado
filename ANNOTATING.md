@@ -105,7 +105,57 @@ only say "See here" point into his preface; replace them with your own `note`.
 gloss nor the vocabulary carries: a pun, a genre convention, a medical or
 social fact. Two sentences at most.
 
-## 6. Summary and context
+## 6. Grammar
+
+`grammar` is the section after the vocabulary. It takes the sentence apart for a
+reader who wants to learn the Spanish, not just decode it: a one-line map of the
+sentence and then each chunk, in order, with what its words are doing.
+
+    grammar:
+      structure: "One main clause, 'vivía un hidalgo', verb before subject, ..."
+      parts:
+        - s: "En un lugar de la Mancha"
+          g: "Prepositional phrase of place. 'en' (in) + 'un', indefinite ..."
+
+`structure` is one or two sentences naming the main clause and how the rest
+hangs off it (fronted adverbials, relative clauses, result or conditional
+constructions, absolute participles). `parts` walks the sentence from left to
+right; `s` is the chunk quoted exactly as Cervantes wrote it, `g` its analysis.
+Chunk at clause and phrase boundaries, five to eight parts for an ordinary
+sentence, more for the long ones.
+
+What `g` covers, in this order of priority:
+
+- Every finite verb: infinitive with its meaning in parentheses, person and
+  number, tense and mood, and anything irregular (stem change, irregular
+  preterite stem, spelling change). Person and number are abbreviated
+  `1st sg.`, `3rd pl.` and so on; add the pronoun when it helps (`3rd sg.
+  (él)`). Give the full paradigm the first time a pattern appears in the
+  chapter (the -ía imperfect, the -aba imperfect, regular -ar and -er
+  preterites, the -ra and -se imperfect subjunctives, the conditional, the
+  pluperfect); after that, point back with "(see note N)".
+- Every infinitive, gerund and participle: the verb it comes from with its
+  meaning, and what governs it (`para` + infinitive, `venir a` + infinitive,
+  absolute participle with its own subject).
+- Function words by function: which `de` this is (of, from, by, made of,
+  characterized by), what `que` is doing (relative, conjunction, loose causal
+  `que`), what triggers a subjunctive, `sino` after a negative, `así ... como`,
+  the personal `a`, `lo` + adjective.
+- Clitics: which pronoun, what it refers to, why it is where it is (enclitic
+  on a finite verb, doubled indirect object, `se` for `le` before `lo`,
+  leísmo).
+- Agreement and word order whenever a form changes to match something or the
+  order differs from English (verb before subject, adjective after noun,
+  apocope: `gran`, `buen`, `algún`).
+- Archaic forms point to the modern equivalent and the modern pattern
+  (`ha` for `hace` + time + `que`; `della`; `-ra` as conditional).
+
+Nouns and their meanings belong in `vocab`; mention a noun in `g` only for its
+gender, number or article. Never name a verb by a bare infinitive: it is always
+`querer (to want)`, so the reader is never sent to the dictionary by the note
+that is supposed to explain the sentence. Use single quotes inside `g`.
+
+## 7. Summary and context
 
 `summary` is three or four short paragraphs in English telling what happens.
 Spoilers within the chapter are fine; nothing from later chapters.
@@ -119,7 +169,7 @@ chapter). Draw on Ormsby's notes and introduction and say so when you do.
 Paragraphs are separated by blank lines; the builder joins them with line
 breaks because Kindle shows only the first block of a note.
 
-## 7. Build and check
+## 8. Build and check
 
     make verify     # Spanish still matches Gutenberg
     make check      # builds dist/don-quijote-anotado.epub from every chapter; epubcheck must be clean

@@ -32,6 +32,18 @@ def esc(s: str) -> str:
     return html.escape(s, quote=False)
 
 
+def grammar_html(g: dict, br: str) -> str:
+    """The grammar section of a note: a one-line map of the sentence, then
+    each chunk of the Spanish with its analysis (conjugation, agreement,
+    function words), in sentence order."""
+    lines = ["<b>Grammar</b>"]
+    if g.get("structure"):
+        lines.append(esc(g["structure"]))
+    for part in g.get("parts", []):
+        lines.append(f'• <b xml:lang="es" lang="es">{esc(part["s"])}</b> — {esc(part["g"])}')
+    return br.join(lines)
+
+
 def chapter_xhtml(doc: dict, cid: str) -> str:
     title_es = doc["title_es"]
     head, _, sub = title_es.partition(". ")
@@ -70,6 +82,8 @@ def chapter_xhtml(doc: dict, cid: str) -> str:
         if s.get("vocab"):
             items = BR.join(f'• <b xml:lang="es" lang="es">{esc(v["w"])}</b> — {esc(v["d"])}' for v in s["vocab"])
             parts.append(f"<b>Vocabulary</b>{BR}{items}")
+        if s.get("grammar"):
+            parts.append(grammar_html(s["grammar"], BR))
         if s.get("ormsby_note"):
             parts.append(f"<b>Ormsby's note:</b> {esc(s['ormsby_note'])}")
         if s.get("note"):
@@ -98,11 +112,18 @@ def title_xhtml(chapters) -> str:
     out.append('<div xml:lang="en" lang="en">\n')
     out.append("<p class=\"howto\"><b>How to read this book.</b> The text is Cervantes' original Spanish "
                "(Project Gutenberg #2000). Every sentence ends with a small number. Tap it for a note with "
-               "three parts: John <b>Ormsby</b>'s 1885 translation of the same sentence, a word-for-word "
-               "<b>literal</b> gloss that follows the Spanish order, and a <b>vocabulary</b> list of the "
-               "words an intermediate reader is likely to need. Where Ormsby wrote a translator's note on "
-               "that sentence it is included. The § mark at the end of a chapter opens a summary and a "
+               "four parts: John <b>Ormsby</b>'s 1885 translation of the same sentence, a word-for-word "
+               "<b>literal</b> gloss that follows the Spanish order, a <b>vocabulary</b> list of the "
+               "words an intermediate reader is likely to need, and a <b>grammar</b> breakdown that walks "
+               "through the sentence clause by clause: how each verb is conjugated, what the small words "
+               "(prepositions, pronouns, conjunctions) are doing, and how the pieces agree. Where Ormsby "
+               "wrote a translator's note on that sentence it is included. The § mark at the end of a chapter opens a summary and a "
                "context note for the whole chapter.</p>\n")
+    out.append("<p class=\"howto\">In the grammar section every verb is given as its infinitive with its "
+               "meaning, then person and number (<i>1st sg.</i> = I, <i>2nd sg.</i> = you, <i>3rd sg.</i> = "
+               "he, she, it, <i>1st pl.</i> = we, <i>2nd pl.</i> = you all, <i>3rd pl.</i> = they), tense and mood. "
+               "A conjugation pattern is written out in full the first time it appears in a chapter and later "
+               "notes point back to that note by number.</p>\n")
     out.append("<p class=\"howto\">Archaic spellings are kept as Cervantes wrote them (<i>mesmo</i> for "
                "<i>mismo</i>, <i>della</i> for <i>de ella</i>, <i>fermosura</i> for <i>hermosura</i>) and are "
                "glossed the first time they matter. Long-press any Spanish word for the Kindle dictionary.</p>\n")

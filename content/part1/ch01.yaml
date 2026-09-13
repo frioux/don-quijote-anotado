@@ -21,6 +21,19 @@ paragraphs:
           - {w: "flaco", d: "skinny, lean"}
           - {w: "galgo", d: "greyhound"}
           - {w: "corredor", d: "running, i.e. kept for coursing hares"}
+        grammar:
+          structure: "One main clause, 'vivía un hidalgo', with the verb before its subject. It is framed by a place phrase at the front ('En un lugar de la Mancha', with a relative clause hung on 'lugar') and a time phrase ('no ha mucho tiempo que'). Everything after 'hidalgo' is one long modifier, 'de los de ...', followed by a list of four possessions."
+          parts:
+            - s: "En un lugar de la Mancha"
+              g: "Prepositional phrase of place. 'en' (in) + 'un', indefinite article, masc. sing., agreeing with 'lugar' (masc.). 'de la Mancha' is a second prepositional phrase modifying 'lugar': 'de' (of) + 'la', definite article, fem. sing. Some place names carry their article (la Mancha, el Perú, la Habana) and keep it after prepositions."
+            - s: "de cuyo nombre no quiero acordarme"
+              g: "Relative clause modifying 'lugar'. 'cuyo' is the relative possessive 'whose'. It agrees with the thing possessed ('nombre', masc. sing.), never with the possessor, so cuyo / cuya / cuyos / cuyas. The 'de' at the front belongs to the verb: 'acordarse de algo' governs 'de', and Spanish moves the preposition to the head of the relative clause along with the relative; it can never be left dangling at the end as in English 'whose name I don't want to remember [of]'. 'no' negates the verb that follows. 'quiero' is querer (to want; also to love), 1st sg., present indicative, stem-changing e→ie: quiero, quieres, quiere, queremos, queréis, quieren. 'acordarme' is the infinitive acordar (to agree on, to resolve) with the reflexive clitic 'me' attached; the pronominal form acordarse de (to remember) is a different verb in meaning, and it is the one used here. The clitic matches the subject of 'quiero' (I). After a conjugated verb + infinitive the clitic can go in either place: 'no quiero acordarme' = 'no me quiero acordar'. The 'I' is the narrator."
+            - s: "no ha mucho tiempo que"
+              g: "'ha' is haber (to have, but only as a helper verb: it forms compound tenses like 'he vivido', and used impersonally it means 'there is / there are'), 3rd sg., present indicative. Here it is impersonal and measures elapsed time, the way modern Spanish uses 'hace' from hacer (to do, to make): 'no hace mucho tiempo que' = 'it is not long since'. Pattern to learn: hace + time + que + verb ('hace dos años que vivo aquí'). 'mucho' is an adjective agreeing with masc. sing. 'tiempo'. 'que' is the conjunction that links the time expression to the clause it measures."
+            - s: "vivía un hidalgo"
+              g: "'vivía' is vivir (to live), 3rd sg., imperfect indicative. The -er/-ir imperfect is fully regular: vivía, vivías, vivía, vivíamos, vivíais, vivían. Imperfect because this is background, an ongoing state ('there lived', 'was living'), against which the chapter's preterites will mark events. The subject 'un hidalgo' comes after the verb: verb-subject order is normal in Spanish when a new subject is being introduced, especially after a fronted adverbial. English has to supply 'there' ('there lived')."
+            - s: "de los de lanza en astillero, adarga antigua, rocín flaco y galgo corredor"
+              g: "'de los de' is two different 'de's. The first 'de' is 'of, among' (one of); 'los' is the definite article standing alone as a pronoun, 'those [men]', masc. pl.; the second 'de' is 'with, characterized by', the 'de' of attribute ('la mujer de los ojos verdes', the woman with the green eyes). Then four noun phrases with no articles, because it is a generic list of the kind of thing such men own. 'lanza en astillero': noun + prepositional phrase, 'en' = in/on. 'adarga antigua': feminine noun + feminine singular adjective, agreement in gender. 'rocín flaco': masculine noun + masculine adjective. 'galgo corredor': 'corredor' is an adjective built from correr (to run) with the suffix -dor, which makes agent words: madrugar (to get up early) → madrugador, cazar (to hunt) → cazador. Descriptive adjectives follow the noun, the normal Spanish order. 'y' appears only before the last item."
         note: "The most famous opening line in Spanish literature. The narrator's refusal to name the village is a joke at the expense of chivalric romances, which always name everything grandly. Ormsby's own note on this sentence simply points to his preface, where he discusses the tradition that the village is Argamasilla de Alba."
       - es: "Una olla de algo más vaca que carnero, salpicón las más noches, duelos y quebrantos los sábados, lantejas los viernes, algún palomino de añadidura los domingos, consumían las tres partes de su hacienda."
         literal: "A pot of somewhat more cow than mutton, cold-hash the most nights, griefs and breakings the Saturdays, lentils the Fridays, some squab of addition the Sundays, consumed the three parts of his estate."
@@ -37,6 +50,17 @@ paragraphs:
           - {w: "de añadidura", d: "as an extra, into the bargain"}
           - {w: "las tres partes", d: "three parts (of four), i.e. three-quarters"}
           - {w: "hacienda", d: "estate, property, income"}
+        grammar:
+          structure: "A long compound subject, five dishes, comes first; the verb 'consumían' comes last, then its object 'las tres partes de su hacienda'. The verb is plural because the five-item subject is plural."
+          parts:
+            - s: "Una olla de algo más vaca que carnero"
+              g: "'una', indefinite article, fem. sing., agreeing with 'olla'. 'de' = of (the contents). 'más ... que' is the comparative 'more ... than'; 'algo' here is an adverb, 'somewhat, rather', softening 'más'. 'vaca' and 'carnero' have no article because they are mass nouns (beef, mutton)."
+            - s: "salpicón las más noches, duelos y quebrantos los sábados, lantejas los viernes"
+              g: "Time expressions with no preposition: Spanish says 'on Saturdays' with the definite article alone, 'los sábados'. The plural article makes it habitual (every Saturday). Days ending in -s do not change in the plural ('el viernes', 'los viernes'). 'las más noches' is an older way of saying 'la mayoría de las noches', most nights."
+            - s: "algún palomino de añadidura los domingos"
+              g: "'algún' is 'alguno' shortened before a masc. sing. noun (apocope), like 'un', 'ningún', 'buen', 'primer'. 'de añadidura' is an adverbial phrase, 'as an extra'. 'los domingos', again the article for 'on Sundays'."
+            - s: "consumían las tres partes de su hacienda"
+              g: "'consumían' is consumir (to consume, to use up), 3rd pl., imperfect indicative, the same -ía endings as 'vivía' (see note 1). Plural to agree with the five dishes that make up the subject. Habitual imperfect: this is what the food 'used to eat up'. 'las tres partes': numeral with the definite article. 'su' is the possessive adjective for his/her/their; it has one form for all three and agrees only in number with the noun that follows ('su hacienda', 'sus pantuflos')."
         ormsby_note: "The national dish, the olla, of which the puchero of Central and Northern Spain is a poor relation, is a stew with beef, bacon, sausage, chickpeas, and cabbage for its prime constituents, and for ingredients any other meat or vegetable that may be available. There is nothing exceptional in Don Quixote's olla being more a beef than a mutton one, for mutton is scarce in Spain except in the mountain districts. Salpicon (salad) is meat minced with red peppers, onions, oil, and vinegar, and is in fact a sort of meat salad. Duelos y quebrantos, the title of the Don's Saturday dish, would be a puzzle even to the majority of Spanish readers were it not for Pellicer's explanation. In the cattle-feeding districts of Spain, the carcasses of animals that came to an untimely end were converted into salt meat, and the parts unfit for that purpose were sold cheap under the name of duelos y quebrantos, 'sorrows and losses' (literally 'breakings'), and were held to be sufficiently unlike meat to be eaten on days when flesh was forbidden, among which in Castile Saturday was included in commemoration of the battle of Navas de Tolosa. Any rendering of such a phrase must necessarily be unsatisfactory, and in adopting 'scraps' I have, as in the other cases, merely gone on the principle of choosing the least of evils."
       - es: "El resto della concluían sayo de velarte, calzas de velludo para las fiestas, con sus pantuflos de lo mesmo, y los días de entresemana se honraba con su vellorí de lo más fino."
         literal: "The rest of-it finished-off tunic of fine-broadcloth, breeches of velvet for the feast-days, with their slippers of the same, and the days of mid-week he-honored-himself with his homespun of the most fine."
@@ -54,6 +78,17 @@ paragraphs:
           - {w: "entresemana", d: "weekdays, midweek"}
           - {w: "honrarse con", d: "to do oneself proud with, to dress up in"}
           - {w: "vellorí", d: "undyed grey homespun wool"}
+        grammar:
+          structure: "Two clauses joined by 'y'. In the first the object comes first ('El resto della'), then the verb 'concluían', then the plural subject (the clothes): object-verb-subject. In the second the subject is 'he', understood, with 'se honraba con su vellorí' and a time phrase 'los días de entresemana'."
+          parts:
+            - s: "El resto della"
+              g: "'della' = de + ella; 'ella' refers to 'hacienda' (fem.), so 'of it'. Cervantes fuses 'de' with él / ella / ellos / ellas / este / esta (dél, della, dellos, deste, desta). Modern Spanish keeps only de + el = del. This phrase is the direct object of 'concluían', placed first."
+            - s: "concluían sayo de velarte, calzas de velludo para las fiestas"
+              g: "'concluían' is concluir (to conclude, to finish; here to use up), 3rd pl., imperfect indicative. Verbs in -uir are regular in the imperfect (concluía, concluías ...). The subject follows the verb and is the whole list 'sayo ..., calzas ..., pantuflos', hence the plural. 'sayo de velarte': this 'de' = made of (material). 'calzas' is plural because garments worn in pairs are plural, like 'pantalones'. 'para' = for (the occasion)."
+            - s: "con sus pantuflos de lo mesmo"
+              g: "'sus' is the possessive in the plural, agreeing with 'pantuflos', not with the owner. 'de lo mesmo' = 'de lo mismo': 'lo' is the neuter article, placed before an adjective to make an abstract noun: 'lo mismo' = the same [stuff], 'lo bueno' = what is good, 'lo más fino' = the finest."
+            - s: "y los días de entresemana se honraba con su vellorí de lo más fino"
+              g: "'los días de entresemana' = on weekdays (article, no preposition, as in note 2). 'se honraba' is honrar (to honor), 3rd sg., imperfect indicative, with the reflexive 'se': honrarse con = to do oneself proud with. This is the first -ar imperfect: honraba, honrabas, honraba, honrábamos, honrabais, honraban. A reflexive clitic goes before a conjugated verb. 'de lo más fino': neuter 'lo' + superlative 'más fino' = 'of the very finest'."
       - es: "Tenía en su casa una ama que pasaba de los cuarenta, y una sobrina que no llegaba a los veinte, y un mozo de campo y plaza, que así ensillaba el rocín como tomaba la podadera."
         literal: "He-had in his house a housekeeper who passed of the forty, and a niece who not arrived at the twenty, and a lad of field and square, who as-much saddled the nag as took-up the pruning-hook."
         ormsby: "He had in his house a housekeeper past forty, a niece under twenty, and a lad for the field and marketplace, who used to saddle the hack as well as handle the billhook."
@@ -67,6 +102,19 @@ paragraphs:
           - {w: "así ... como", d: "as much ... as, both ... and"}
           - {w: "ensillar", d: "to saddle"}
           - {w: "podadera", d: "pruning hook, billhook"}
+        grammar:
+          structure: "One main verb, 'Tenía', with the subject omitted (he, the hidalgo; Spanish drops subject pronouns because the verb ending carries the person). Three direct objects joined by 'y', each followed by a relative clause introduced by 'que'."
+          parts:
+            - s: "Tenía en su casa"
+              g: "'Tenía' is tener (to have), 3rd sg. (él), imperfect indicative. tener is irregular in the present (tengo, tienes) and the preterite (tuve), but regular in the imperfect. 'en su casa' = in his house."
+            - s: "una ama que pasaba de los cuarenta"
+              g: "'una ama': modern Spanish writes 'un ama', because feminine nouns beginning with stressed a- take 'el' / 'un'; Cervantes still writes 'una'. 'que' is the relative pronoun (who), subject of its clause. 'pasaba' is pasar (to pass), 3rd sg., imperfect; 'pasar de' + 'los cuarenta' = to be over forty. Ages take the article: 'los cuarenta [años]'."
+            - s: "y una sobrina que no llegaba a los veinte"
+              g: "'llegaba' is llegar (to arrive, to reach), 3rd sg., imperfect, negated by 'no'; 'llegar a' = to reach. Same age-with-article pattern: 'los veinte'."
+            - s: "y un mozo de campo y plaza"
+              g: "'de' = for (function): a lad for field and market. Nouns take no article after this kind of 'de' when they describe a type."
+            - s: "que así ensillaba el rocín como tomaba la podadera"
+              g: "'así ... como' is a correlative, 'as readily ... as'; modern Spanish would say 'tanto ... como'. 'ensillaba' is ensillar (to saddle) and 'tomaba' is tomar (to take, to take up), both 3rd sg., imperfect, for habitual actions. 'el rocín' and 'la podadera' are direct objects; the articles agree masc. / fem."
       - es: "Frisaba la edad de nuestro hidalgo con los cincuenta años; era de complexión recia, seco de carnes, enjuto de rostro, gran madrugador y amigo de la caza."
         literal: "Bordered the age of our gentleman with the fifty years; he-was of constitution robust, dry of fleshes, lean of face, great early-riser and friend of the hunt."
         ormsby: "The age of this gentleman of ours was bordering on fifty; he was of a hardy habit, spare, gaunt-featured, a very early riser and a great sportsman."
@@ -80,6 +128,17 @@ paragraphs:
           - {w: "madrugador", d: "early riser (madrugar = to get up early)"}
           - {w: "amigo de", d: "fond of"}
           - {w: "caza", d: "hunting"}
+        grammar:
+          structure: "Two clauses joined by a semicolon. The first has the verb first, 'Frisaba', and its subject 'la edad de nuestro hidalgo' after it. The second is 'era' + a string of four predicate descriptions."
+          parts:
+            - s: "Frisaba la edad de nuestro hidalgo con los cincuenta años"
+              g: "'Frisaba' is frisar (to border on; today mostly 'to frizz' cloth), 3rd sg., imperfect (the -aba pattern, see note 3). The subject 'la edad' follows the verb. 'nuestro' is the possessive 'our', 1st pl., agreeing with 'hidalgo' (masc. sing.): nuestro / nuestra / nuestros / nuestras. The narrator claims the hidalgo as 'ours'. 'con' is the preposition frisar governs. Ages again with the definite article: 'los cincuenta años'."
+            - s: "era de complexión recia"
+              g: "'era' is ser (to be), 3rd sg., imperfect. ser's imperfect is irregular: era, eras, era, éramos, erais, eran. 'ser de' + noun = to be of (a quality). 'recia' is fem. to agree with 'complexión'; nouns in -ión are feminine."
+            - s: "seco de carnes, enjuto de rostro"
+              g: "Adjective + 'de' + noun of respect: 'dry as to flesh', 'lean as to face'. This 'de' limits the adjective to a body part; the pattern survives in 'ancho de hombros' (broad-shouldered). Both adjectives are masc. sing., agreeing with the hidalgo, the subject of 'era'."
+            - s: "gran madrugador y amigo de la caza"
+              g: "'gran' is 'grande' shortened before a singular noun of either gender (apocope, like 'buen', 'algún'); before the noun it means 'great', after it 'big'. 'madrugador' is an agent noun in -dor from madrugar (to get up early), like 'corredor' in note 1. 'amigo de' + noun = fond of. Predicate nouns after ser take no article when they classify: 'era madrugador'."
       - es: "Quieren decir que tenía el sobrenombre de Quijada, o Quesada, que en esto hay alguna diferencia en los autores que deste caso escriben; aunque, por conjeturas verosímiles, se deja entender que se llamaba Quejana."
         literal: "They-want to-say that he-had the surname of Quijada, or Quesada, that in this there-is some difference in the authors who of-this case write; although, by conjectures plausible, it lets-itself understand that he-was-called Quejana."
         ormsby: "They will have it his surname was Quixada or Quesada (for here there is some difference of opinion among the authors who write on the subject), although from reasonable conjectures it seems plain that he was called Quexana."
@@ -92,6 +151,17 @@ paragraphs:
           - {w: "caso", d: "matter, case"}
           - {w: "verosímil", d: "plausible, likely"}
           - {w: "dejarse entender", d: "to be inferred, to be understood"}
+        grammar:
+          structure: "A reporting verb, 'Quieren decir', + a 'que' clause; then a loose parenthetical 'que ...' meaning 'for, since'; then a concessive clause with 'aunque'."
+          parts:
+            - s: "Quieren decir que"
+              g: "'Quieren' is querer (to want), 3rd pl. (ellos), present indicative (see note 1 for the stem change). With no subject named, the 3rd plural is impersonal: 'they say, people claim'. 'querer decir' normally means 'to mean'; here it is 'they will have it that'. 'que' = that, introducing the reported clause."
+            - s: "tenía el sobrenombre de Quijada, o Quesada"
+              g: "'tenía' is tener (to have), 3rd sg., imperfect (see note 4). 'el sobrenombre de X' = the surname X; 'de' links a name to its category. 'o' = or."
+            - s: "que en esto hay alguna diferencia en los autores que deste caso escriben"
+              g: "This first 'que' is causal, 'for, because', a loose 'que' Cervantes uses constantly. 'hay' is haber (to have; impersonally, there is / there are), the special present form 'hay' = there is / there are, invariable. 'alguna' is fem. to agree with 'diferencia'. 'en esto': 'esto' is the neuter demonstrative pronoun, 'this [matter]'; the neuter forms esto / eso / aquello refer to ideas, not nouns, and never take an accent. 'los autores que deste caso escriben': 'que' is a relative, subject; 'escriben' is escribir (to write), 3rd pl., present; 'deste caso' = de este caso, and 'escribir de' = to write about. The 'de' phrase comes before its verb, a literary inversion."
+            - s: "aunque, por conjeturas verosímiles, se deja entender que se llamaba Quejana"
+              g: "'aunque' = although, here with the indicative because it states a fact. 'por' = by means of. 'se deja entender': dejar (to let, to leave), 3rd sg., present, with the passive/impersonal 'se': 'it lets itself be understood' = it can be inferred; 'entender' (to understand) is the infinitive after dejar. 'se llamaba': llamar (to call) with the reflexive 'se' = llamarse, to be called, 3rd sg., imperfect. This is the standard way to give a name: 'se llama Juan'."
         note: "First appearance of the mock-scholarly pose: the narrator pretends to be reconciling earlier 'authors' as if this were a real chronicle. The candidate surnames are also jokes: a quijada is a jawbone and a quesada a cheesecake."
       - es: "Pero esto importa poco a nuestro cuento; basta que en la narración dél no se salga un punto de la verdad."
         literal: "But this matters little to our tale; [it] suffices that in the narration of-it not one-departs a point from the truth."
@@ -103,6 +173,13 @@ paragraphs:
           - {w: "dél", d: "= de él, 'of it'"}
           - {w: "salirse de", d: "to depart from, stray from"}
           - {w: "un punto", d: "one jot, a hair's breadth"}
+        grammar:
+          structure: "Two short clauses joined by a semicolon: 'esto importa poco a nuestro cuento' and 'basta que ...', where 'basta que' is an impersonal judgment that forces the subjunctive 'salga' in the clause after it."
+          parts:
+            - s: "Pero esto importa poco a nuestro cuento"
+              g: "'esto' is the neuter demonstrative as subject (see note 6). 'importa' is importar (to matter, to be important), 3rd sg., present; 'importar a' + person or thing = to matter to. 'poco' is an adverb, 'little'. 'nuestro' agrees with masc. 'cuento'."
+            - s: "basta que en la narración dél no se salga un punto de la verdad"
+              g: "'basta' is bastar (to be enough), 3rd sg., present, impersonal, + 'que' + subjunctive: verbs of judgment ('basta que', 'es necesario que') trigger the subjunctive. 'salga' is salir (to go out, to leave), 3rd sg., present subjunctive. salir has an irregular stem in the 1st sg. present ('salgo'), and the present subjunctive is built on that stem: salga, salgas, salga, salgamos, salgáis, salgan. 'se salga': 'salirse de' = to stray from; the subject is impersonal ('one should not stray'). 'dél' = de él; 'él' refers back to 'cuento' (masc.), so 'of it'; after prepositions things are 'él' / 'ella'. 'un punto' is an adverbial measure, 'one jot'; 'de la verdad': this 'de' = from, governed by salirse."
   - sentences:
       - es: "Es, pues, de saber que este sobredicho hidalgo, los ratos que estaba ocioso, que eran los más del año, se daba a leer libros de caballerías, con tanta afición y gusto, que olvidó casi de todo punto el ejercicio de la caza, y aun la administración de su hacienda."
         literal: "It-is, then, to know that this above-said gentleman, the whiles that he-was idle, which were the most of the year, gave-himself to read books of chivalries, with such fondness and pleasure, that he-forgot almost of all point the exercise of the hunt, and even the administration of his estate."
@@ -118,6 +195,21 @@ paragraphs:
           - {w: "afición", d: "fondness, enthusiasm"}
           - {w: "de todo punto", d: "entirely, completely"}
           - {w: "aun", d: "even (no accent; 'aún' with accent means 'still')"}
+        grammar:
+          structure: "Opens with the formula 'Es de saber que' and then one long noun clause. Inside it: the subject 'este sobredicho hidalgo', a time parenthetical 'los ratos que estaba ocioso (que eran los más del año)', the main verb 'se daba a leer', and a result construction 'con tanta ... que olvidó ...'."
+          parts:
+            - s: "Es, pues, de saber que"
+              g: "'Es' is ser (to be), 3rd sg., present (soy, eres, es, somos, sois, son). 'ser de' + infinitive = 'is to be [done]': 'es de saber' = 'it is to be known', modern 'hay que saber' or 'sépase'. 'pues' is a connective filler, 'well, then', not 'because'. 'saber' = to know (facts, how to). 'que' = that."
+            - s: "este sobredicho hidalgo"
+              g: "'este' is the demonstrative adjective 'this', masc. sing. (este / esta / estos / estas). 'sobredicho' is the past participle of sobredecir (to say above) used as an adjective, 'above-said'."
+            - s: "los ratos que estaba ocioso, que eran los más del año"
+              g: "'los ratos que' = '[during] the times when': a time noun with the article, and 'que' doing the work of 'en que', as in 'el día que llegué'. 'estaba' is estar (to be, for states and locations), 3rd sg., imperfect: estaba, estabas, estaba, estábamos, estabais, estaban (regular -aba). 'estar' + adjective describes a temporary state; 'ocioso' is masc. sing., agreeing with 'hidalgo'. 'que eran los más del año': 'que' is a relative referring to 'los ratos'; 'eran' is ser, 3rd pl., imperfect (see note 5); 'los más' = 'most [of them]', the article used as a pronoun."
+            - s: "se daba a leer libros de caballerías"
+              g: "'se daba' is dar (to give), 3rd sg., imperfect, with the reflexive 'se': 'darse a' = to give oneself over to. 'a' + the infinitive leer (to read) = 'to reading'. 'libros de caballerías': 'de' = of (kind); no article, because it is the kind of book in general."
+            - s: "con tanta afición y gusto, que olvidó"
+              g: "'tanto ... que' = 'so much ... that', the result construction. 'tanta' agrees with the nearer noun, fem. 'afición' ('gusto' is masc.). 'olvidó' is olvidar (to forget), 3rd sg., preterite. This is the first regular -ar preterite: olvidé, olvidaste, olvidó, olvidamos, olvidasteis, olvidaron. Preterite for a completed event, set against the imperfect background: the habit ('se daba') leads to a finished outcome ('olvidó')."
+            - s: "casi de todo punto el ejercicio de la caza, y aun la administración de su hacienda"
+              g: "'casi' = almost, adverb; 'de todo punto' is an adverbial phrase, 'entirely'. 'el ejercicio' and 'la administración' are the two direct objects of 'olvidó'. 'aun' without accent = even."
       - es: "Y llegó a tanto su curiosidad y desatino en esto, que vendió muchas hanegas de tierra de sembradura para comprar libros de caballerías en que leer, y así, llevó a su casa todos cuantos pudo haber dellos;"
         literal: "And arrived at so-much his curiosity and folly in this, that he-sold many acre-plots of land of sowing to buy books of chivalries in which to-read, and thus, he-carried to his house all as-many-as he-could get of-them;"
         ormsby: "and to such a pitch did his eagerness and infatuation go that he sold many an acre of tillageland to buy books of chivalry to read, and brought home as many of them as he could get."
@@ -130,6 +222,17 @@ paragraphs:
           - {w: "todos cuantos", d: "all that, as many as"}
           - {w: "haber", d: "here in its old sense 'to get hold of, obtain'"}
           - {w: "dellos", d: "= de ellos"}
+        grammar:
+          structure: "'llegó a tanto ... que' = 'went so far that': a result construction whose 'que' clause contains two preterites, 'vendió' and 'llevó', with a purpose phrase 'para comprar ...' between them."
+          parts:
+            - s: "Y llegó a tanto su curiosidad y desatino en esto, que"
+              g: "'llegó' is llegar (to arrive, to reach), 3rd sg., preterite. llegar changes g to gu in the 1st sg. preterite ('llegué') to keep the hard sound; the 3rd sg. is regular. The subject 'su curiosidad y desatino' follows the verb, and the verb is singular although there are two nouns, because they are felt as one idea. 'llegar a tanto ... que' = 'to go so far that'; the 'que' opens the result clause. 'en esto' = in this (see note 6 for 'esto')."
+            - s: "vendió muchas hanegas de tierra de sembradura"
+              g: "'vendió' is vender (to sell), 3rd sg., preterite. This is the first regular -er preterite: vendí, vendiste, vendió, vendimos, vendisteis, vendieron; -ir verbs take the same endings. 'muchas' is fem. pl., agreeing with 'hanegas'. 'de tierra de sembradura' is a chain of two 'de' phrases: of land, of sowing."
+            - s: "para comprar libros de caballerías en que leer"
+              g: "'para' + infinitive = in order to (purpose); comprar = to buy. 'en que leer' = 'in which to read': preposition + relative 'que' + a bare infinitive, exactly as English says 'something to read'."
+            - s: "y así, llevó a su casa todos cuantos pudo haber dellos"
+              g: "'así' = thus. 'llevó' is llevar (to carry, to take somewhere), 3rd sg., preterite. 'a su casa' = to his house ('a' = to, direction). 'todos cuantos' = 'all those that', 'cuantos' being a relative meaning 'as many as', masc. pl. because it stands for 'libros'. 'pudo' is poder (to be able, can), 3rd sg., preterite, with the irregular stem pud-: pude, pudiste, pudo, pudimos, pudisteis, pudieron; poder takes a bare infinitive. 'haber' is the infinitive (to have) in its old full-verb sense, 'to get hold of'. 'dellos' = de ellos, 'of them', partitive: as many of them as."
       - es: "y de todos, ningunos le parecían tan bien como los que compuso el famoso Feliciano de Silva, porque la claridad de su prosa y aquellas entricadas razones suyas le parecían de perlas, y más cuando llegaba a leer aquellos requiebros y cartas de desafíos, donde en muchas partes hallaba escrito:"
         literal: "and of all, none to-him seemed so well as those that composed the famous Feliciano de Silva, because the clarity of his prose and those intricate reasonings of-his to-him seemed of pearls, and more when he-came to read those compliments and letters of challenges, where in many parts he-found written:"
         ormsby: "But of all there were none he liked so well as those of the famous Feliciano de Silva's composition, for their lucidity of style and complicated conceits were as pearls in his sight, particularly when in his reading he came upon courtships and cartels, where he often found passages like"
@@ -143,6 +246,17 @@ paragraphs:
           - {w: "requiebro", d: "flirtatious compliment, gallantry"}
           - {w: "carta de desafío", d: "letter of challenge, cartel"}
           - {w: "hallar", d: "to find"}
+        grammar:
+          structure: "Main clause 'ningunos le parecían tan bien como los que compuso ...' (the books are the subject, the hidalgo is 'le'); then 'porque' + a second clause with the same 'le parecían'; then 'y más cuando' + a time clause; then 'donde' + a relative clause that runs into the quotation after the colon."
+          parts:
+            - s: "y de todos, ningunos le parecían tan bien como los que compuso el famoso Feliciano de Silva"
+              g: "'de todos' = of all [the books], a partitive 'de'. 'ningunos' = none; today 'ninguno' is only singular, the plural is archaic. 'parecían' is parecer (to seem), 3rd pl., imperfect, agreeing with 'ningunos'. 'le' is the indirect object pronoun, 3rd sg., 'to him': 'parecerle a uno' = to seem to someone, built like 'gustar' (the thing that seems is the subject, the person is 'le'). 'tan ... como' = as ... as, the comparison of equality. 'los que' = 'those that': article as pronoun + relative 'que'. 'compuso' is componer (to compose, to write), 3rd sg., preterite, irregular like poner (puse, pusiste, puso); its subject 'el famoso Feliciano de Silva' follows the verb."
+            - s: "porque la claridad de su prosa y aquellas entricadas razones suyas le parecían de perlas"
+              g: "'porque' = because. 'aquellas' = those (far off), demonstrative, fem. pl. (aquel / aquella / aquellos / aquellas). 'entricadas' is an adjective placed before the noun, fem. pl. 'suyas' = 'of his', the stressed possessive placed after the noun ('razones suyas' = 'those reasonings of his'), fem. pl. agreeing with 'razones'. Two subjects joined by 'y' make the verb plural, 'parecían'. 'de perlas' is an adverbial phrase, 'like pearls'."
+            - s: "y más cuando llegaba a leer aquellos requiebros y cartas de desafíos"
+              g: "'y más' = 'and even more so'. 'cuando' = when, with the imperfect for repeated occasions. 'llegaba a leer': 'llegar a' + infinitive = to get to, to come to (do); llegar, 3rd sg., imperfect; leer = to read."
+            - s: "donde en muchas partes hallaba escrito"
+              g: "'donde' = where, a relative adverb referring to the letters. 'hallaba' is hallar (to find), 3rd sg., imperfect. 'escrito' is the past participle of escribir (to write), irregular; it is the complement of hallar: 'found [it] written'. The object is the quotation after the colon."
       - es: "La razón de la sinrazón que a mi razón se hace, de tal manera mi razón enflaquece, que con razón me quejo de la vuestra fermosura."
         literal: "The reason of the unreason that to my reason is done, in such manner my reason weakens, that with reason I complain of the your beauty."
         ormsby: "\"the reason of the unreason with which my reason is afflicted so weakens my reason that with reason I murmur at your beauty;\""
@@ -153,6 +267,15 @@ paragraphs:
           - {w: "con razón", d: "rightly, with good reason"}
           - {w: "quejarse de", d: "to complain of"}
           - {w: "la vuestra fermosura", d: "your beauty; 'fermosura' is archaic 'hermosura' with the old initial f-, and the article before 'vuestra' is deliberately antique"}
+        grammar:
+          structure: "Feliciano de Silva's tangle. Subject: 'La razón de la sinrazón (que a mi razón se hace)'. Verb phrase: 'de tal manera mi razón enflaquece'. Result: 'que con razón me quejo de la vuestra fermosura'. Read it as: [the reason of the unreason done to my reason] [so weakens my reason] [that with reason I complain]."
+          parts:
+            - s: "La razón de la sinrazón que a mi razón se hace"
+              g: "'que' is a relative whose antecedent is 'la sinrazón'; it is the subject of 'se hace'. 'se hace' is hacer (to do, to make), 3rd sg., present, with the passive 'se': 'is done'. 'a mi razón' = to my reason; 'mi' is the unstressed possessive, 1st sg. (mi / mis, no gender agreement). The object phrase 'a mi razón' stands before the verb, typical of the mannered style."
+            - s: "de tal manera mi razón enflaquece, que"
+              g: "'de tal manera ... que' = 'in such a way ... that', a result construction. 'enflaquece' is enflaquecer (to weaken, to grow thin), 3rd sg., present. Verbs in -ecer insert -zc- only in the 1st sg. ('enflaquezco') and the present subjunctive; here it is regular. 'mi razón' is the subject, and the verb is intransitive: my reason weakens."
+            - s: "que con razón me quejo de la vuestra fermosura"
+              g: "'me quejo' is quejarse de (to complain of), 1st sg., present; the reflexive 'me' stands before the conjugated verb, and quejar exists only in this pronominal form. 'con razón' = rightly. 'la vuestra fermosura': 'vuestra' is the possessive of 'vos' / 'vosotros' (vuestro / vuestra / vuestros / vuestras), agreeing with fem. 'fermosura'; in Golden Age courtly address a single lady was 'vos'. The definite article before a possessive ('la vuestra') is archaic; modern Spanish says 'vuestra hermosura'."
         note: "A near-quotation from Feliciano de Silva, chosen because it is almost meaningless. The joke is the mannered style of the romances, not its content."
       - es: "Y también cuando leía: ...los altos cielos que de vuestra divinidad divinamente con las estrellas os fortifican, y os hacen merecedora del merecimiento que merece la vuestra grandeza."
         literal: "And also when he-read: ...the high heavens that of your divinity divinely with the stars you fortify, and you make deserving of the desert that deserves the your greatness."
@@ -165,6 +288,15 @@ paragraphs:
           - {w: "merecimiento", d: "merit, desert (what one deserves)"}
           - {w: "merecer", d: "to deserve"}
           - {w: "grandeza", d: "greatness, grandeur; also the rank of the highest nobility (grandes)"}
+        grammar:
+          structure: "'Y también cuando leía:' introduces a second quotation. Inside it the subject is 'los altos cielos', followed by a relative clause with two verbs, 'os fortifican' and 'os hacen merecedora', the second with its own relative clause 'que merece la vuestra grandeza'."
+          parts:
+            - s: "Y también cuando leía:"
+              g: "'leía' is leer (to read), 3rd sg., imperfect, regular -ía (see note 1). The subject is dropped: the hidalgo."
+            - s: "los altos cielos que de vuestra divinidad divinamente con las estrellas os fortifican"
+              g: "'altos' is placed before the noun (masc. pl.), the poetic order. 'que' is a relative, subject: the heavens. 'os' is the object pronoun of 'vos' / 'vosotros' (you), here the polite 'vos' to one lady: 'fortify you'. 'fortifican' is fortificar (to fortify), 3rd pl., present, agreeing with 'cielos'. 'divinamente' is an adverb from 'divino': feminine form + -mente, like English -ly. 'de vuestra divinidad' = 'out of your divinity' (cause); 'con las estrellas' = with the stars (instrument)."
+            - s: "y os hacen merecedora del merecimiento que merece la vuestra grandeza"
+              g: "'hacen' is hacer (to do, to make), 3rd pl., present. 'hacer a alguien' + adjective = to make someone [adj]: 'os hacen merecedora' = they make you deserving; 'merecedora' is feminine because it agrees with the lady addressed by 'os'. 'del' = de + el, one of the two contractions modern Spanish keeps (with 'al'). 'que merece la vuestra grandeza': 'que' is a relative used as object ('the desert that your greatness deserves'); 'merece' is merecer (to deserve), 3rd sg., present, with its subject 'la vuestra grandeza' after the verb (see note 11 for the article + possessive)."
         ormsby_note: "The first passage quoted is from the Chronicle of Don Florisel de Niquea, by Feliciano de Silva, the volumes of which appeared in 1532, 1536, and 1551, and from the tenth and eleventh books of the Amadís series. The second is from Olivante de Laura, by Torquemada (1564). Clemencín points out that the first passage had been previously picked out as a sample of the absurdity of the school, by Diego Hurtado de Mendoza."
   - sentences:
       - es: "Con estas razones perdía el pobre caballero el juicio, y desvelábase por entenderlas y desentrañarles el sentido, que no se lo sacara ni las entendiera el mesmo Aristóteles, si resucitara para sólo ello."
@@ -180,6 +312,17 @@ paragraphs:
           - {w: "el mesmo Aristóteles", d: "Aristotle himself"}
           - {w: "resucitar", d: "to rise from the dead"}
           - {w: "para sólo ello", d: "for that alone"}
+        grammar:
+          structure: "Two main verbs joined by 'y', 'perdía' and 'desvelábase', the second followed by two infinitives of purpose. Then a loose 'que' clause, 'que no se lo sacara ni las entendiera el mesmo Aristóteles', a contrary-to-fact statement whose 'if' is 'si resucitara para sólo ello'."
+          parts:
+            - s: "Con estas razones perdía el pobre caballero el juicio"
+              g: "'estas' is the demonstrative, fem. pl. 'perdía' is perder (to lose), 3rd sg., imperfect. The subject 'el pobre caballero' sits between the verb and its object 'el juicio': verb-subject-object order. 'pobre' before the noun means 'poor' as in pitiable; after the noun it would mean penniless."
+            - s: "y desvelábase por entenderlas y desentrañarles el sentido"
+              g: "'desvelábase' = 'se desvelaba': desvelar (to keep awake; desvelarse = to stay awake, to lose sleep), 3rd sg., imperfect, with the reflexive 'se' attached to the end of a conjugated verb. This enclitic attachment on finite verbs is normal in Cervantes' prose when the verb opens its clause; modern Spanish attaches clitics only to infinitives, gerunds and commands. The written accent stays where the stress is (desvelába-se). 'por' + infinitive = in the effort to, striving to. 'entenderlas' is entender (to understand) + 'las' (them, direct object, fem. pl. = 'las razones'). 'desentrañarles el sentido' is desentrañar (to unravel) + 'les' (from them, indirect object, pl.) + 'el sentido' as direct object: 'to pull the sense out of them'."
+            - s: "que no se lo sacara ni las entendiera el mesmo Aristóteles"
+              g: "'que' is loose here: '[a sense] which' or 'such that'. 'sacara' is sacar (to take out, to extract), 3rd sg., imperfect subjunctive, -ra form. This is the first -ra form. It is built on the 3rd pl. preterite stem (sacaron → saca-): sacara, sacaras, sacara, sacáramos, sacarais, sacaran. In Golden Age Spanish the -ra form often does the work of the conditional or the pluperfect: 'no lo sacara' = 'would not have extracted it'. 'se lo' is two clitics: 'se' replaces 'les' (to them, the sentences) because le / les becomes 'se' before lo / la / los / las; 'lo' = it (the sense). 'ni' = nor, continuing the negation. 'las entendiera' is entender, 3rd sg., imperfect subj. -ra, with 'las' = them (the razones). The subject 'el mesmo Aristóteles' comes last: 'mesmo' (= mismo) before a name means 'himself'."
+            - s: "si resucitara para sólo ello"
+              g: "'si' = if. 'resucitara' is resucitar (to rise from the dead, to revive), 3rd sg., imperfect subj. -ra. In an 'if' clause the -ra form is the normal counterfactual ('if he were to come back'), the same as in modern Spanish. 'para sólo ello' = 'for that alone': 'ello' is the neuter pronoun 'it / that' (an idea), rare today."
       - es: "No estaba muy bien con las heridas que don Belianís daba y recebía, porque se imaginaba que, por grandes maestros que le hubiesen curado, no dejaría de tener el rostro y todo el cuerpo lleno de cicatrices y señales."
         literal: "Not he-was very well with the wounds that Don Belianís gave and received, because he-imagined that, for great masters that him might-have cured, not he-would-cease to have the face and all the body full of scars and marks."
         ormsby: "He was not at all easy about the wounds which Don Belianis gave and took, because it seemed to him that, great as were the surgeons who had cured him, he must have had his face and body covered all over with seams and scars."
@@ -192,6 +335,17 @@ paragraphs:
           - {w: "no dejar de", d: "to not fail to; 'no dejaría de tener' = he could not fail to have"}
           - {w: "cicatriz", d: "scar"}
           - {w: "señal", d: "mark"}
+        grammar:
+          structure: "Main clause 'No estaba muy bien con las heridas ...', then 'porque se imaginaba que' + what he imagined. Inside that: a concessive 'por grandes maestros que le hubiesen curado' and the main statement 'no dejaría de tener ...'."
+          parts:
+            - s: "No estaba muy bien con las heridas que don Belianís daba y recebía"
+              g: "'estaba' is estar, 3rd sg., imperfect (see note 8), negated: 'no estar bien con' = to be uneasy about. 'que' is a relative, direct object: 'the wounds that Belianís gave and received'. 'daba' is dar (to give), 3rd sg., imperfect (regular). 'recebía' = 'recibía', recibir (to receive), 3rd sg., imperfect."
+            - s: "porque se imaginaba que"
+              g: "'se imaginaba' is imaginarse (to imagine, to suppose), 3rd sg., imperfect, with the reflexive 'se' before the verb; imaginar takes 'se' when it means 'to fancy for oneself'. 'que' introduces what he imagined."
+            - s: "por grandes maestros que le hubiesen curado"
+              g: "The concessive pattern 'por' + adjective or noun + 'que' + subjunctive = 'however great the surgeons who had cured him'. 'hubiesen curado' is the pluperfect subjunctive, 3rd pl.: haber (to have, auxiliary) in the -se imperfect subjunctive (hubiese, hubieses, hubiese, hubiésemos, hubieseis, hubiesen) + the past participle 'curado' of curar (to cure, to treat). Spanish has two imperfect subjunctives, -ra and -se, interchangeable in nearly every use (see note 13 for -ra). 'le' = him, the direct object of curar; strict grammar wants 'lo', but 'le' for a male person (leísmo) is standard Castilian and Cervantes' habit."
+            - s: "no dejaría de tener el rostro y todo el cuerpo lleno de cicatrices y señales"
+              g: "'dejaría' is dejar (to leave, to let; 'dejar de' + infinitive = to stop doing, to fail to do), 3rd sg., conditional. This is the first conditional: the whole infinitive + the -ía endings: dejaría, dejarías, dejaría, dejaríamos, dejaríais, dejarían, the same endings for every conjugation. The conditional here expresses a supposition about the past ('he must have'). 'no dejaría de tener' = 'could not fail to have'. 'tener el rostro ... lleno de' = 'to have his face full of': Spanish uses the definite article, not the possessive, for body parts ('el rostro', 'el cuerpo'). 'lleno' is masc. sing., agreeing with the nearer noun 'cuerpo'; 'lleno de' = full of."
         ormsby_note: "The History of Don Belianis de Grecia, by the Licentiate Jerónimo Fernández, 1547. It has been by some included in the Amadís series, but it is in reality an independent romance."
       - es: "Pero, con todo, alababa en su autor aquel acabar su libro con la promesa de aquella inacabable aventura, y muchas veces le vino deseo de tomar la pluma y dalle fin al pie de la letra, como allí se promete;"
         literal: "But, with all, he-praised in its author that finishing his book with the promise of that unfinishable adventure, and many times to-him came desire of taking the pen and giving-it end to the foot of the letter, as there is-promised;"
@@ -206,6 +360,15 @@ paragraphs:
           - {w: "dalle", d: "= darle; old assimilation of infinitive + le"}
           - {w: "dar fin a", d: "to finish"}
           - {w: "al pie de la letra", d: "to the letter, exactly as written"}
+        grammar:
+          structure: "Two clauses joined by 'y'. First: 'alababa [en su autor] aquel acabar su libro ...', where the object is an infinitive used as a noun. Second: 'le vino deseo de tomar la pluma y dalle fin', with 'deseo' as the subject arriving after the verb, closed by 'como allí se promete'."
+          parts:
+            - s: "Pero, con todo, alababa en su autor aquel acabar su libro con la promesa de aquella inacabable aventura"
+              g: "'alababa' is alabar (to praise), 3rd sg., imperfect. 'en su autor' = in its author. 'aquel acabar su libro': the infinitive acabar (to finish) used as a noun with the demonstrative 'aquel' ('that finishing of his book'); any Spanish infinitive can be a noun ('el amanecer', 'el saber'). 'aquella inacabable aventura': fem. demonstrative + adjective before the noun."
+            - s: "y muchas veces le vino deseo de tomar la pluma y dalle fin al pie de la letra"
+              g: "'le vino deseo' = 'desire came to him': 'vino' is venir (to come), 3rd sg., preterite, with the irregular stem vin-: vine, viniste, vino, vinimos, vinisteis, vinieron. 'le' is the indirect object, to him; the subject 'deseo' follows the verb with no article. 'deseo de' + infinitive: tomar (to take) 'la pluma'; 'dalle' = 'darle', dar (to give) + 'le' (to it, the book), with the old assimilation of -r + l- into -ll-; 'dar fin a' = to put an end to. 'al pie de la letra': 'al' = a + el."
+            - s: "como allí se promete"
+              g: "'como' = as. 'se promete' is prometer (to promise), 3rd sg., present, with the passive 'se': 'as is promised there'; 'allí' = there. Present tense because the book still says so."
       - es: "y sin duda alguna lo hiciera, y aun saliera con ello, si otros mayores y continuos pensamientos no se lo estorbaran."
         literal: "and without doubt any it he-would-have-done, and even would-have-come-out with it, if other greater and continuous thoughts not to-him it had-hindered."
         ormsby: "which no doubt he would have done, and made a successful piece of work of it too, had not greater and more absorbing thoughts prevented him."
@@ -214,6 +377,15 @@ paragraphs:
           - {w: "hiciera / saliera / estorbaran", d: "-ra subjunctive used as conditional and pluperfect ('would have done'), very common in Golden Age Spanish"}
           - {w: "salir con", d: "to succeed at, pull off"}
           - {w: "estorbar", d: "to hinder, get in the way of"}
+        grammar:
+          structure: "A contrary-to-fact conditional. Result clauses: 'lo hiciera, y aun saliera con ello'. Condition: 'si otros ... pensamientos no se lo estorbaran'. Modern Spanish would say 'lo habría hecho ... si no se lo hubieran estorbado'."
+          parts:
+            - s: "y sin duda alguna lo hiciera"
+              g: "'alguna' after a noun in a negative phrase means 'any at all': 'sin duda alguna' = without any doubt. 'hiciera' is hacer (to do, to make), 3rd sg., imperfect subjunctive, -ra form, built on the preterite stem hic- (hicieron → hiciera). Here it stands for the conditional perfect 'would have done' (see note 13). 'lo' = it (finishing the book)."
+            - s: "y aun saliera con ello"
+              g: "'saliera' is salir (to go out; 'salir con' = to pull off, to succeed at), 3rd sg., imperfect subj. -ra, with the same conditional value. 'ello' is the neuter pronoun 'it' (see note 13). 'aun' = even."
+            - s: "si otros mayores y continuos pensamientos no se lo estorbaran"
+              g: "'si' + the -ra subjunctive is the 'if' clause of a counterfactual. 'estorbaran' is estorbar (to hinder), 3rd pl., imperfect subj. -ra, agreeing with 'pensamientos'. 'otros mayores y continuos': three adjectives before the noun, masc. pl.; 'mayores' = greater, the comparative of 'grande', one form for both genders. 'se lo': 'se' stands for 'le' (to him), changed to 'se' before 'lo' (it) (see note 13): 'hindered it for him'."
       - es: "Tuvo muchas veces competencia con el cura de su lugar —que era hombre docto, graduado en Sigüenza—, sobre cuál había sido mejor caballero: Palmerín de Ingalaterra o Amadís de Gaula;"
         literal: "He-had many times contest with the priest of his village —who was man learned, graduated in Sigüenza—, over which had been better knight: Palmerín of England or Amadís of Gaul;"
         ormsby: "Many an argument did he have with the curate of his village (a learned man, and a graduate of Sigüenza) as to which had been the better knight, Palmerín of England or Amadís of Gaul."
@@ -226,6 +398,17 @@ paragraphs:
           - {w: "Ingalaterra", d: "= Inglaterra, England (old form)"}
           - {w: "Palmerín de Inglaterra", d: "hero of a Portuguese romance (1547) admired even by Cervantes"}
           - {w: "Amadís de Gaula", d: "hero of the most famous romance of chivalry (1508), the model for all the rest"}
+        grammar:
+          structure: "Main clause 'Tuvo muchas veces competencia con el cura', a parenthetical relative clause about the priest between dashes, then 'sobre cuál había sido mejor caballero', an indirect question, with the two candidates after the colon."
+          parts:
+            - s: "Tuvo muchas veces competencia con el cura de su lugar"
+              g: "'Tuvo' is tener (to have), 3rd sg., preterite, with the irregular stem tuv-: tuve, tuviste, tuvo, tuvimos, tuvisteis, tuvieron. 'muchas veces' = many times ('vez' is fem.; the plural 'veces' changes z to c before e). 'competencia' has no article: 'tener competencia con' = to have disputes with. Preterite because the disputes are summed up as one whole."
+            - s: "—que era hombre docto, graduado en Sigüenza—"
+              g: "'que' = who (relative). 'era' is ser, 3rd sg., imperfect (see note 5). 'hombre docto' without article: after ser, a noun that classifies takes no article ('era hombre docto' = he was a learned man). 'graduado' is the past participle of graduarse (to graduate) used as an adjective; 'en' = at."
+            - s: "sobre cuál había sido mejor caballero"
+              g: "'sobre' = about, over. 'cuál' = which [one], an interrogative pronoun inside an indirect question, so it carries the accent. 'había sido' is the pluperfect indicative, 3rd sg.: haber in the imperfect (había, habías, había, habíamos, habíais, habían) + 'sido', the past participle of ser. The pluperfect is 'had been', a past before another past. 'mejor caballero': 'mejor' = better, the comparative of 'bueno'; no article after ser."
+            - s: "Palmerín de Ingalaterra o Amadís de Gaula"
+              g: "The two candidates, in apposition to 'cuál'. 'o' = or."
         ormsby_note: "Sigüenza was one of the Universidades menores, the degrees of which were often laughed at by the Spanish humorists."
       - es: "mas maese Nicolás, barbero del mesmo pueblo, decía que ninguno llegaba al Caballero del Febo, y que si alguno se le podía comparar, era don Galaor, hermano de Amadís de Gaula, porque tenía muy acomodada condición para todo;"
         literal: "but master Nicolás, barber of the same town, said that none reached to the Knight of the Phoebus, and that if any to-him could be-compared, it-was Don Galaor, brother of Amadís of Gaul, because he-had very accommodating disposition for everything;"
@@ -240,6 +423,19 @@ paragraphs:
           - {w: "don Galaor", d: "Amadís's brother, a cheerful womanizer in the romance"}
           - {w: "acomodado", d: "accommodating, easy-going"}
           - {w: "condición", d: "disposition, temperament"}
+        grammar:
+          structure: "'maese Nicolás ... decía que' + two reported clauses joined by 'y que'. The second contains a real condition, 'si alguno se le podía comparar, era don Galaor', and a 'porque' clause."
+          parts:
+            - s: "mas maese Nicolás, barbero del mesmo pueblo, decía que"
+              g: "'mas' without accent = but, literary. 'barbero del mesmo pueblo' is an appositive noun phrase, no article. 'decía' is decir (to say), 3rd sg., imperfect; decir is regular in the imperfect though irregular elsewhere (digo, dije). Imperfect = 'used to say'. 'que' = that, reported speech."
+            - s: "ninguno llegaba al Caballero del Febo"
+              g: "'ninguno' = no one, none, the pronoun form (before a masc. noun it shortens to 'ningún'). 'llegaba' is llegar, 3rd sg., imperfect; 'llegar a' = to reach, to measure up to; 'al' = a + el."
+            - s: "y que si alguno se le podía comparar, era don Galaor"
+              g: "A second reported clause, again with 'que'. 'si' + imperfect indicative is a real condition ('if anyone could'), not a counterfactual. 'alguno' = anyone, someone (pronoun). 'se le podía comparar': 'podía' is poder (to be able), 3rd sg., imperfect (regular in the imperfect) + the infinitive comparar (to compare); 'se' is the reflexive (compararse = to be compared) and 'le' = to him, with him; both clitics stand before the conjugated verb. 'era don Galaor': ser, 3rd sg., imperfect; the answer to 'who' comes after 'era'."
+            - s: "hermano de Amadís de Gaula"
+              g: "An appositive without article: 'brother of Amadís'."
+            - s: "porque tenía muy acomodada condición para todo"
+              g: "'tenía' is tener, 3rd sg., imperfect. 'muy' = very, modifying the adjective 'acomodada' (fem., agreeing with 'condición'); the adjective stands before the noun and there is no article: 'a very accommodating disposition'. 'para todo' = for everything."
       - es: "que no era caballero melindroso, ni tan llorón como su hermano, y que en lo de la valentía no le iba en zaga."
         literal: "that not he-was knight squeamish, nor so weepy as his brother, and that in the [matter] of the valor not to-him he-went in rear."
         ormsby: "and was no finikin knight, nor lachrymose like his brother, while in the matter of valour he was not a whit behind him."
@@ -249,6 +445,15 @@ paragraphs:
           - {w: "en lo de", d: "in the matter of"}
           - {w: "valentía", d: "valor, bravery"}
           - {w: "no ir en zaga a alguien", d: "to be no whit behind someone ('zaga' = the rear)"}
+        grammar:
+          structure: "Still inside 'decía que' from note 18: two more reported clauses, 'que no era caballero melindroso, ni tan llorón como su hermano' and 'que en lo de la valentía no le iba en zaga'."
+          parts:
+            - s: "que no era caballero melindroso"
+              g: "'que' continues the reported speech of note 18. 'era' is ser, 3rd sg., imperfect, + a noun without article ('era caballero' = he was a knight) + the adjective 'melindroso', masc. sing."
+            - s: "ni tan llorón como su hermano"
+              g: "'ni' = nor. 'tan ... como' = as ... as (see note 10). 'llorón' is an adjective made from llorar (to weep) with -ón, an augmentative suffix for habits (dormilón, comilón)."
+            - s: "y que en lo de la valentía no le iba en zaga"
+              g: "'que' = that, again. 'lo de' = 'the matter of': the neuter 'lo' + de (see note 3). 'iba' is ir (to go), 3rd sg., imperfect; ir's imperfect is irregular: iba, ibas, iba, íbamos, ibais, iban. 'no ir en zaga a alguien' = not to lag behind someone; 'le' = to him (his brother), the indirect object."
   - sentences:
       - es: "En resolución, él se enfrascó tanto en su letura, que se le pasaban las noches leyendo de claro en claro, y los días de turbio en turbio; y así, del poco dormir y del mucho leer, se le secó el celebro, de manera que vino a perder el juicio."
         literal: "In resolution, he himself-immersed so-much in his reading, that to-him passed the nights reading from clear to clear, and the days from murky to murky; and thus, from the little sleeping and from the much reading, to-him dried the brain, in manner that he-came to lose the judgment."
@@ -262,6 +467,19 @@ paragraphs:
           - {w: "celebro", d: "= cerebro, brain"}
           - {w: "secarse", d: "to dry up"}
           - {w: "venir a + inf.", d: "to end up doing"}
+        grammar:
+          structure: "'él se enfrascó tanto ... que' + a result clause with 'se le pasaban las noches ... y los días'. Then 'y así, [cause: del poco dormir y del mucho leer], se le secó el celebro, de manera que [result: vino a perder el juicio]'."
+          parts:
+            - s: "En resolución, él se enfrascó tanto en su letura, que"
+              g: "'él' is the subject pronoun, stated for emphasis ('he, for his part'). 'se enfrascó' is enfrascarse en (to become engrossed in), 3rd sg., preterite; -car verbs change c to qu only in the 1st sg. preterite ('enfrasqué'). 'tanto ... que' = so much ... that (result); 'tanto' is an adverb here, invariable."
+            - s: "se le pasaban las noches leyendo de claro en claro, y los días de turbio en turbio"
+              g: "'pasársele a uno' = to slip by on someone: 'pasaban' is pasar (to pass), 3rd pl., imperfect, agreeing with 'las noches'; 'se' makes it 'go by' and 'le' (to him) marks the person affected, the dative of interest. 'leyendo' is the gerund of leer (to read), 'reading'; the -iendo ending is spelled -yendo between vowels. The gerund tells how the nights went by. 'de claro en claro', 'de turbio en turbio': the pattern 'de X en X' = from X to X (de día en día, de mal en peor)."
+            - s: "y así, del poco dormir y del mucho leer"
+              g: "Infinitives used as nouns, with article and adjective: 'el poco dormir' = the little sleeping, 'el mucho leer' = the much reading (dormir = to sleep, leer = to read). 'del' = de + el, and this 'de' = from, because of."
+            - s: "se le secó el celebro"
+              g: "'secó' is secar (to dry), 3rd sg., preterite, with 'se' (secarse = to dry up) and 'le' (to him): 'his brain dried up on him'. Again the body part has the article and the owner appears as 'le'."
+            - s: "de manera que vino a perder el juicio"
+              g: "'de manera que' + indicative = so that (a result that happened). 'vino' is venir, 3rd sg., preterite (see note 15) + 'a' + the infinitive perder (to lose): 'venir a' + infinitive = to end up doing."
         note: "Sixteenth-century medicine held that the brain needed moisture; too much study and too little sleep 'dried' it and produced madness. 'Seco de carnes' above already hinted at this dry, choleric temperament."
       - es: "Llenósele la fantasía de todo aquello que leía en los libros, así de encantamentos como de pendencias, batallas, desafíos, heridas, requiebros, amores, tormentas y disparates imposibles;"
         literal: "Filled-itself-to-him the fantasy with all that which he-read in the books, as-much of enchantments as of brawls, battles, challenges, wounds, compliments, loves, storms and absurdities impossible;"
@@ -274,6 +492,13 @@ paragraphs:
           - {w: "desafío", d: "challenge, duel"}
           - {w: "tormenta", d: "storm (Ormsby reads it as 'torment')"}
           - {w: "disparate", d: "absurdity, nonsense"}
+        grammar:
+          structure: "Verb first, 'Llenósele', then the subject 'la fantasía', then what it filled with, 'de todo aquello que leía', and a long list in apposition introduced by 'así de ... como de ...'."
+          parts:
+            - s: "Llenósele la fantasía de todo aquello que leía en los libros"
+              g: "'Llenósele' = 'Se le llenó': llenar (to fill), 3rd sg., preterite, + 'se' (llenarse de = to fill with) + 'le' (to him), both clitics attached to the end because the verb opens the sentence (see note 13). The subject 'la fantasía' follows the verb. 'de' = with (what it filled with). 'todo aquello que' = 'all that which': the neuter 'aquello' + relative 'que'. 'leía' is leer, 3rd sg., imperfect."
+            - s: "así de encantamentos como de pendencias, batallas, desafíos, heridas, requiebros, amores, tormentas y disparates imposibles"
+              g: "'así ... como' = 'both ... and' (see note 4), with 'de' repeated on each side because it belongs to 'llenarse de'. A list of plural nouns without articles, types of thing. 'imposibles' is an adjective agreeing in the plural with 'disparates'."
       - es: "y asentósele de tal modo en la imaginación que era verdad toda aquella máquina de aquellas sonadas soñadas invenciones que leía, que para él no había otra historia más cierta en el mundo."
         literal: "and settled-itself-to-him in such manner in the imagination that it-was truth all that machinery of those famous dreamed-up inventions that he-read, that for him not there-was other history more certain in the world."
         ormsby: "and it so possessed his mind that the whole fabric of invention and fancy he read of was true, that to him no history in the world had more reality in it."
@@ -285,6 +510,13 @@ paragraphs:
           - {w: "invención", d: "invention, fiction"}
           - {w: "historia", d: "both 'history' and 'story': Spanish has one word, a pun the whole book exploits"}
           - {w: "cierto", d: "true, certain"}
+        grammar:
+          structure: "Verb first, 'asentósele', then 'de tal modo ... que': the first 'que' introduces what settled in his mind ('que era verdad toda aquella máquina ...') and the second 'que' (before 'para él') gives the result."
+          parts:
+            - s: "y asentósele de tal modo en la imaginación que era verdad toda aquella máquina de aquellas sonadas soñadas invenciones que leía"
+              g: "'asentósele' = 'se le asentó': asentar (to set down; asentarse = to settle, to become fixed), 3rd sg., preterite, with 'se' and 'le' attached (see notes 13 and 21). 'de tal modo ... que' = in such a way ... that. 'era verdad': ser, 3rd sg., imperfect, + 'verdad' with no article ('was true'); the subject 'toda aquella máquina' follows. 'toda' is fem., agreeing with 'máquina', and 'todo' always precedes the article or demonstrative ('toda aquella'). 'aquellas sonadas soñadas invenciones': two adjectives before the noun, fem. pl. 'que leía': relative, object."
+            - s: "que para él no había otra historia más cierta en el mundo"
+              g: "'había' is haber, 3rd sg., imperfect, impersonal = 'there was', the past of 'hay' (note 6); it stays singular even with a plural noun. 'otra ... más cierta' = 'any other truer': 'otra' is fem. agreeing with 'historia' (Spanish never puts 'una' before 'otro'); 'más cierta' is the comparative with 'más', completed by 'en el mundo'. 'para él' = for him: after a preposition the pronoun is 'él', not 'le'."
       - es: "Decía él que el Cid Ruy Díaz había sido muy buen caballero, pero que no tenía que ver con el Caballero de la Ardiente Espada, que de sólo un revés había partido por medio dos fieros y descomunales gigantes."
         literal: "Said he that the Cid Ruy Díaz had been very good knight, but that not he-had to see with the Knight of the Burning Sword, who of only one backhand had split by half two fierce and huge giants."
         ormsby: "He used to say the Cid Ruy Díaz was a very good knight, but that he was not to be compared with the Knight of the Burning Sword who with one back-stroke cut in half two fierce and monstrous giants."
@@ -296,6 +528,17 @@ paragraphs:
           - {w: "partir por medio", d: "to split in half"}
           - {w: "fiero", d: "fierce"}
           - {w: "descomunal", d: "enormous, monstrous"}
+        grammar:
+          structure: "'Decía él que' + two reported clauses: 'el Cid ... había sido muy buen caballero' and 'pero que no tenía que ver con el Caballero ...', the second ending in a relative clause 'que de sólo un revés había partido ...'."
+          parts:
+            - s: "Decía él que"
+              g: "'Decía' is decir, 3rd sg., imperfect (see note 18), with the subject 'él' placed after the verb for emphasis. Reported speech follows, with 'que ... pero que ...'."
+            - s: "el Cid Ruy Díaz había sido muy buen caballero"
+              g: "'había sido' is the pluperfect (see note 17), 'had been'. 'muy buen caballero': 'buen' is 'bueno' shortened before a masc. sing. noun (apocope, like 'gran' in note 5 and 'algún' in note 2); no article after ser."
+            - s: "pero que no tenía que ver con el Caballero de la Ardiente Espada"
+              g: "'tener que ver con' = to have to do with; 'tenía' is tener, 3rd sg., imperfect. Elsewhere 'tener que' + infinitive means 'must'; here it is the fixed idiom. 'Ardiente' is an adjective from arder (to burn), placed before 'Espada'."
+            - s: "que de sólo un revés había partido por medio dos fieros y descomunales gigantes"
+              g: "'que' = who (relative, the Knight). 'de sólo un revés' = 'with just one backstroke': this 'de' = by means of; 'sólo' with the accent (older spelling) = only, an adverb. 'había partido' is the pluperfect of partir (to split, to divide; also to depart), regular participle in -ido. 'por medio' = in half. 'dos fieros y descomunales gigantes': two adjectives before the noun, masc. pl."
       - es: "Mejor estaba con Bernardo del Carpio, porque en Roncesvalles había muerto a Roldán el encantado, valiéndose de la industria de Hércules, cuando ahogó a Anteo, el hijo de la Tierra, entre los brazos."
         literal: "Better he-was with Bernardo del Carpio, because in Roncesvalles he-had killed Roldán the enchanted, availing-himself of the artifice of Hercules, when he-choked Antaeus, the son of the Earth, between the arms."
         ormsby: "He thought more of Bernardo del Carpio because at Roncesvalles he slew Roland in spite of enchantments, availing himself of the artifice of Hercules when he strangled Antaeus the son of Terra in his arms."
@@ -308,6 +551,17 @@ paragraphs:
           - {w: "industria", d: "here: cunning, stratagem; not 'industry'"}
           - {w: "ahogar", d: "to choke, strangle, drown"}
           - {w: "Anteo", d: "Antaeus, giant invincible while touching his mother Earth; Hercules lifted him off the ground and crushed him"}
+        grammar:
+          structure: "Main clause 'Mejor estaba con Bernardo del Carpio'; 'porque' + a clause with the pluperfect 'había muerto a Roldán'; a gerund phrase 'valiéndose de la industria de Hércules' saying how; and 'cuando' + a clause about Hercules."
+          parts:
+            - s: "Mejor estaba con Bernardo del Carpio"
+              g: "'mejor' = better, here an adverb (the comparative of 'bien'), fronted for emphasis. 'estaba' is estar, 3rd sg., imperfect; 'estar bien con' = to be on good terms with, to approve of (see note 14)."
+            - s: "porque en Roncesvalles había muerto a Roldán el encantado"
+              g: "'había muerto' is the pluperfect of morir (to die), with the irregular participle 'muerto'; here in the archaic transitive sense 'had killed' (modern Spanish uses matar). 'a Roldán': the personal 'a', which marks a direct object that is a person (it appears again in 'ahogó a Anteo'). 'el encantado' = 'the enchanted one': article + past participle of encantar (to enchant) used as a noun, in apposition to Roldán."
+            - s: "valiéndose de la industria de Hércules"
+              g: "The gerund of valer (to be worth; 'valerse de' = to make use of), with the reflexive 'se' attached (clitics always attach to a gerund) and a written accent added to keep the stress: 'valiéndose'. The gerund means 'by availing himself of'."
+            - s: "cuando ahogó a Anteo, el hijo de la Tierra, entre los brazos"
+              g: "'cuando' = when. 'ahogó' is ahogar (to choke, to strangle, to drown), 3rd sg., preterite (regular; the 1st sg. would be 'ahogué'). 'a Anteo': the personal 'a' again. 'el hijo de la Tierra': an appositive with the article. 'entre los brazos' = in his arms: the article instead of the possessive for a body part (see note 14)."
         ormsby_note: "The Spanish tradition of the battle of Roncesvalles is, of course, at variance with the Chanson de Roland, but it is somewhat nearer historical truth, inasmuch as the slaughter of Roland and the rearguard of Charlemagne's army was effected not by Saracens, but by the Basque mountaineers."
       - es: "Decía mucho bien del gigante Morgante, porque, con ser de aquella generación gigantea, que todos son soberbios y descomedidos, él solo era afable y bien criado."
         literal: "He-said much good of the giant Morgante, because, with being of that lineage gigantic, who all are arrogant and rude, he alone was affable and well raised."
@@ -322,6 +576,17 @@ paragraphs:
           - {w: "descomedido", d: "rude, insolent, immoderate"}
           - {w: "afable", d: "affable, courteous"}
           - {w: "bien criado", d: "well brought up, well-mannered"}
+        grammar:
+          structure: "Main clause 'Decía mucho bien del gigante Morgante'; 'porque' + a concessive phrase 'con ser de aquella generación gigantea' with a loose relative 'que todos son ...' inside it; then the main statement 'él solo era afable y bien criado'."
+          parts:
+            - s: "Decía mucho bien del gigante Morgante"
+              g: "'Decía' is decir, 3rd sg., imperfect; 'decir bien de' = to speak well of; 'mucho' modifies 'bien' (very well). 'del' = de + el."
+            - s: "porque, con ser de aquella generación gigantea"
+              g: "'con' + infinitive = 'although being', a concessive use of 'con'; ser = to be, and 'ser de' = to belong to. 'aquella generación gigantea': fem. demonstrative + noun + adjective after the noun, fem."
+            - s: "que todos son soberbios y descomedidos"
+              g: "A loose 'que', '[a breed] of which'. 'todos' = all, pronoun, masc. pl., the subject. 'son' is ser, 3rd pl., present (see note 8 for the full present of ser). The adjectives are masc. pl."
+            - s: "él solo era afable y bien criado"
+              g: "'él solo' = he alone: 'solo' is the adjective agreeing with 'él', not the adverb 'sólo'. 'era' is ser, 3rd sg., imperfect, + two predicate adjectives. 'bien criado' = the past participle of criar (to raise, to bring up) with the adverb 'bien'."
       - es: "Pero, sobre todos, estaba bien con Reinaldos de Montalbán, y más cuando le veía salir de su castillo y robar cuantos topaba, y cuando en allende robó aquel ídolo de Mahoma que era todo de oro, según dice su historia."
         literal: "But, above all, he-was well with Reinaldos of Montalbán, and more when him he-saw go-out from his castle and rob as-many-as he-ran-into, and when in over-there he-stole that idol of Mohammed that was all of gold, according-to says his history."
         ormsby: "But above all he admired Reinaldos of Montalban, especially when he saw him sallying forth from his castle and robbing everyone he met, and when beyond the seas he stole that image of Mahomet which, as his history says, was entirely of gold."
@@ -333,6 +598,17 @@ paragraphs:
           - {w: "allende", d: "overseas, beyond the sea; 'en allende' = in Barbary, the East"}
           - {w: "ídolo", d: "idol; medieval Christians wrongly believed Muslims worshipped an idol of Mohammed"}
           - {w: "según", d: "according to"}
+        grammar:
+          structure: "Main clause 'estaba bien con Reinaldos de Montalbán'; then two 'cuando' clauses joined by 'y': the first with the imperfect ('cuando le veía salir ... y robar ...', repeated occasions), the second with the preterite ('cuando ... robó aquel ídolo', one event), closed by 'según dice su historia'."
+          parts:
+            - s: "Pero, sobre todos, estaba bien con Reinaldos de Montalbán"
+              g: "'sobre todos' = above all [of them]. 'estaba bien con': estar, 3rd sg., imperfect, in the idiom of notes 14 and 24."
+            - s: "y más cuando le veía salir de su castillo y robar cuantos topaba"
+              g: "'y más cuando' = and especially when. 'veía' is ver (to see), 3rd sg., imperfect: veía, veías, veía, veíamos, veíais, veían (ver keeps its e, the only imperfect irregularity besides ser and ir). 'le' = him, the direct object (leísmo, see note 14). 'salir' (to go out) is a bare infinitive after a verb of perception, 'saw him leave', just as in English; 'robar' (to rob, to steal) is a second infinitive coordinated with it. 'cuantos' = 'all those whom' (relative, masc. pl., standing for people). 'topaba' is topar (to bump into), 3rd sg., imperfect."
+            - s: "y cuando en allende robó aquel ídolo de Mahoma que era todo de oro"
+              g: "'cuando' + preterite: a single event. 'robó' is robar, 3rd sg., preterite. 'aquel ídolo': masc. sing. demonstrative 'aquel'. 'que era todo de oro': relative 'que'; 'era' is ser, imperfect; 'todo' here is an adverb, 'entirely'; 'de oro' = of gold, the 'de' of material."
+            - s: "según dice su historia"
+              g: "'según' = according to. 'dice' is decir (to say), 3rd sg., present: digo, dices, dice, decimos, decís, dicen. The subject 'su historia' comes after the verb."
       - es: "Diera él, por dar una mano de coces al traidor de Galalón, al ama que tenía, y aun a su sobrina de añadidura."
         literal: "Would-give he, for giving a hand of kicks to the traitor of Galalón, the housekeeper that he-had, and even his niece of addition."
         ormsby: "To have a bout of kicking at that traitor of a Ganelon he would have given his housekeeper, and his niece into the bargain."
@@ -341,6 +617,17 @@ paragraphs:
           - {w: "dar una mano de coces", d: "to give a round of kicks ('coz' = kick; 'una mano de' = a bout of)"}
           - {w: "el traidor de Galalón", d: "that traitor Ganelon; 'el traidor de X' = 'that traitor of an X'"}
           - {w: "de añadidura", d: "into the bargain"}
+        grammar:
+          structure: "Verb first, 'Diera él', then a purpose phrase 'por dar una mano de coces al traidor de Galalón', then the two direct objects, 'al ama que tenía' and 'a su sobrina'. A conditional statement with no 'if' clause: 'he would have given ... [if he could]'."
+          parts:
+            - s: "Diera él"
+              g: "'Diera' is dar (to give), 3rd sg., imperfect subjunctive, -ra form (dieron → diera), used as a conditional, 'he would have given' (see notes 13 and 16). The subject pronoun 'él' follows the verb."
+            - s: "por dar una mano de coces al traidor de Galalón"
+              g: "'por' + infinitive = for the sake of, in exchange for doing; dar is the infinitive. 'una mano de coces' = a round of kicks. 'al traidor de Galalón': 'al' = a + el, and this 'a' marks the indirect object ('give kicks TO the traitor'); 'el traidor de X' = 'that traitor of an X', the insult pattern noun + de + name ('el tonto de Juan')."
+            - s: "al ama que tenía"
+              g: "The direct object of 'diera', with 'a' because the housekeeper is a person (the personal 'a', see note 24). 'que tenía' = whom he had: relative 'que' as object; 'tenía' is tener, 3rd sg., imperfect."
+            - s: "y aun a su sobrina de añadidura"
+              g: "A second direct object with the personal 'a'. 'aun' = even. 'de añadidura' = into the bargain."
         ormsby_note: "Ganelon, the arch-traitor of the Charlemagne legend. In Spanish he appears as Galalon, in Italian as Gano; but in this as in the cases of Roland, Baldwin, and others, I have thought it best to give the name in the form in which it is best known, and will be most readily recognized, instead of Roldan, Valdovinos, etc."
   - sentences:
       - es: "En efeto, rematado ya su juicio, vino a dar en el más estraño pensamiento que jamás dio loco en el mundo;"
@@ -353,6 +640,15 @@ paragraphs:
           - {w: "estraño", d: "= extraño, strange"}
           - {w: "jamás", d: "ever (in this construction); usually 'never'"}
           - {w: "loco", d: "madman"}
+        grammar:
+          structure: "An absolute participle phrase, 'rematado ya su juicio', sets the scene; then the main clause 'vino a dar en el más estraño pensamiento'; then a relative clause 'que jamás dio loco en el mundo'."
+          parts:
+            - s: "En efeto, rematado ya su juicio"
+              g: "An absolute participle construction: the past participle 'rematado' (rematar, to finish off) with its own subject 'su juicio', meaning 'his judgment now being finished off'. The participle agrees with its noun (masc. sing.) and comes first. 'ya' = already, by now."
+            - s: "vino a dar en el más estraño pensamiento"
+              g: "'vino' is venir, 3rd sg., preterite (see note 15), + 'a' + infinitive (see note 20): 'came to hit upon'. 'dar en' = to hit upon. 'el más estraño pensamiento' is a superlative: definite article + 'más' + adjective, here with the adjective before the noun."
+            - s: "que jamás dio loco en el mundo"
+              g: "'que' is a relative used as object: 'that ever a madman hit upon'. 'jamás' after a superlative means 'ever' (elsewhere it means 'never'). 'dio' is dar, 3rd sg., preterite, irregular: di, diste, dio, dimos, disteis, dieron (dar takes the -er/-ir endings and no accents). 'loco' without an article = 'any madman', a generic subject placed after the verb."
       - es: "y fue que le pareció convenible y necesario, así para el aumento de su honra como para el servicio de su república, hacerse caballero andante, y irse por todo el mundo con sus armas y caballo a buscar las aventuras y a ejercitarse en todo aquello que él había leído que los caballeros andantes se ejercitaban, deshaciendo todo género de agravio, y poniéndose en ocasiones y peligros donde, acabándolos, cobrase eterno nombre y fama."
         literal: "and it-was that to-him seemed fitting and necessary, as-much for the increase of his honor as for the service of his commonwealth, to-make-himself knight errant, and to-go-off through all the world with his arms and horse to seek the adventures and to exercise-himself in all that which he had read that the knights errant exercised-themselves-in, undoing every kind of wrong, and putting-himself in occasions and dangers where, finishing-them, he-might-gain eternal name and fame."
         ormsby: "and that was that he fancied it was right and requisite, as well for the support of his own honour as for the service of his country, that he should make a knight-errant of himself, roaming the world over in full armour and on horseback in quest of adventures, and putting in practice himself all that he had read of as being the usual practices of knights-errant; righting every kind of wrong, and exposing himself to peril and danger from which, in the issue, he was to reap eternal renown and fame."
@@ -366,6 +662,23 @@ paragraphs:
           - {w: "deshacer agravios", d: "to right wrongs ('agravio' = wrong, offense); a stock phrase of the romances"}
           - {w: "ocasión", d: "here: hazardous situation, occasion for action"}
           - {w: "cobrar fama", d: "to win fame"}
+        grammar:
+          structure: "'y fue que' (and it was that) + 'le pareció convenible y necesario ...'. The real subject of 'pareció' is the pair of infinitives 'hacerse caballero andante, y irse por todo el mundo'. After them come two purpose phrases ('a buscar ... y a ejercitarse en ...'), three gerund phrases saying how ('deshaciendo ...', 'poniéndose ...', 'acabándolos'), and a final relative clause 'donde ... cobrase eterno nombre y fama'."
+          parts:
+            - s: "y fue que le pareció convenible y necesario"
+              g: "'fue' is ser (to be), 3rd sg., preterite: fui, fuiste, fue, fuimos, fuisteis, fueron (identical to the preterite of ir). 'fue que' = 'it was that'. 'pareció' is parecer (to seem), 3rd sg., preterite, + 'le' (to him): 'it seemed to him'. The adjectives are masc. sing. because their subject is an infinitive phrase (see below)."
+            - s: "así para el aumento de su honra como para el servicio de su república"
+              g: "'así ... como' = both ... and (see notes 4 and 21). 'para' = for (purpose), repeated in each half."
+            - s: "hacerse caballero andante, y irse por todo el mundo con sus armas y caballo"
+              g: "These two infinitives are the subject of 'pareció': 'to make himself a knight-errant and go off through the world'. 'hacerse' is hacer (to do, to make) + 'se': hacerse + noun = to become. 'caballero andante' takes no article; 'andante' is the old present participle of andar (to walk, to go about). 'irse' is ir (to go) + 'se' = to go off, to go away (irse stresses departure). 'y irse': modern Spanish writes 'e irse', 'y' becoming 'e' before an i- sound. 'por todo el mundo': 'por' = through, all over. 'sus armas y caballo': one possessive covers both nouns."
+            - s: "a buscar las aventuras y a ejercitarse en todo aquello que"
+              g: "'a' + infinitive after a verb of motion ('irse ... a buscar') = 'to seek', purpose. buscar (to look for) takes a direct object with no preposition ('buscar las aventuras'). 'ejercitarse en' = to practice, a reflexive infinitive with 'se' attached. 'todo aquello que' = all that which (see note 21)."
+            - s: "él había leído que los caballeros andantes se ejercitaban"
+              g: "'había leído' is the pluperfect (see note 17) of leer (to read); the participle 'leído' takes an accent to break the diphthong. 'que' = that. 'se ejercitaban' is ejercitarse, 3rd pl., imperfect. The sentence is loosely joined: 'in all that which he had read that knights-errant practised [in]'."
+            - s: "deshaciendo todo género de agravio, y poniéndose en ocasiones y peligros"
+              g: "Two gerunds (see note 24). 'deshaciendo' is deshacer (to undo), irregular like hacer → haciendo. 'poniéndose' is poner (to put) + 'se', 'putting himself', with the accent added. 'todo género de' = every kind of; 'agravio' is singular and generic."
+            - s: "donde, acabándolos, cobrase eterno nombre y fama"
+              g: "'donde' = where, relative. 'acabándolos' is the gerund of acabar (to finish) + 'los' (them = the dangers) attached. 'cobrase' is cobrar (to collect, to gain), 3rd sg., imperfect subjunctive, -se form: this is the second imperfect subjunctive, cobrase, cobrases, cobrase, cobrásemos, cobraseis, cobrasen, interchangeable with the -ra form of note 13. Subjunctive because the clause describes a hoped-for outcome, not a fact ('where he might win'). 'eterno nombre y fama': adjective before the noun, no article."
       - es: "Imaginábase el pobre ya coronado por el valor de su brazo, por lo menos, del imperio de Trapisonda; y así, con estos tan agradables pensamientos, llevado del estraño gusto que en ellos sentía, se dio priesa a poner en efeto lo que deseaba."
         literal: "Imagined-himself the poor-man already crowned by the valor of his arm, at the least, of the empire of Trebizond; and thus, with these so agreeable thoughts, carried by the strange pleasure that in them he-felt, himself he-gave haste to put in effect that which he-desired."
         ormsby: "Already the poor man saw himself crowned by the might of his arm Emperor of Trebizond at least; and so, led away by the intense enjoyment he found in these pleasant fancies, he set himself forthwith to put his scheme into execution."
@@ -379,6 +692,17 @@ paragraphs:
           - {w: "gusto", d: "pleasure"}
           - {w: "darse priesa", d: "= darse prisa, to hurry"}
           - {w: "poner en efeto", d: "to put into effect"}
+        grammar:
+          structure: "Verb first, 'Imaginábase', subject 'el pobre' after it, then what he pictured ('ya coronado ... del imperio de Trapisonda'). After the semicolon: two participial phrases about his state ('con estos tan agradables pensamientos', 'llevado del estraño gusto ...') and the main clause 'se dio priesa a poner en efeto lo que deseaba'."
+          parts:
+            - s: "Imaginábase el pobre ya coronado por el valor de su brazo, por lo menos, del imperio de Trapisonda"
+              g: "'Imaginábase' = 'se imaginaba' (see note 13 for clitics on the end of a finite verb, note 14 for imaginarse): imaginar, 3rd sg., imperfect. The subject 'el pobre' follows the verb: an adjective used as a noun with the article, 'the poor fellow'. 'coronado' is the past participle of coronar (to crown), agreeing with 'el pobre', masc. sing.; 'imaginarse' + adjective = to picture oneself [adj]. 'por' = by (agent). 'del imperio' = '[crowned] of the empire', i.e. as its emperor. 'por lo menos' = at least: neuter 'lo' + adverb."
+            - s: "y así, con estos tan agradables pensamientos"
+              g: "'estos tan agradables pensamientos' = 'these such pleasant thoughts': 'tan' (so) intensifies an adjective placed before the noun."
+            - s: "llevado del estraño gusto que en ellos sentía"
+              g: "'llevado' is the past participle of llevar (to carry), agreeing with the subject (he): 'carried away'. 'del' = de + el, where 'de' = by (the agent; modern Spanish would use 'por'). 'que en ellos sentía': relative as object; 'en ellos' = in them ('ellos' = the thoughts, masc. pl. pronoun after a preposition); 'sentía' is sentir (to feel), 3rd sg., imperfect."
+            - s: "se dio priesa a poner en efeto lo que deseaba"
+              g: "'darse prisa a' + infinitive = to hasten to: 'dio' is dar, 3rd sg., preterite (see note 28), with the reflexive 'se'. poner (to put) is the infinitive; 'poner en efecto' = to put into effect. 'lo que' = 'what, that which' (neuter 'lo' + 'que'). 'deseaba' is desear (to desire), 3rd sg., imperfect."
         ormsby_note: "Like Reinaldos or Rinaldo, who came to be Emperor of Trebizond."
   - sentences:
       - es: "Y lo primero que hizo fue limpiar unas armas que habían sido de sus bisabuelos, que, tomadas de orín y llenas de moho, luengos siglos había que estaban puestas y olvidadas en un rincón."
@@ -393,6 +717,17 @@ paragraphs:
           - {w: "luengo", d: "long (archaic); 'luengos siglos' = long centuries"}
           - {w: "había que", d: "archaic for 'hacía que': it had been [so long] that"}
           - {w: "rincón", d: "corner (an inside corner)"}
+        grammar:
+          structure: "'lo primero que hizo fue limpiar unas armas': subject 'lo primero que hizo', verb 'fue', predicate the infinitive 'limpiar'. Then two relative clauses on 'armas': 'que habían sido de sus bisabuelos' and 'que ... estaban puestas y olvidadas', the second carrying two participles and a time phrase 'luengos siglos había que'."
+          parts:
+            - s: "Y lo primero que hizo fue limpiar unas armas"
+              g: "'lo primero que' = 'the first thing that': neuter 'lo' + adjective (see note 3). 'hizo' is hacer (to do, to make), 3rd sg., preterite, irregular: hice, hiciste, hizo (z for the soft c sound), hicimos, hicisteis, hicieron. 'fue' is ser, preterite (see note 29), + the infinitive limpiar (to clean) as predicate: 'was to clean'. 'unas armas': 'unas' = some, the indefinite plural; 'armas' is always plural when it means armor."
+            - s: "que habían sido de sus bisabuelos"
+              g: "Relative 'que'. 'habían sido' is the pluperfect, 3rd pl., agreeing with 'armas' (see note 17). 'ser de' + person = to belong to."
+            - s: "que, tomadas de orín y llenas de moho"
+              g: "A second relative 'que' (its verb is 'estaban', below). 'tomadas' (participle of tomar, to take) and 'llenas' (adjective) are fem. pl., agreeing with 'armas'; 'tomado de' = taken by, seized with; 'lleno de' = full of."
+            - s: "luengos siglos había que estaban puestas y olvidadas en un rincón"
+              g: "'había que' with a span of time = 'it had been [long centuries] that': haber, 3rd sg., imperfect, impersonal (see note 22), the past of the 'ha ... que' of note 1; modern 'hacía siglos que'. 'estaban' is estar, 3rd pl., imperfect, + the participles 'puestas' (poner, irregular participle 'puesto') and 'olvidadas' (olvidar), fem. pl. agreeing with 'armas': 'estar' + participle describes a resulting state, they were [lying] put away and forgotten."
       - es: "Limpiólas y aderezólas lo mejor que pudo, pero vio que tenían una gran falta, y era que no tenían celada de encaje, sino morrión simple;"
         literal: "He-cleaned-them and fixed-them-up the best that he-could, but he-saw that they-had a great fault, and it-was that not they-had helmet of fitting, but-rather morion simple;"
         ormsby: "He scoured and polished it as best he could, but he perceived one great defect in it, that it had no closed helmet, nothing but a simple morion."
@@ -405,6 +740,15 @@ paragraphs:
           - {w: "de encaje", d: "that locks into the gorget, i.e. a full closed helmet"}
           - {w: "sino", d: "but rather"}
           - {w: "morrión", d: "morion, an open helmet with a brim"}
+        grammar:
+          structure: "Two verbs with attached objects, 'Limpiólas y aderezólas', + 'lo mejor que pudo'; then 'pero vio que' + what he saw, explained by 'y era que no tenían ..., sino ...'."
+          parts:
+            - s: "Limpiólas y aderezólas lo mejor que pudo"
+              g: "'Limpiólas' is limpiar (to clean) and 'aderezólas' is aderezar (to fix up, to dress), both 3rd sg., preterite, each with the object clitic 'las' (them = las armas, fem. pl.) attached at the end (see note 13); modern Spanish: 'las limpió y las aderezó'. 'lo mejor que pudo' = 'the best he could': neuter 'lo' + superlative + 'que' + 'pudo', poder, 3rd sg., preterite (see note 9)."
+            - s: "pero vio que tenían una gran falta"
+              g: "'vio' is ver (to see), 3rd sg., preterite: vi, viste, vio, vimos, visteis, vieron, no accents. 'que' = that. 'tenían' is tener, 3rd pl., imperfect, agreeing with 'armas'. 'una gran falta': 'gran' before a feminine noun too (see note 5)."
+            - s: "y era que no tenían celada de encaje, sino morrión simple"
+              g: "'era que' = '[it] was that', ser, imperfect; the subject is the fault. 'no ... sino' = 'not ... but rather': 'sino' contradicts a preceding negative, where 'pero' would only add a qualification. 'celada de encaje' and 'morrión simple' have no article: kinds of thing."
         ormsby_note: "That is, a simple headpiece without either visor or beaver."
       - es: "mas a esto suplió su industria, porque de cartones hizo un modo de media celada, que, encajada con el morrión, hacían una apariencia de celada entera."
         literal: "but to this supplied his ingenuity, because of pasteboards he-made a kind of half helmet, which, fitted with the morion, made an appearance of helmet whole."
@@ -418,6 +762,15 @@ paragraphs:
           - {w: "encajado", d: "fitted, slotted in"}
           - {w: "apariencia", d: "appearance, semblance"}
           - {w: "entero", d: "whole, complete"}
+        grammar:
+          structure: "'a esto suplió su industria': object phrase first, verb, then subject. 'porque' + 'de cartones hizo un modo de media celada', then a relative clause on the half-helmet, 'que, encajada con el morrión, hacían una apariencia de celada entera'."
+          parts:
+            - s: "mas a esto suplió su industria"
+              g: "'mas' = but (see note 18). 'a esto' = for this: 'suplir a' = to make up for; 'esto' is the neuter demonstrative. 'suplió' is suplir (to supply, to make up for), 3rd sg., preterite (the -ir preterite takes the -er endings, see note 9). The subject 'su industria' comes after the verb."
+            - s: "porque de cartones hizo un modo de media celada"
+              g: "'de cartones' = out of pasteboards: the 'de' of material, placed first for emphasis. 'hizo' is hacer, 3rd sg., preterite (see note 31). 'un modo de' = a sort of. 'media celada': 'medio / media' = half, an adjective agreeing with 'celada' (fem.), and it takes no article ('media hora', 'medio litro')."
+            - s: "que, encajada con el morrión, hacían una apariencia de celada entera"
+              g: "'que' is a relative (the half-helmet). 'encajada' is the participle of encajar (to fit in, to slot together), fem. sing. agreeing with 'media celada', used absolutely: 'once fitted with the morion'. 'hacían' is hacer, 3rd pl., imperfect: plural because Cervantes is thinking of the two pieces together (half-helmet and morion) although the grammatical antecedent 'que' is singular, an agreement by sense. 'hacer una apariencia de' = to give the appearance of. 'entera' is fem., agreeing with 'celada'."
       - es: "Es verdad que para probar si era fuerte y podía estar al riesgo de una cuchillada, sacó su espada y le dio dos golpes, y con el primero y en un punto deshizo lo que había hecho en una semana;"
         literal: "It-is truth that to test if it-was strong and could stand at the risk of a sword-slash, he-drew his sword and to-it gave two blows, and with the first and in one instant he-undid that which he-had done in a week;"
         ormsby: "It is true that, in order to see if it was strong and fit to stand a cut, he drew his sword and gave it a couple of slashes, the first of which undid in an instant what had taken him a week to do."
@@ -429,6 +782,17 @@ paragraphs:
           - {w: "golpe", d: "blow"}
           - {w: "en un punto", d: "in an instant"}
           - {w: "deshacer", d: "to undo, destroy"}
+        grammar:
+          structure: "'Es verdad que' + a clause. Inside it, a purpose phrase first ('para probar si era fuerte y podía ...'), then two preterites ('sacó su espada y le dio dos golpes'), then a third ('deshizo lo que había hecho ...') with two fronted adverbials 'con el primero y en un punto'."
+          parts:
+            - s: "Es verdad que"
+              g: "'it is true that': ser, 3rd sg., present, + a noun with no article; 'que' introduces the clause."
+            - s: "para probar si era fuerte y podía estar al riesgo de una cuchillada"
+              g: "'para' + the infinitive probar (to test, to try, to taste) = in order to test. 'si' = whether, an indirect question. 'era' is ser and 'podía' is poder (to be able), both 3rd sg., imperfect; the subject is the helmet ('fuerte' has one form for masc. and fem.). 'estar al riesgo de' = to stand up to the risk of; 'al' = a + el."
+            - s: "sacó su espada y le dio dos golpes"
+              g: "'sacó' is sacar (to take out, to draw), 3rd sg., preterite (regular; the 1st sg. is 'saqué'). 'dio' is dar, preterite (see note 28), + 'le' (to it = the helmet, indirect object) + 'dos golpes' as direct object: 'gave it two blows'."
+            - s: "y con el primero y en un punto deshizo lo que había hecho en una semana"
+              g: "'el primero' = the first [one]: an ordinal used as a pronoun with the article (the full form 'primero' is kept when no noun follows; before a masc. noun it shortens to 'primer'). 'en un punto' = in an instant. 'deshizo' is deshacer (to undo), 3rd sg., preterite, conjugated like hacer (see note 31). 'lo que había hecho': 'lo que' = what; 'había hecho' is the pluperfect with the irregular participle 'hecho' of hacer. 'en una semana' = in a week."
       - es: "y no dejó de parecerle mal la facilidad con que la había hecho pedazos, y, por asegurarse deste peligro, la tornó a hacer de nuevo, poniéndole unas barras de hierro por de dentro, de tal manera que él quedó satisfecho de su fortaleza;"
         literal: "and not it-failed to seem-to-him bad the ease with which it he-had made pieces, and, to secure-himself from-this danger, it he-turned to make anew, putting-to-it some bars of iron by from within, in such manner that he remained satisfied of its strength;"
         ormsby: "The ease with which he had knocked it to pieces disconcerted him somewhat, and to guard against that danger he set to work again, fixing bars of iron on the inside until he was satisfied with its strength;"
@@ -443,6 +807,19 @@ paragraphs:
           - {w: "barra de hierro", d: "iron bar"}
           - {w: "por de dentro", d: "on the inside"}
           - {w: "fortaleza", d: "strength (also 'fortress')"}
+        grammar:
+          structure: "Four stretches joined by 'y': 'no dejó de parecerle mal la facilidad ...' (the ease is the subject, placed last); 'por asegurarse deste peligro' (purpose); 'la tornó a hacer de nuevo, poniéndole unas barras ...' (main action plus a gerund saying how); and a result clause 'de tal manera que él quedó satisfecho'."
+          parts:
+            - s: "y no dejó de parecerle mal la facilidad con que la había hecho pedazos"
+              g: "'no dejar de' + infinitive = 'not to fail to' (see note 14): 'dejó' is dejar, 3rd sg., preterite. The infinitive parecer (to seem) + 'le' (to him) + 'mal': 'parecerle mal a uno' = to strike one as bad, to displease. The subject of the whole is 'la facilidad', placed after: 'the ease could not help displeasing him'. 'con que' = 'with which', preposition + relative (see note 1 for 'de cuyo'). 'la había hecho pedazos': 'hacer pedazos' = to smash to pieces; 'había hecho' is the pluperfect; 'la' = it (the celada, fem.), the direct object pronoun before the auxiliary."
+            - s: "y, por asegurarse deste peligro"
+              g: "'por' + infinitive = in order to (purpose; 'para' would be usual today). asegurarse de (to make oneself safe from, to make sure of): the infinitive asegurar (to secure) with 'se' attached. 'deste' = de este."
+            - s: "la tornó a hacer de nuevo"
+              g: "'tornar a' + infinitive = to do again (archaic; modern 'volver a'): 'tornó' is tornar (to turn, to return), 3rd sg., preterite, + hacer. 'la' = it (the celada), standing before the conjugated verb. 'de nuevo' = anew, again, so the sentence says 'again' twice, a common redundancy."
+            - s: "poniéndole unas barras de hierro por de dentro"
+              g: "The gerund of poner (to put), 'poniendo', + 'le' (to it, on it) attached, with the written accent (see note 24). 'unas barras de hierro' = some bars of iron, the 'de' of material. 'por de dentro' = on the inside."
+            - s: "de tal manera que él quedó satisfecho de su fortaleza"
+              g: "'de tal manera que' = in such a way that, a result, with the indicative because it is a fact. 'quedó' is quedar (to remain, to stay; quedar + adjective = to end up, to be left [adj]), 3rd sg., preterite. 'satisfecho' is the participle of satisfacer (to satisfy), irregular like hacer → hecho; 'satisfecho de' = satisfied with. 'él' is stated for emphasis: he, at least, was satisfied."
       - es: "y, sin querer hacer nueva experiencia della, la diputó y tuvo por celada finísima de encaje."
         literal: "and, without wanting to make new experiment of-it, it he-deputed and held for helmet most-fine of fitting."
         ormsby: "and then, not caring to try any more experiments with it, he passed it and adopted it as a helmet of the most perfect construction."
@@ -452,6 +829,13 @@ paragraphs:
           - {w: "diputar", d: "to designate, deem (archaic)"}
           - {w: "tener por", d: "to consider, regard as"}
           - {w: "finísimo", d: "superlative of 'fino': very fine, first-rate"}
+        grammar:
+          structure: "A 'sin' + infinitive phrase ('without wanting to test it again'), then the main clause with two verbs sharing one object: 'la diputó y tuvo por celada finísima de encaje'."
+          parts:
+            - s: "y, sin querer hacer nueva experiencia della"
+              g: "'sin' + infinitive = without doing. querer (to want) + hacer (to make): 'without wanting to make'. 'nueva experiencia' = a new trial, no article. 'della' = de ella = of it (the celada, fem., see note 3)."
+            - s: "la diputó y tuvo por celada finísima de encaje"
+              g: "'la' = it (the celada), the shared direct object of both verbs. 'diputó' is diputar (to deem, to consider; today 'to deputize') and 'tuvo' is tener (see note 17), both 3rd sg., preterite; 'tener por' + noun or adjective = to consider as, to take for. 'finísima' is the absolute superlative in -ísimo (fino → finísima, fem.), 'extremely fine'."
   - sentences:
       - es: "Fue luego a ver su rocín, y, aunque tenía más cuartos que un real y más tachas que el caballo de Gonela, que tantum pellis et ossa fuit, le pareció que ni el Bucéfalo de Alejandro ni Babieca el del Cid con él se igualaban."
         literal: "He-went next to see his nag, and, although it-had more quarters than a real and more blemishes than the horse of Gonela, which 'only skin and bones was', to-him it-seemed that neither the Bucephalus of Alexander nor Babieca the [one] of the Cid with him equaled-themselves."
@@ -466,6 +850,17 @@ paragraphs:
           - {w: "Bucéfalo", d: "Bucephalus, Alexander the Great's horse"}
           - {w: "Babieca", d: "the Cid's horse"}
           - {w: "igualarse con", d: "to be equal to"}
+        grammar:
+          structure: "Main clause 'Fue luego a ver su rocín'; then 'aunque' + a concessive clause with two comparisons ('más cuartos que un real', 'más tachas que el caballo de Gonela'), a Latin tag in a relative clause; then the main statement 'le pareció que ni ... ni ... con él se igualaban'."
+          parts:
+            - s: "Fue luego a ver su rocín"
+              g: "'Fue' is ir (to go), 3rd sg., preterite, the same form as ser's (see note 29); context decides, and here it is 'went'. 'a' + the infinitive ver (to see) = went to see. 'luego' = then, next (archaic; today usually 'later' or 'therefore')."
+            - s: "y, aunque tenía más cuartos que un real y más tachas que el caballo de Gonela"
+              g: "'aunque' = although, + indicative for a fact. 'tenía' is tener, 3rd sg., imperfect. 'más ... que' = more ... than (see note 2), twice. The joke rides on 'cuartos': both cracks in a hoof and the small coins a real was worth."
+            - s: "que tantum pellis et ossa fuit"
+              g: "A relative 'que' + a Latin tag, 'was only skin and bones', a fifteenth-century joke Cervantes quotes."
+            - s: "le pareció que ni el Bucéfalo de Alejandro ni Babieca el del Cid con él se igualaban"
+              g: "'pareció' is parecer, preterite, + 'le' (see note 29): 'it seemed to him that'. 'ni ... ni' = neither ... nor. 'el del Cid' = 'the one of the Cid': article as pronoun + 'del' (see 'los que' in note 10). 'se igualaban' is igualarse con (to be equal to), 3rd pl., imperfect, reflexive, agreeing with the two horses; 'con él' = with it (the rocín), the pronoun 'él' after a preposition. The 'con él' phrase stands before the verb."
         ormsby_note: "An untranslatable pun on the word quarto, which means a sand-crack in a horse's hoof, as well as the coin equal to one-eighth of the real. Gonela, or Gonnella, was a jester in the service of Borso, Duke of Ferrara (1450-1470). A book of the jests attributed to him was printed in 1568, the year before Cervantes went to Italy."
       - es: "Cuatro días se le pasaron en imaginar qué nombre le pondría;"
         literal: "Four days to-him passed in imagining what name to-it he-would-put;"
@@ -474,6 +869,13 @@ paragraphs:
           - {w: "pasársele a uno", d: "(of time) to go by for someone"}
           - {w: "imaginar", d: "here: to think over, devise"}
           - {w: "poner nombre", d: "to give a name"}
+        grammar:
+          structure: "'Cuatro días se le pasaron en imaginar' (the days are the subject, he is 'le'), followed by an indirect question, 'qué nombre le pondría'."
+          parts:
+            - s: "Cuatro días se le pasaron en imaginar"
+              g: "'pasársele a uno' (see note 20): 'pasaron' is pasar (to pass), 3rd pl., preterite, agreeing with 'cuatro días', with 'se' and 'le' (on him). 'en' + the infinitive imaginar (to imagine, to think up) = 'in imagining', the activity that filled the time."
+            - s: "qué nombre le pondría"
+              g: "An indirect question: 'qué' (what, which) with the accent, before a noun. 'le' = to it (the horse). 'pondría' is poner (to put), 3rd sg., conditional, with the irregular stem pondr- (the same stem as the future 'pondré'): pondría, pondrías, pondría, pondríamos, pondríais, pondrían (see note 14 for the conditional endings). The conditional is a future seen from the past, 'would give'; 'poner nombre a' = to name."
       - es: "porque, según se decía él a sí mesmo, no era razón que caballo de caballero tan famoso, y tan bueno él por sí, estuviese sin nombre conocido;"
         literal: "because, according-as said he to himself, not it-was reason that horse of knight so famous, and so good he by himself, should-be without name known;"
         ormsby: "because (as he said to himself) it was not right that a horse belonging to a knight so famous, and one with such merits of his own, should be without some distinctive name,"
@@ -483,6 +885,17 @@ paragraphs:
           - {w: "no era razón que", d: "it was not right that"}
           - {w: "por sí", d: "in itself, in its own right"}
           - {w: "conocido", d: "known, recognized"}
+        grammar:
+          structure: "'porque' + a parenthetical 'según se decía él a sí mesmo' + the impersonal judgment 'no era razón que ... estuviese sin nombre conocido', whose subject, 'caballo de caballero tan famoso, y tan bueno él por sí', sits between 'que' and the verb."
+          parts:
+            - s: "porque, según se decía él a sí mesmo"
+              g: "'según' = as, according to what. 'se decía' is decir (to say), 3rd sg., imperfect, with 'se' (to himself, an indirect-object reflexive) before the verb, the subject 'él' after it, and 'a sí mesmo' (= a sí mismo, to himself) repeating the reflexive for emphasis; 'sí' with the accent is the reflexive pronoun used after prepositions."
+            - s: "no era razón que"
+              g: "'no ser razón que' = 'it was not right that': an impersonal judgment + 'que' + subjunctive (see note 7). 'era' is ser, 3rd sg., imperfect."
+            - s: "caballo de caballero tan famoso, y tan bueno él por sí"
+              g: "The subject of 'estuviese', with no articles: '[the] horse of [a] knight so famous', generic and proverb-like. 'tan famoso' = so famous, 'tan' before an adjective. 'tan bueno él por sí' = 'and so good himself in his own right': 'él' refers to the horse; 'por sí' = by itself."
+            - s: "estuviese sin nombre conocido"
+              g: "'estuviese' is estar, 3rd sg., imperfect subjunctive, -se form, built on the irregular preterite stem estuv- (estuvieron): estuviese, estuvieses, estuviese, estuviésemos, estuvieseis, estuviesen (see note 29 for the -se form). 'sin' = without. 'conocido' is the participle of conocer (to know a person or place, to be acquainted with) used as an adjective."
       - es: "y ansí, procuraba acomodársele de manera que declarase quién había sido, antes que fuese de caballero andante, y lo que era entonces;"
         literal: "and so, he-tried to fit-it-to-him in manner that it-should-declare who he-had been, before that he-was of knight errant, and that which he-was then;"
         ormsby: "and he strove to adapt it so as to indicate what he had been before belonging to a knight-errant, and what he then was;"
@@ -493,6 +906,17 @@ paragraphs:
           - {w: "declarar", d: "to make plain, declare"}
           - {w: "antes que", d: "before"}
           - {w: "ser de", d: "to belong to"}
+        grammar:
+          structure: "Main verb 'procuraba' + the infinitive 'acomodársele'; then 'de manera que' + subjunctive (purpose: 'so that it would declare'), with an indirect question 'quién había sido', a time clause 'antes que fuese de caballero andante', and a second object 'lo que era entonces'."
+          parts:
+            - s: "y ansí, procuraba acomodársele"
+              g: "'ansí' = 'así', thus. 'procuraba' is procurar (to try, to endeavor), 3rd sg., imperfect, + an infinitive. 'acomodársele' is acomodar (to fit, to adapt) + 'se' (for himself, a reflexive of interest) + 'le' (to it, the horse), both attached; the accent marks the stress of the infinitive (acomodár-se-le). Modern Spanish would say 'procuraba acomodarle [un nombre]'."
+            - s: "de manera que declarase quién había sido"
+              g: "'de manera que' + subjunctive = 'so that [it would]', purpose rather than result (compare note 20, where the indicative gave a result). 'declarase' is declarar (to declare, to make clear), 3rd sg., imperfect subj., -se form (see note 29). 'quién' = who, accented in an indirect question. 'había sido' is the pluperfect (see note 17)."
+            - s: "antes que fuese de caballero andante"
+              g: "'antes que' = before, always with the subjunctive because the event lies later than the main clause; modern spelling 'antes de que'. 'fuese' is ser, 3rd sg., imperfect subj., -se form (fueron → fuese; the form is the same for ir). 'ser de' + person = to belong to."
+            - s: "y lo que era entonces"
+              g: "'lo que' = what (see note 30). 'era' is ser, 3rd sg., imperfect. 'entonces' = then, at that time."
       - es: "pues estaba muy puesto en razón que, mudando su señor estado, mudase él también el nombre, y le cobrase famoso y de estruendo, como convenía a la nueva orden y al nuevo ejercicio que ya profesaba."
         literal: "since it-was very put in reason that, changing his master state, should-change he also the name, and it should-acquire famous and of thunder, as befitted to the new order and to the new exercise that already he-professed."
         ormsby: "for it was only reasonable that, his master taking a new character, he should take a new name, and that it should be a distinguished and full-sounding one, befitting the new order and calling he was about to follow."
@@ -507,6 +931,17 @@ paragraphs:
           - {w: "orden", d: "order, as in an order of knighthood"}
           - {w: "ejercicio", d: "calling, profession"}
           - {w: "profesar", d: "to profess, take up (as one enters a religious order)"}
+        grammar:
+          structure: "'pues estaba muy puesto en razón que' (it was reasonable that) governs two subjunctives, 'mudase' and 'cobrase'. Between them sits a gerund clause with its own subject, 'mudando su señor estado'. The sentence ends with 'como convenía a ...' + a relative clause."
+          parts:
+            - s: "pues estaba muy puesto en razón que"
+              g: "'pues' = for, since (causal here, unlike note 8). 'estar puesto en razón' = to be reasonable: 'estaba' is estar, 3rd sg., imperfect, + the participle 'puesto' (poner). 'muy' = very. 'que' + subjunctive, as after any judgment (see notes 7 and 39)."
+            - s: "mudando su señor estado"
+              g: "The gerund of mudar (to change) with its own subject 'su señor' (his master) and object 'estado' (condition, station): 'his master changing his station' = since his master was changing state. A gerund with its own subject after it is an absolute clause (compare the participle in note 28)."
+            - s: "mudase él también el nombre, y le cobrase famoso y de estruendo"
+              g: "'mudase' is mudar and 'cobrase' is cobrar (to gain, to take on), both 3rd sg., imperfect subj., -se form (see note 29), required by 'estaba puesto en razón que'. 'él' = it (the horse), stated to contrast with 'su señor'. 'también' = also. 'le cobrase famoso' = 'should take it on famous': 'le' = it (the name; a loose leísmo for a thing), and 'famoso y de estruendo' describe the name."
+            - s: "como convenía a la nueva orden y al nuevo ejercicio que ya profesaba"
+              g: "'como' = as. 'convenía' is convenir a (to suit, to befit), 3rd sg., imperfect; convenir conjugates like venir. 'la nueva orden' (fem., a knightly order) and 'el nuevo ejercicio' (masc.): the adjective agrees with each; 'al' = a + el. 'que ya profesaba': relative as object; 'profesaba' is profesar (to profess, to practice), 3rd sg., imperfect; 'ya' = now, already."
       - es: "Y así, después de muchos nombres que formó, borró y quitó, añadió, deshizo y tornó a hacer en su memoria e imaginación, al fin le vino a llamar Rocinante:"
         literal: "And so, after many names that he-formed, erased and removed, added, undid and turned to make in his memory and imagination, at the end him he-came to call Rocinante:"
         ormsby: "And so, after having composed, struck out, rejected, added to, unmade, and remade a multitude of names out of his memory and fancy, he decided upon calling him Rocinante,"
@@ -518,6 +953,13 @@ paragraphs:
           - {w: "tornar a hacer", d: "to remake"}
           - {w: "al fin", d: "in the end"}
           - {w: "venir a llamar", d: "to end up calling"}
+        grammar:
+          structure: "'después de muchos nombres que ...' + a string of six preterites in a relative clause, then the main clause 'al fin le vino a llamar Rocinante'."
+          parts:
+            - s: "Y así, después de muchos nombres que formó, borró y quitó, añadió, deshizo y tornó a hacer en su memoria e imaginación"
+              g: "'después de' = after, + noun. 'que' is a relative used as object. Then six preterites, all 3rd sg.: formar (to form), borrar (to erase), quitar (to remove), añadir (to add), deshacer (to undo; irregular 'deshizo', see note 34), tornar a hacer (to make again, see note 35). Preterites for a series of completed acts. 'en su memoria e imaginación': 'y' becomes 'e' before a word starting with an i- sound, as modern Spanish requires (contrast Cervantes' 'y irse' in note 29)."
+            - s: "al fin le vino a llamar Rocinante"
+              g: "'al fin' = at last. 'venir a' + infinitive = to end up (see note 20): 'vino' is venir, 3rd sg., preterite, + 'a' + llamar (to call). 'le' = it (the horse, leísmo). 'Rocinante' is the name given, with no preposition: 'llamar a alguien X' = to call someone X."
       - es: "nombre, a su parecer, alto, sonoro y significativo de lo que había sido cuando fue rocín, antes de lo que ahora era, que era antes y primero de todos los rocines del mundo."
         literal: "name, to his seeming, lofty, sonorous and significant of that which he-had been when he-was nag, before of that which now he-was, which was before and first of all the nags of the world."
         ormsby: "a name, to his thinking, lofty, sonorous, and significant of his condition as a hack before he became what he now was, the first and foremost of all the hacks in the world."
@@ -528,6 +970,15 @@ paragraphs:
           - {w: "significativo", d: "meaningful"}
           - {w: "Rocinante", d: "rocín (nag) + ante (before): 'formerly a nag' and 'foremost of nags' at once"}
           - {w: "antes y primero", d: "first and foremost"}
+        grammar:
+          structure: "An appositive to 'Rocinante': 'nombre ... alto, sonoro y significativo de ...', followed by two 'lo que' clauses ('lo que había sido cuando fue rocín', 'lo que ahora era') and a final relative clause, 'que era antes y primero de todos los rocines del mundo', which spells out the pun."
+          parts:
+            - s: "nombre, a su parecer, alto, sonoro y significativo de lo que había sido cuando fue rocín"
+              g: "'nombre' stands in apposition to 'Rocinante', with no article, and takes three adjectives (masc. sing.). 'a su parecer' = in his opinion: the infinitive parecer (to seem) used as a noun, 'opinion'. 'significativo de' = expressive of. 'lo que había sido' = what it had been (pluperfect, see note 17). 'cuando fue rocín': 'fue' is ser, 3rd sg., preterite (see note 29), + a noun with no article; the preterite treats that stage as a closed period."
+            - s: "antes de lo que ahora era"
+              g: "'antes de' = before, + a noun phrase; 'lo que ... era' = what it was; 'ahora' = now, within the story."
+            - s: "que era antes y primero de todos los rocines del mundo"
+              g: "The pun: Rocin-ante = rocín + 'antes' (before). 'que' is a relative (the name, or the horse); 'era' is ser, imperfect. 'antes y primero de' = 'before and first of', two words for one idea. 'todos los rocines': the plural of 'rocín' adds -es and drops the accent."
         ormsby_note: "Rocín is a horse employed in labor, as distinguished from one kept for pleasure, the chase, or personal use generally; the word therefore may fairly be translated 'hack.' Ante is an old form of Antes, 'before,' whether in time or in order."
   - sentences:
       - es: "Puesto nombre, y tan a su gusto, a su caballo, quiso ponérsele a sí mismo, y en este pensamiento duró otros ocho días, y al cabo se vino a llamar don Quijote;"
@@ -540,6 +991,17 @@ paragraphs:
           - {w: "durar", d: "to last; here: to persist, spend time"}
           - {w: "al cabo", d: "in the end"}
           - {w: "quijote", d: "the piece of armor covering the thigh; the ending -ote is comic and augmentative"}
+        grammar:
+          structure: "An absolute participle phrase, 'Puesto nombre ... a su caballo', then three main verbs joined by 'y': 'quiso ponérsele a sí mismo', 'duró otros ocho días', 'se vino a llamar don Quijote'."
+          parts:
+            - s: "Puesto nombre, y tan a su gusto, a su caballo"
+              g: "An absolute participle (see note 28): 'puesto' (the irregular participle of poner, to put) + its noun 'nombre' = '[a] name having been given'; 'a su caballo' = to his horse, the indirect object. 'tan a su gusto' = so much to his liking."
+            - s: "quiso ponérsele a sí mismo"
+              g: "'quiso' is querer (to want), 3rd sg., preterite, with the irregular stem quis-: quise, quisiste, quiso, quisimos, quisisteis, quisieron. 'ponérsele' is poner + 'se' (to himself, the indirect-object reflexive) + 'le' (it = the name, leísmo for a thing), attached to the infinitive with an accent; 'a sí mismo' doubles the reflexive for emphasis (see note 39)."
+            - s: "y en este pensamiento duró otros ocho días"
+              g: "'duró' is durar (to last), 3rd sg., preterite. 'en este pensamiento' = in this thought. 'otros ocho días' = another eight days: 'otros' before a number, with no 'un'."
+            - s: "y al cabo se vino a llamar don Quijote"
+              g: "'al cabo' = in the end. 'venir a' + infinitive (see note 20) with 'se': 'se vino a llamar' = 'he came to be called'; llamarse = to be called (see note 6), with the clitic 'se' placed before the conjugated 'vino' rather than on 'llamar' (either position is possible, see note 1). 'don' is the honorific for a gentleman, a title a plain hidalgo was not strictly entitled to."
         ormsby_note: "Quixote, or, as it is now written, Quijote, means the piece of armor that protects the thigh (cuissan, cuish). Smollett's Sir Lancelot Greaves is a kind of parody on the name. Quixada and Quesada were both distinguished family names. The Governor of the Goletta, who was one of the passengers on board the unfortunate Sol galley, was a Quesada; and the faithful majordomo of Charles V and guardian of Don John of Austria was a Quixada."
       - es: "de donde —como queda dicho— tomaron ocasión los autores desta tan verdadera historia que, sin duda, se debía de llamar Quijada, y no Quesada, como otros quisieron decir."
         literal: "from where —as remains said— took occasion the authors of-this so true history that, without doubt, he must-have been-called Quijada, and not Quesada, as others wanted to say."
@@ -552,6 +1014,15 @@ paragraphs:
           - {w: "tan verdadera historia", d: "so true a history (ironic)"}
           - {w: "deber de + inf.", d: "must (supposition): 'se debía de llamar' = his name must have been"}
           - {w: "quisieron decir", d: "claimed, would have it"}
+        grammar:
+          structure: "'de donde ... tomaron ocasión los autores ...' (verb before subject), with the aside 'como queda dicho'; then 'que' + the authors' conclusion, 'se debía de llamar Quijada, y no Quesada', and a closing 'como otros quisieron decir'."
+          parts:
+            - s: "de donde —como queda dicho— tomaron ocasión los autores desta tan verdadera historia"
+              g: "'de donde' = whence, from which. 'como queda dicho' = 'as has been said': 'queda' is quedar (to remain), 3rd sg., present, + the participle 'dicho' (decir, irregular); quedar + participle = to stand [done]. 'tomaron' is tomar (to take), 3rd pl., preterite (see note 8 for the -ar preterite); 'tomar ocasión' = to take the cue; the subject 'los autores' follows the verb. 'desta' = de esta; 'tan verdadera historia' = 'such a true history': 'tan' before an adjective that stands before its noun."
+            - s: "que, sin duda, se debía de llamar Quijada, y no Quesada"
+              g: "'que' = that, what the authors concluded. 'deber de' + infinitive = must (probability): 'debía' is deber (to owe; must), 3rd sg., imperfect, + 'de' + llamar; 'se ... llamar' is llamarse (to be called), with 'se' before the conjugated 'debía'; 'se debía de llamar' = 'he must have been called'. 'y no' = and not."
+            - s: "como otros quisieron decir"
+              g: "'como' = as. 'otros' = others, a pronoun, masc. pl. 'quisieron' is querer, 3rd pl., preterite (see note 44), + decir (to say): 'as others would have it' (compare 'quieren decir' in note 6)."
       - es: "Pero, acordándose que el valeroso Amadís no sólo se había contentado con llamarse Amadís a secas, sino que añadió el nombre de su reino y patria, por Hepila famosa, y se llamó Amadís de Gaula, así quiso, como buen caballero, añadir al suyo el nombre de la suya y llamarse don Quijote de la Mancha, con que, a su parecer, declaraba muy al vivo su linaje y patria, y la honraba con tomar el sobrenombre della."
         literal: "But, remembering that the valiant Amadís not only had contented-himself with calling-himself Amadís plainly, but rather added the name of his kingdom and homeland, to make-it famous, and called-himself Amadís of Gaul, so he-wanted, as good knight, to add to his the name of his [homeland] and call-himself Don Quijote of La Mancha, with which, to his seeming, he-declared very to the life his lineage and homeland, and it he-honored with taking the surname from-it."
         ormsby: "Recollecting, however, that the valiant Amadís was not content to call himself curtly Amadís and nothing more, but added the name of his kingdom and country to make it famous, and called himself Amadís of Gaul, he, like a good knight, resolved to add on the name of his, and to style himself Don Quixote of La Mancha, whereby, he considered, he described accurately his origin and country, and did honour to it in taking his surname from it."
@@ -568,6 +1039,23 @@ paragraphs:
           - {w: "al vivo", d: "vividly, to the life"}
           - {w: "linaje", d: "lineage"}
           - {w: "sobrenombre", d: "surname, byname"}
+        grammar:
+          structure: "A long gerund clause first, 'acordándose que el valeroso Amadís no sólo ... sino que ...' (what he remembered Amadís had done); then the main clause 'así quiso ... añadir al suyo el nombre de la suya y llamarse don Quijote de la Mancha'; then 'con que' + two imperfects saying what the name achieved."
+          parts:
+            - s: "Pero, acordándose que el valeroso Amadís"
+              g: "The gerund of acordarse (to remember, see note 1) with 'se' attached. Cervantes drops the 'de' before 'que'; today it is 'acordándose de que'. 'el valeroso Amadís': an adjective before a proper name, with the article."
+            - s: "no sólo se había contentado con llamarse Amadís a secas, sino que añadió"
+              g: "'no sólo ... sino que' = 'not only ... but [also]': 'sino que' when a clause follows (see note 32 for 'sino'). 'se había contentado' is the pluperfect of contentarse con (to content oneself with), with the reflexive 'se' before the auxiliary. 'llamarse Amadís a secas' = to be called plain Amadís; 'a secas' = plain, without more. 'añadió' is añadir (to add), 3rd sg., preterite."
+            - s: "el nombre de su reino y patria, por Hepila famosa, y se llamó Amadís de Gaula"
+              g: "'por Hepila famosa' is obscure; it is usually read as 'to make it famous' ('por hacerla famosa'). 'se llamó' is llamarse, 3rd sg., preterite: 'called himself', 'took the name'."
+            - s: "así quiso, como buen caballero, añadir al suyo el nombre de la suya"
+              g: "'así' = so, likewise. 'quiso' is querer, 3rd sg., preterite (see note 44), + two infinitives, añadir (to add) and, below, llamarse. 'como buen caballero' = as a good knight, no article, 'buen' shortened (see note 23). 'al suyo' = 'to his [name]': 'al' = a + el, and 'el suyo' is the stressed possessive with the article standing for a noun already mentioned (masc. = nombre). 'el nombre de la suya' = 'the name of his [patria]': 'la suya', fem. = his own (patria)."
+            - s: "y llamarse don Quijote de la Mancha"
+              g: "llamarse (to be called), infinitive, the second object of 'quiso': 'and call himself'."
+            - s: "con que, a su parecer, declaraba muy al vivo su linaje y patria"
+              g: "'con que' = 'with which, whereby': con + relative 'que' (see note 35). 'declaraba' is declarar (to declare), 3rd sg., imperfect. 'muy al vivo' = very vividly, to the life."
+            - s: "y la honraba con tomar el sobrenombre della"
+              g: "'la' = it (la patria, fem., direct object). 'honraba' is honrar (to honor), 3rd sg., imperfect. 'con' + infinitive = by doing (see 'con ser' in note 25); tomar = to take. 'della' = de ella, from it (the patria)."
   - sentences:
       - es: "Limpias, pues, sus armas, hecho del morrión celada, puesto nombre a su rocín y confirmándose a sí mismo, se dio a entender que no le faltaba otra cosa sino buscar una dama de quien enamorarse;"
         literal: "Cleaned, then, his arms, made of the morion helmet, put name to his nag and confirming himself, he-gave-himself to understand that not to-him was-lacking other thing but to seek a lady of whom to fall-in-love;"
@@ -579,6 +1067,19 @@ paragraphs:
           - {w: "no faltar otra cosa sino", d: "for nothing to be lacking but"}
           - {w: "dama", d: "lady"}
           - {w: "enamorarse de", d: "to fall in love with"}
+        grammar:
+          structure: "Three absolute constructions in a row ('Limpias ... sus armas', 'hecho del morrión celada', 'puesto nombre a su rocín') and a gerund phrase ('confirmándose a sí mismo'), then the main clause 'se dio a entender que ...' with 'no le faltaba otra cosa sino buscar una dama' and a relative clause 'de quien enamorarse'."
+          parts:
+            - s: "Limpias, pues, sus armas, hecho del morrión celada, puesto nombre a su rocín"
+              g: "Three absolute constructions (see notes 28 and 44), each participle or adjective set beside its noun: 'limpias' is an adjective, fem. pl. with 'armas' (his arms being clean); 'hecho del morrión celada' = 'a helmet having been made from the morion' (hacer, to make; 'del' = de + el, out of); 'hecho' stays masculine although 'celada' is feminine, which happens when the participle comes first and is felt as impersonal; 'puesto nombre a su rocín': 'puesto' (poner) agrees with masc. 'nombre'. 'pues' = then, a connective."
+            - s: "y confirmándose a sí mismo"
+              g: "The gerund of confirmar (to confirm; here to confirm one's name, as at the sacrament of confirmation) with 'se' attached; 'a sí mismo' reinforces the reflexive (see note 39)."
+            - s: "se dio a entender que"
+              g: "'darse a entender' = to convince oneself, to give oneself to understand: 'dio' is dar, 3rd sg., preterite (see note 28), + the reflexive 'se' + 'a' + entender (to understand) + 'que'."
+            - s: "no le faltaba otra cosa sino buscar una dama"
+              g: "'faltaba' is faltar (to be lacking), 3rd sg., imperfect; 'faltarle a uno' = to be lacking to someone, built like 'gustar': the thing lacking, 'otra cosa', is the subject and the person is 'le' (to him). 'no ... otra cosa sino' = 'nothing else but' ('sino' after a negative, see note 32). buscar (to look for) is an infinitive naming the thing that was lacking. 'una dama' is its direct object, with no personal 'a' because she is not yet a specific person, only a type."
+            - s: "de quien enamorarse"
+              g: "'de quien' = 'of whom': preposition + the relative 'quien', used for people. enamorarse de (to fall in love with) carries its 'se' on the infinitive; a bare infinitive after a relative = 'to fall in love with' (see 'en que leer' in note 9). The 'de' has moved to the front with the relative, as in note 1."
       - es: "porque el caballero andante sin amores era árbol sin hojas y sin fruto y cuerpo sin alma."
         literal: "because the knight errant without loves was tree without leaves and without fruit and body without soul."
         ormsby: "for a knight-errant without love was like a tree without leaves or fruit, or a body without a soul."
@@ -587,12 +1088,22 @@ paragraphs:
           - {w: "hoja", d: "leaf"}
           - {w: "fruto", d: "fruit (as produce; 'fruta' is fruit you eat)"}
           - {w: "alma", d: "soul"}
+        grammar:
+          structure: "A single 'porque' clause: subject 'el caballero andante sin amores', verb 'era', and three predicate nouns each with a 'sin' phrase."
+          parts:
+            - s: "porque el caballero andante sin amores era árbol sin hojas y sin fruto y cuerpo sin alma"
+              g: "'porque' = because. 'el caballero andante' = the knight-errant with the generic definite article (any knight-errant). 'sin amores' = without loves; the plural 'amores' is used for a love affair. 'era' is ser, 3rd sg., imperfect, + predicate nouns without article ('árbol', 'cuerpo') because they classify: 'was [a] tree ... [a] body'. 'sin' is repeated with each noun: 'hojas' pl., 'fruto' and 'alma' sing."
       - es: "Decíase él a sí:"
         literal: "Said-himself he to himself:"
         ormsby: "As he said to himself,"
         vocab:
           - {w: "decíase", d: "= se decía, he said to himself"}
           - {w: "a sí", d: "to himself"}
+        grammar:
+          structure: "A three-word clause introducing direct speech: verb with attached reflexive, subject, reinforcing 'a sí'."
+          parts:
+            - s: "Decíase él a sí:"
+              g: "'Decíase' = 'se decía': decir (to say), 3rd sg., imperfect, with the reflexive 'se' (to himself) attached (see note 13). The subject 'él' follows. 'a sí' = to himself, the reflexive prepositional pronoun 'sí' (see note 39), reinforcing 'se'. Imperfect: he used to say. The colon introduces the quoted speech."
   - sentences:
       - es: "— Si yo, por malos de mis pecados, o por mi buena suerte, me encuentro por ahí con algún gigante, como de ordinario les acontece a los caballeros andantes, y le derribo de un encuentro, o le parto por mitad del cuerpo, o, finalmente, le venzo y le rindo, ¿no será bien tener a quien enviarle presentado y que entre y se hinque de rodillas ante mi dulce señora, y diga con voz humilde y rendido:"
         literal: "— If I, for bad of my sins, or for my good luck, myself find out there with some giant, as of ordinary to-them happens to the knights errant, and him I-knock-down of one encounter, or him I-split by half of the body, or, finally, him I-vanquish and him I-subdue, not will-it-be good to-have to whom to send-him presented and that he-enter and himself he-sink of knees before my sweet lady, and say with voice humble and submissive:"
@@ -612,6 +1123,23 @@ paragraphs:
           - {w: "enviar presentado", d: "to send as a present, as tribute"}
           - {w: "hincarse de rodillas", d: "to kneel down"}
           - {w: "rendido", d: "submissive, surrendered"}
+        grammar:
+          structure: "An open condition and a rhetorical question. Condition: 'Si yo ... me encuentro ... con algún gigante ..., y le derribo ..., o le parto ..., o ... le venzo y le rindo' (present indicative throughout). Question: '¿no será bien tener a quien enviarle presentado y que entre y se hinque de rodillas ... y diga ...?', whose subject is the infinitive 'tener' plus a 'que' + subjunctive clause."
+          parts:
+            - s: "Si yo, por malos de mis pecados, o por mi buena suerte, me encuentro por ahí con algún gigante"
+              g: "'si' + present indicative = a real, open condition, 'if I run into'. 'yo' is stated: first person, direct speech. 'por malos de mis pecados' = 'for my sins' ('por' = because of; 'malos' is part of an old idiom). 'me encuentro' is encontrarse con (to run into), 1st sg., present, stem-changing o→ue: encuentro, encuentras, encuentra, encontramos, encontráis, encuentran, with the reflexive 'me'. 'por ahí' = around there, somewhere. 'algún gigante': 'algún' shortened (see note 2)."
+            - s: "como de ordinario les acontece a los caballeros andantes"
+              g: "'como' = as; 'de ordinario' = ordinarily. 'acontece' is acontecer (to happen), 3rd sg., present, impersonal; 'acontecerle a uno' = to happen to someone. 'les' (to them) doubles 'a los caballeros andantes': Spanish repeats an indirect object as a clitic even when the noun is present."
+            - s: "y le derribo de un encuentro, o le parto por mitad del cuerpo"
+              g: "'derribo' is derribar (to knock down) and 'parto' is partir (to split), both 1st sg., present. 'le' = him (the giant), the direct object (leísmo, see note 14). 'de un encuentro' = with one charge ('de' = by means of, see note 23). 'por mitad del cuerpo' = through the middle of the body."
+            - s: "o, finalmente, le venzo y le rindo"
+              g: "'venzo' is vencer (to defeat), 1st sg., present: c becomes z before o to keep the soft sound (venzo, vences, vence ...). 'rindo' is rendir (to subdue, to make surrender), 1st sg., present, stem-changing e→i: rindo, rindes, rinde, rendimos, rendís, rinden. 'finalmente' = finally, an adverb in -mente."
+            - s: "¿no será bien tener a quien enviarle presentado"
+              g: "'será' is ser, 3rd sg., future: seré, serás, será, seremos, seréis, serán (the infinitive + the future endings). 'ser bien' + infinitive = to be good, proper, to: 'won't it be well to have'; the negative question expects 'yes'. 'tener a quien' + infinitive = 'to have someone to [send him to]': 'a quien' = to whom, personal 'a' + the relative 'quien'. 'enviarle' is enviar (to send) + 'le' (him, the giant) attached. 'presentado' is the participle of presentar (to present), 'as a present'."
+            - s: "y que entre y se hinque de rodillas ante mi dulce señora"
+              g: "'que' + present subjunctive: 'and [have him] enter and kneel', what he wants the giant to do, hanging from 'tener a quien enviarle ... y que ...'. 'entre' is entrar (to enter), 3rd sg., present subjunctive; -ar verbs take -e endings in the present subjunctive: entre, entres, entre, entremos, entréis, entren. 'se hinque' is hincarse de rodillas (to kneel down), 3rd sg., present subj., with c changed to qu before e ('hinque') and the reflexive 'se'. 'ante' = before, in the presence of. 'mi dulce señora' = my sweet lady, adjective before the noun."
+            - s: "y diga con voz humilde y rendido"
+              g: "'diga' is decir (to say), 3rd sg., present subjunctive, built on the irregular 1st sg. present 'digo': diga, digas, diga, digamos, digáis, digan (the same rule as salgo → salga in note 7). 'con voz humilde' = in a humble voice, no article. 'rendido' = 'subdued', the participle of rendir, agreeing with the giant (masc.), not with 'voz' (fem.): 'and say in a humble voice, [himself] subdued'."
       - es: "«Yo, señora, soy el gigante Caraculiambro, señor de la ínsula Malindrania, a quien venció en singular batalla el jamás como se debe alabado caballero don Quijote de la Mancha, el cual me mandó que me presentase ante vuestra merced, para que la vuestra grandeza disponga de mí a su talante»?"
         literal: "«I, lady, am the giant Caraculiambro, lord of the island Malindrania, whom vanquished in single battle the never as it-should-be praised knight Don Quijote of La Mancha, who me ordered that myself I-present before your mercy, so that the your greatness dispose of me at her will»?"
         ormsby: "'I am the giant Caraculiambro, lord of the island of Malindrania, vanquished in single combat by the never sufficiently extolled knight Don Quixote of La Mancha, who has commanded me to present myself before your Grace, that your Highness dispose of me at your pleasure'?\""
@@ -625,6 +1153,17 @@ paragraphs:
           - {w: "vuestra merced", d: "your grace, your worship; the polite address that later shrank into 'usted'"}
           - {w: "disponer de", d: "to dispose of, do as one likes with"}
           - {w: "talante", d: "will, pleasure, mood"}
+        grammar:
+          structure: "The giant's speech. 'Yo ... soy el gigante Caraculiambro, señor de la ínsula Malindrania'; a relative clause 'a quien venció ... don Quijote de la Mancha' with its subject piled up at the end; a second relative 'el cual me mandó que me presentase ante vuestra merced'; and a purpose clause 'para que la vuestra grandeza disponga de mí a su talante'."
+          parts:
+            - s: "Yo, señora, soy el gigante Caraculiambro, señor de la ínsula Malindrania"
+              g: "'soy' is ser, 1st sg., present (see note 8). 'señora' is a vocative, direct address. The predicate has the article ('el gigante Caraculiambro', a specific individual) and is followed by an appositive without article ('señor de')."
+            - s: "a quien venció en singular batalla el jamás como se debe alabado caballero don Quijote de la Mancha"
+              g: "'a quien' = whom: the relative 'quien' with the personal 'a', as direct object (see note 24). 'venció' is vencer (to defeat), 3rd sg., preterite (see note 9 for the -er preterite). 'en singular batalla' = in single combat, adjective before noun. The subject comes last and hugely expanded: 'el ... caballero don Quijote', with 'jamás como se debe alabado' ('never praised as he ought to be') stacked between the article and the noun, a mock-heroic pile-up. 'se debe' is deber (must), 3rd sg., present, impersonal with 'se' ('as one ought'); 'alabado' is the participle of alabar (to praise)."
+            - s: "el cual me mandó que me presentase ante vuestra merced"
+              g: "'el cual' = who, which: article + 'cual', the heavier relative used after a long gap for clarity; it agrees: el cual / la cual / los cuales / las cuales. 'mandó' is mandar (to order, to send), 3rd sg., preterite, + 'me' (to me, indirect) + 'que' + subjunctive: verbs of command take 'que' + subjunctive. 'me presentase' is presentarse (to present oneself, to appear), 1st sg., imperfect subj., -se form (see note 29): a past main verb calls for the imperfect subjunctive in the subordinate clause (sequence of tenses). 'ante' = before. 'vuestra merced' = 'your grace', the polite address that later shrank into 'usted'; it takes 3rd person verbs."
+            - s: "para que la vuestra grandeza disponga de mí a su talante"
+              g: "'para que' + subjunctive = 'so that': purpose clauses always take the subjunctive. 'disponga' is disponer (to dispose; 'disponer de' = to have at one's disposal, to do as one likes with), 3rd sg., present subjunctive, built on 'dispongo' like poner → ponga (see note 7). 'la vuestra grandeza' = your greatness (article + possessive, see note 11), a 3rd person subject. 'de mí': 'mí' with the accent = me after a preposition (contrast 'mi' = my). 'a su talante' = at her pleasure; 'su' refers back to 'vuestra grandeza', treated as 3rd person."
   - sentences:
       - es: "¡Oh, cómo se holgó nuestro buen caballero cuando hubo hecho este discurso, y más cuando halló a quien dar nombre de su dama!"
         literal: "Oh, how himself rejoiced our good gentleman when he-had made this speech, and more when he-found to whom to give name of his lady!"
@@ -635,6 +1174,15 @@ paragraphs:
           - {w: "discurso", d: "speech; also train of thought"}
           - {w: "hallar", d: "to find"}
           - {w: "dar nombre de", d: "to give the title of"}
+        grammar:
+          structure: "An exclamation, '¡Oh, cómo se holgó nuestro buen caballero ...!', with two 'cuando' clauses: 'cuando hubo hecho este discurso' and 'y más cuando halló a quien dar nombre de su dama'."
+          parts:
+            - s: "¡Oh, cómo se holgó nuestro buen caballero"
+              g: "'cómo' with the accent = how, exclamative. 'se holgó' is holgarse (to rejoice, to take pleasure), 3rd sg., preterite, with the reflexive 'se'; the stem change o→ue happens only in the present ('se huelga'), so the preterite is regular. The subject 'nuestro buen caballero' comes after the verb, as it does in exclamations and questions."
+            - s: "cuando hubo hecho este discurso"
+              g: "'hubo hecho' is the preterite anterior: haber in the preterite (hube, hubiste, hubo, hubimos, hubisteis, hubieron) + the participle 'hecho' (hacer). It is used after 'cuando', 'apenas', 'luego que' for 'as soon as he had made'; literary, and rare today (speech uses 'hizo' or 'había hecho'). 'este discurso' = this speech."
+            - s: "y más cuando halló a quien dar nombre de su dama"
+              g: "'y más cuando' = and still more when (see note 10). 'halló' is hallar (to find), 3rd sg., preterite. 'a quien dar nombre de su dama' = 'someone to give the name of his lady to': 'a quien' + infinitive (see 'a quien enviarle' in note 50); 'dar nombre de' = to name as; 'su dama' = his lady."
       - es: "Y fue, a lo que se cree, que en un lugar cerca del suyo había una moza labradora de muy buen parecer, de quien él un tiempo anduvo enamorado, aunque, según se entiende, ella jamás lo supo, ni le dio cata dello."
         literal: "And it-was, to what is-believed, that in a village near of his there-was a girl farm-laboring of very good looks, of whom he a time went-about in-love, although, according-as is-understood, she never it knew, nor to-it gave notice of-it."
         ormsby: "There was, so the story goes, in a village near his own a very good-looking farm-girl with whom he had been at one time in love, though, so far as is known, she never knew it nor gave a thought to the matter."
@@ -648,6 +1196,19 @@ paragraphs:
           - {w: "según se entiende", d: "as is understood"}
           - {w: "dar cata de", d: "to take notice of (archaic idiom)"}
           - {w: "dello", d: "= de ello"}
+        grammar:
+          structure: "'Y fue ... que' (it was that) + 'en un lugar cerca del suyo había una moza labradora ...' (verb before subject); a relative clause 'de quien él un tiempo anduvo enamorado'; and an 'aunque' clause with two preterites, 'ella jamás lo supo, ni le dio cata dello'."
+          parts:
+            - s: "Y fue, a lo que se cree, que"
+              g: "'fue que' = it was that (see note 29). 'a lo que se cree' = 'as is believed': 'a lo que' = according to what; 'se cree' is creer (to believe), 3rd sg., present, with the impersonal 'se' ('one believes')."
+            - s: "en un lugar cerca del suyo había una moza labradora de muy buen parecer"
+              g: "'cerca de' = near; 'del suyo' = 'his [village]': 'el suyo' (see note 46), with 'del' = de + el. 'había' = there was (see note 22). 'una moza labradora': noun + noun used as an adjective, a farm girl. 'de muy buen parecer' = of very good appearance: 'de' + quality; 'buen' shortened (see note 23)."
+            - s: "de quien él un tiempo anduvo enamorado"
+              g: "'de quien' = with whom: 'enamorado de' = in love with, and the 'de' moves to the front with the relative (see note 1). 'él' is the subject, stated. 'un tiempo' = for a time; duration needs no preposition. 'anduvo' is andar (to walk, to go about), 3rd sg., preterite, irregular stem anduv-: anduve, anduviste, anduvo, anduvimos, anduvisteis, anduvieron. 'andar' + adjective or participle = to go about being: 'anduvo enamorado' = was in love for a while; 'enamorado' is the participle of enamorarse (to fall in love), masc., agreeing with 'él'."
+            - s: "aunque, según se entiende, ella jamás lo supo"
+              g: "'aunque' = although. 'según se entiende' = as is understood: 'entiende' is entender (to understand), 3rd sg., present, with the impersonal 'se' (see 'se deja entender' in note 6). 'ella' = she, subject pronoun. 'jamás' = never; placed before the verb it needs no 'no'. 'supo' is saber (to know), 3rd sg., preterite, irregular stem sup-: supe, supiste, supo, supimos, supisteis, supieron; the preterite of saber means 'found out, ever knew'. 'lo' = it (a neuter object, the fact)."
+            - s: "ni le dio cata dello"
+              g: "'ni' = nor. 'dio' is dar, 3rd sg., preterite (see note 28); 'dar cata de' = to take notice of. 'le' = to him: she never gave him any sign of noticing. 'dello' = de ello = of it (the neuter 'ello', see note 13)."
       - es: "Llamábase Aldonza Lorenzo, y a ésta le pareció ser bien darle título de señora de sus pensamientos;"
         literal: "Called-herself Aldonza Lorenzo, and to this-one to-him it-seemed to-be good to-give-her title of lady of his thoughts;"
         ormsby: "Her name was Aldonza Lorenzo, and upon her he thought fit to confer the title of Lady of his Thoughts;"
@@ -656,6 +1217,13 @@ paragraphs:
           - {w: "Aldonza", d: "a rustic, unfashionable name; a proverb runs 'a falta de moza, buena es Aldonza' (if there's no girl, Aldonza will do)"}
           - {w: "parecer ser bien", d: "to seem right"}
           - {w: "señora de sus pensamientos", d: "lady of his thoughts, the courtly-love formula"}
+        grammar:
+          structure: "'Llamábase Aldonza Lorenzo' + 'y a ésta le pareció ser bien darle título de ...', a loosely built clause: 'a ésta' anticipates the 'le' of 'darle', and the person to whom it seemed good (the hidalgo) is left unexpressed."
+          parts:
+            - s: "Llamábase Aldonza Lorenzo"
+              g: "llamarse (to be called, see note 6), 3rd sg., imperfect, with 'se' attached (see note 13): 'she was called'."
+            - s: "y a ésta le pareció ser bien darle título de señora de sus pensamientos"
+              g: "'a ésta' = 'to this one': the demonstrative pronoun 'ésta', fem., for Aldonza (older spelling with an accent when it is a pronoun). It is the indirect object of 'darle' moved to the front, and the 'le' after it doubles it (clitic doubling, see note 50). 'pareció' is parecer, 3rd sg., preterite: 'it seemed [to him]'. 'ser bien' + infinitive = to be well to (see note 50). 'darle título de' = to give her the title of: dar + 'le' (to her). 'señora de sus pensamientos' = 'lady of his thoughts', the courtly formula; 'sus' agrees in the plural with 'pensamientos'."
       - es: "y, buscándole nombre que no desdijese mucho del suyo, y que tirase y se encaminase al de princesa y gran señora, vino a llamarla Dulcinea del Toboso, porque era natural del Toboso;"
         literal: "and, seeking-for-her name that not should-clash much with hers, and that should-tend and direct-itself to that of princess and great lady, he-came to call-her Dulcinea of El Toboso, because she-was native of El Toboso;"
         ormsby: "and after some search for a name which should not be out of harmony with her own, and should suggest and indicate that of a princess and great lady, he decided upon calling her Dulcinea del Toboso, she being of El Toboso,"
@@ -666,6 +1234,17 @@ paragraphs:
           - {w: "Dulcinea", d: "coined from 'dulce' (sweet) with a pastoral-romance ending"}
           - {w: "El Toboso", d: "a real village in La Mancha, some 30 miles from the traditional site of Don Quijote's home"}
           - {w: "natural de", d: "native of"}
+        grammar:
+          structure: "A gerund phrase first, 'buscándole nombre que ...', with three subjunctives inside the relative clause ('no desdijese', 'tirase', 'se encaminase'); then the main clause 'vino a llamarla Dulcinea del Toboso' and 'porque era natural del Toboso'."
+          parts:
+            - s: "y, buscándole nombre que no desdijese mucho del suyo"
+              g: "The gerund of buscar (to look for) + 'le' (for her) attached. 'nombre que' + subjunctive: a relative clause describing something not yet found takes the subjunctive ('a name that would not clash'). 'desdijese' is desdecir de (to clash with, to be unworthy of), 3rd sg., imperfect subj., -se form, conjugated like decir (dijeron → dijese). 'del suyo' = from hers, her real name ('el suyo', see note 46)."
+            - s: "y que tirase y se encaminase al de princesa y gran señora"
+              g: "Two more subjunctives in the same relative clause: 'tirase' is tirar a (to tend toward) and 'se encaminase' is encaminarse a (to head toward), both 3rd sg., imperfect subj., -se form. 'al de princesa' = 'to that of a princess': 'al' = a + el, with 'el' standing for 'nombre' (article as pronoun, see notes 10 and 37). 'gran señora': 'gran' before a fem. noun (see note 5)."
+            - s: "vino a llamarla Dulcinea del Toboso"
+              g: "'venir a' + infinitive (see note 20): 'he ended up calling her'. 'la' = her, the direct object, attached to the infinitive llamar (to call); here 'la' and not 'le', because a feminine direct object is always 'la'."
+            - s: "porque era natural del Toboso"
+              g: "'natural de' = a native of; 'era' is ser, 3rd sg., imperfect. 'del Toboso': the village's name carries the article ('El Toboso'), which contracts with 'de'."
       - es: "nombre, a su parecer, músico y peregrino y significativo, como todos los demás que a él y a sus cosas había puesto."
         literal: "name, to his seeming, musical and rare and significant, like all the others that to him and to his things he-had put."
         ormsby: "a name, to his mind, musical, uncommon, and significant, like all those he had already bestowed upon himself and the things belonging to him."
@@ -675,6 +1254,13 @@ paragraphs:
           - {w: "significativo", d: "meaningful"}
           - {w: "los demás", d: "the rest, the others"}
           - {w: "poner", d: "to give (a name)"}
+        grammar:
+          structure: "An appositive to 'Dulcinea del Toboso', 'nombre ... músico y peregrino y significativo', in the same frame as note 43, closed by 'como todos los demás que ... había puesto'."
+          parts:
+            - s: "nombre, a su parecer, músico y peregrino y significativo"
+              g: "'nombre' in apposition, with three adjectives (masc. sing.), the same frame as note 43. 'y' is repeated between all three items (polysyndeton), for rhythm."
+            - s: "como todos los demás que a él y a sus cosas había puesto"
+              g: "'como' = like. 'todos los demás' = all the others ('demás' is invariable and always takes the article). 'que' is a relative used as object (the names). 'a él y a sus cosas' = to himself and to his things: 'a' marks the indirect object ('poner nombre a'); 'él' after a preposition (see note 22); the whole object phrase stands before the verb. 'había puesto' is the pluperfect of poner, with the irregular participle 'puesto' (see note 31)."
 summary: |
   An unnamed gentleman of about fifty lives in an unnamed village of La Mancha. He is an hidalgo, the lowest rung of the nobility, and a poor one: three-quarters of his income goes on a thin diet, he keeps a housekeeper, a niece, one servant, a skinny nag and a greyhound, and his surname is uncertain (Quijada, Quesada or Quejana).
 
