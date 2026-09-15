@@ -133,7 +133,12 @@ What `g` covers, in this order of priority:
   (él)`). Give the full paradigm the first time a pattern appears in the
   chapter (the -ía imperfect, the -aba imperfect, regular -ar and -er
   preterites, the -ra and -se imperfect subjunctives, the conditional, the
-  pluperfect); after that, point back with "(see note N)".
+  pluperfect), and give it again, in full, every later time it matters.
+  Never write "(see note N)" or otherwise send the reader to another note:
+  each note is read on its own in a pop-up, and the cost of repeating a
+  paradigm is nothing next to the cost of leaving the pop-up to find it.
+  The same goes for every rule (leísmo, enclitics on a finite verb, the
+  neuter 'lo', the personal 'a'): explain it wherever it comes up.
 - Every infinitive, gerund and participle: the verb it comes from with its
   meaning, and what governs it (`para` + infinitive, `venir a` + infinitive,
   absolute participle with its own subject).
