@@ -122,8 +122,8 @@ def title_xhtml(chapters) -> str:
     out.append("<p class=\"howto\">In the grammar section every verb is given as its infinitive with its "
                "meaning, then person and number (<i>1st sg.</i> = I, <i>2nd sg.</i> = you, <i>3rd sg.</i> = "
                "he, she, it, <i>1st pl.</i> = we, <i>2nd pl.</i> = you all, <i>3rd pl.</i> = they), tense and mood. "
-               "A conjugation pattern is written out in full the first time it appears in a chapter and later "
-               "notes point back to that note by number.</p>\n")
+               "Every note is self-contained: a conjugation pattern or a rule is written out in full wherever "
+               "it matters, so no note ever sends you to another one.</p>\n")
     out.append("<p class=\"howto\">Archaic spellings are kept as Cervantes wrote them (<i>mesmo</i> for "
                "<i>mismo</i>, <i>della</i> for <i>de ella</i>, <i>fermosura</i> for <i>hermosura</i>) and are "
                "glossed the first time they matter. Long-press any Spanish word for the Kindle dictionary.</p>\n")
