@@ -105,60 +105,88 @@ only say "See here" point into his preface; replace them with your own `note`.
 gloss nor the vocabulary carries: a pun, a genre convention, a medical or
 social fact. Two sentences at most.
 
-## 6. Grammar
+## 6. Diagram and forms
 
-`grammar` is the section after the vocabulary. It takes the sentence apart for a
-reader who wants to learn the Spanish, not just decode it: a one-line map of the
-sentence and then each chunk, in order, with what its words are doing.
+Two sections after the vocabulary take the sentence apart for a reader who
+wants to learn the Spanish, not just decode it: a `diagram` of how the phrases
+hang together, and a `forms` list that shows what happened to every word that
+was conjugated or made to agree.
 
-    grammar:
-      structure: "One main clause, 'vivía un hidalgo', verb before subject, ..."
-      parts:
-        - s: "En un lugar de la Mancha"
-          g: "Prepositional phrase of place. 'en' (in) + 'un', indefinite ..."
+    diagram:
+      - s: "vivía"
+        r: "main verb: lived"
+        under:
+          - s: "un hidalgo"
+            r: "subject: who lived"
+            under:
+              - {s: "de los de lanza en astillero, ...", r: "what kind of hidalgo"}
+          - {s: "no ha mucho tiempo que", r: "when: not long ago"}
+    forms:
+      - {w: "vivía", f: "viv- + -ía → vivir (to live), imperfect, he/she/it: 'was living'. The imperfect of -er and -ir verbs: -ía, -ías, -ía, -íamos, -íais, -ían."}
 
-`structure` is one or two sentences naming the main clause and how the rest
-hangs off it (fronted adverbials, relative clauses, result or conditional
-constructions, absolute participles). `parts` walks the sentence from left to
-right; `s` is the chunk quoted exactly as Cervantes wrote it, `g` its analysis.
-Chunk at clause and phrase boundaries, five to eight parts for an ordinary
-sentence, more for the long ones.
+### Diagram
 
-What `g` covers, in this order of priority:
+`diagram` is a tree. Each node is `s`, a chunk quoted exactly as Cervantes
+wrote it, `r`, its role in a few words, and optionally `under`, the chunks that
+attach to it. The builder renders it as an indented list, one line per node,
+four spaces deeper for each level.
 
-- Every finite verb: infinitive with its meaning in parentheses, person and
-  number, tense and mood, and anything irregular (stem change, irregular
-  preterite stem, spelling change). Person and number are abbreviated
-  `1st sg.`, `3rd pl.` and so on; add the pronoun when it helps (`3rd sg.
-  (él)`). Give the full paradigm the first time a pattern appears in the
-  chapter (the -ía imperfect, the -aba imperfect, regular -ar and -er
-  preterites, the -ra and -se imperfect subjunctives, the conditional, the
-  pluperfect), and give it again, in full, every later time it matters.
-  Never write "(see note N)" or otherwise send the reader to another note:
-  each note is read on its own in a pop-up, and the cost of repeating a
-  paradigm is nothing next to the cost of leaving the pop-up to find it.
-  The same goes for every rule (leísmo, enclitics on a finite verb, the
-  neuter 'lo', the personal 'a'): explain it wherever it comes up.
-- Every infinitive, gerund and participle: the verb it comes from with its
-  meaning, and what governs it (`para` + infinitive, `venir a` + infinitive,
-  absolute participle with its own subject).
-- Function words by function: which `de` this is (of, from, by, made of,
-  characterized by), what `que` is doing (relative, conjunction, loose causal
-  `que`), what triggers a subjunctive, `sino` after a negative, `así ... como`,
-  the personal `a`, `lo` + adjective.
-- Clitics: which pronoun, what it refers to, why it is where it is (enclitic
-  on a finite verb, doubled indirect object, `se` for `le` before `lo`,
-  leísmo).
-- Agreement and word order whenever a form changes to match something or the
-  order differs from English (verb before subject, adjective after noun,
-  apocope: `gran`, `buen`, `algún`).
-- Archaic forms point to the modern equivalent and the modern pattern
-  (`ha` for `hace` + time + `que`; `della`; `-ra` as conditional).
+- The root is the main verb (or the first few words containing it). A sentence
+  with two or three main clauses has two or three roots. A fragment that
+  continues the previous sentence (`que no era caballero melindroso ...`)
+  takes its root from the previous sentence (`decía`) and says so in `r`.
+- Under the verb go its subject, its objects, and its adverbials, in text
+  order. Under a noun go the phrases and relative clauses that describe it.
+  A result or purpose clause goes under the phrase that triggers it (`de tal
+  manera` → `que ...`).
+- `r` is a label, not an analysis: `subject`, `object`, `where`, `when`,
+  `why`, `how`, `describes 'lugar'`, `condition`, `result`, `what he said, 2`.
+  Add a short English paraphrase after a colon when the chunk is long.
+- Keep clauses whole. A relative clause with its own verb is one leaf; its
+  verb is explained in `forms`. Aim for five to ten nodes; the long sentences
+  take fifteen.
+- Every `s` must be a verbatim substring of `es` (or of the previous
+  sentence, for a carried-over root). Do not glue a conjunction onto a verb it
+  is not adjacent to; put the conjunction in `r` instead (`main verb 2 (after
+  'y')`).
 
-Nouns and their meanings belong in `vocab`; mention a noun in `g` only for its
-gender, number or article. Never name a verb by a bare infinitive: it is always
-`querer (to want)`, so the reader is never sent to the dictionary by the note
-that is supposed to explain the sentence. Use single quotes inside `g`.
+### Forms
+
+`forms` is a list of `{w, f}` pairs in text order. `w` is the word exactly as
+it appears (with its clitics: `Llenósele`, `acomodársele`), or a short group
+that shares one explanation (`los sábados`, `seco, enjuto`). `f` is one or two
+sentences in this shape:
+
+    stem + ending → dictionary form (meaning), tense, person: 'gloss'. Paradigm or rule.
+
+- Conjugated verbs: `perd- + -ía → perder (to lose), imperfect, he`. Person is
+  a plain pronoun (I, he, she, it, they, one), never `3rd sg.` Name the tense
+  in plain words: present, preterite, imperfect, conditional, future,
+  pluperfect, present subjunctive, imperfect subjunctive (-ra form / -se form).
+- Then the six endings of that tense, every time the tense appears in a note:
+  `The imperfect of -ar verbs: -aba, -abas, -aba, -ábamos, -abais, -aban.`
+  For an irregular verb, the six forms instead: `vine, viniste, vino, ...`.
+  When a second word in the same note uses the same tense, `Same -aba
+  imperfect.` is enough. Never send the reader to another note.
+- Enclitics: `desvel- + -aba + se → desvelar (to keep awake) with 'se' stuck
+  on the end; modern 'se desvelaba'`, with the one-line rule about Cervantes
+  hanging pronouns on a clause-opening verb.
+- Infinitives, gerunds, participles: what they come from and what governs
+  them (`infinitive after 'para'`, `gerund of poner + 'se', accent added`).
+- Agreement: `reci- + -a → recio (sturdy), feminine to match 'complexión'`;
+  `sus = plural to match 'pantuflos', not the owner`. Include demonstratives,
+  possessives, apocope (`gran`, `buen`, `algún`), plurals with a spelling
+  change (`veces`, `rocines`), suffixes (`-dor`, `-ón`, `-mente`, `-ísimo`).
+- Contractions and archaic spellings: `della = de + ella`, `letura =
+  lectura`, `mesmo = mismo`.
+- Clitic pairs and function words only when their form is the point: `se lo`
+  (le → se before lo), `le` as leísmo, `sí` with the accent, `al`, `del`.
+- Leave out articles, plain nouns, and adjectives that do nothing
+  interesting. Nouns and their meanings belong in `vocab`.
+
+Use single quotes inside `r` and `f`. Never name a verb by a bare infinitive:
+it is always `querer (to want)`, so the reader is never sent to the dictionary
+by the note that is supposed to explain the sentence.
 
 ## 7. Summary and context
 
