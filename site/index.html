@@ -93,6 +93,17 @@
     var baseEl = doc.querySelector("base");
     if (baseEl && baseEl.parentNode) baseEl.parentNode.removeChild(baseEl);
 
+    // epub.js caps images at the frame's height, and in scrolled mode the
+    // frame starts out a few pixels tall and grows to fit its content, so
+    // the cover would stay a thumbnail. Inline !important beats that cap.
+    Array.prototype.forEach.call(doc.querySelectorAll("section.cover img"), function (img) {
+      img.style.setProperty("max-height", "none", "important");
+      img.style.setProperty("max-width", "min(100%, 28rem)", "important");
+      img.style.setProperty("width", "100%", "important");
+      img.style.setProperty("margin", "0 auto", "important");
+      img.style.setProperty("display", "block", "important");
+    });
+
     // Capture on the document: this runs before the handler epub.js puts on
     // the anchor itself, so a note opens the overlay instead of re-displaying
     // the section, and it also covers links added after this hook runs.
@@ -115,7 +126,75 @@
     doc.addEventListener("keydown", function (e) { if (e.key === "Escape") hideNote(); });
   });
 
-  rendition.display();
+  // The URL hash tracks the paragraph at the top of the view (#p1c02-p5,
+  // or #p1c02 for a chapter), so any place in the book can be linked to.
+  var PLACE = /^#?(p\d+c\d+)(?:-p\d+)?$/;
+  var restoring = false;
+
+  function frameOf(contents) { return contents && contents.window && contents.window.frameElement; }
+
+  function topParagraph() {
+    var contents = rendition.getContents()[0];
+    var frame = frameOf(contents);
+    if (!frame) return null;
+    var paras = contents.document.querySelectorAll("p[id]");
+    if (!paras.length) return null;
+    var top = viewerEl.getBoundingClientRect().top + 8;
+    var frameTop = frame.getBoundingClientRect().top;
+    for (var i = 0; i < paras.length; i++) {
+      if (frameTop + paras[i].getBoundingClientRect().bottom > top) return paras[i].id;
+    }
+    return paras[paras.length - 1].id; // scrolled down into the notes
+  }
+
+  var pending = false;
+  function trackPlace() {
+    if (pending || restoring) return;
+    pending = true;
+    requestAnimationFrame(function () {
+      pending = false;
+      var id = topParagraph();
+      var hash = id ? "#" + id : "";
+      if (hash !== location.hash) history.replaceState(null, "", hash || location.pathname + location.search);
+    });
+  }
+  // Scroll events don't bubble, but they can be caught on the way down.
+  document.addEventListener("scroll", trackPlace, true);
+  window.addEventListener("resize", trackPlace);
+
+  function goTo(hash) {
+    var m = PLACE.exec(hash || "");
+    if (!m) return rendition.display();
+    var id = hash.replace(/^#/, "");
+    restoring = true;
+    return rendition.display(m[1] + ".xhtml").then(function () {
+      if (id === m[1]) return;
+      // epub.js sizes the iframe to the whole chapter and scrolls the div
+      // around it, so scrollIntoView inside the frame doesn't move anything.
+      // Scroll that div by hand, twice: the frame can grow once it has laid out.
+      return new Promise(function (resolve) {
+        var tries = 0;
+        (function scroll() {
+          var contents = rendition.getContents()[0];
+          var frame = frameOf(contents);
+          var el = frame && contents.document.getElementById(id);
+          var box = frame && frame.closest(".epub-container");
+          if (el && box) {
+            box.scrollTop += frame.getBoundingClientRect().top + el.getBoundingClientRect().top
+              - box.getBoundingClientRect().top;
+          }
+          if (++tries < 2) setTimeout(scroll, 150); else resolve();
+        })();
+      });
+    }).catch(function () {
+      return rendition.display();
+    }).then(function () {
+      // Let the scroll settle before the hash starts following it again.
+      setTimeout(function () { restoring = false; trackPlace(); }, 100);
+    });
+  }
+  goTo(location.hash);
+  window.addEventListener("hashchange", function () { goTo(location.hash); });
 
   document.getElementById("prev").addEventListener("click", function () { rendition.prev(); });
   document.getElementById("next").addEventListener("click", function () { rendition.next(); });
@@ -130,6 +209,7 @@
   });
   toc.addEventListener("change", function () { rendition.display(toc.value); });
   rendition.on("relocated", function (loc) {
+    trackPlace();
     var href = loc && loc.start && loc.start.href;
     if (!href) return;
     for (var i = 0; i < toc.options.length; i++) {

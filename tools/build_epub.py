@@ -66,10 +66,11 @@ def chapter_xhtml(doc: dict, cid: str) -> str:
         out.append(f'<p class="subtitle" xml:lang="en" lang="en">{esc(doc["title_en"])}</p>\n')
     notes = []
     n = 0
-    for p in doc["paragraphs"]:
+    for pi, p in enumerate(doc["paragraphs"], 1):
         sents = p["sentences"]
         cls = ' class="dialogue"' if sents and sents[0]["es"].lstrip().startswith("—") else ""
-        out.append(f"<p{cls}>")
+        # Paragraph ids let the browser reader link to a place in the chapter.
+        out.append(f'<p id="{cid}-p{pi}"{cls}>')
         for s in sents:
             n += 1
             out.append(f'{esc(s["es"])}<a href="#n{n}" id="r{n}" epub:type="noteref" class="nr">{n}</a> ')
@@ -118,29 +119,21 @@ def chapter_xhtml(doc: dict, cid: str) -> str:
     return "".join(out)
 
 
+def cover_xhtml() -> str:
+    out = [XHTML_HEAD.format(lang="es", title="Cubierta", btype="frontmatter cover")]
+    out.append('<section epub:type="cover" class="cover">\n')
+    out.append('<img src="cover.jpg" alt="Don Quijote de la Mancha, Miguel de Cervantes: edición anotada para angloparlantes"/>\n')
+    out.append("</section>\n")
+    out.append(XHTML_FOOT)
+    return "".join(out)
+
+
 def title_xhtml(chapters) -> str:
     out = [XHTML_HEAD.format(lang="es", title=esc(TITLE), btype="frontmatter titlepage")]
     out.append('<section epub:type="titlepage">\n')
     out.append("<h1>Don Quijote de la Mancha</h1>\n<p class=\"subtitle\">Miguel de Cervantes Saavedra</p>\n")
     out.append('<p class="subtitle" xml:lang="en" lang="en">Annotated edition for English-speaking readers</p>\n')
     out.append('<div xml:lang="en" lang="en">\n')
-    out.append("<p class=\"howto\"><b>How to read this book.</b> The text is Cervantes' original Spanish "
-               "(Project Gutenberg #2000). Every sentence ends with a small number. Tap it for a note with "
-               "four parts: John <b>Ormsby</b>'s 1885 translation of the same sentence, a word-for-word "
-               "<b>literal</b> gloss that follows the Spanish order, a <b>vocabulary</b> list of the "
-               "words an intermediate reader is likely to need, a <b>diagram</b> of the sentence, and a list "
-               "of <b>forms</b> that takes apart every word that has been conjugated or made to agree. Where Ormsby "
-               "wrote a translator's note on that sentence it is included. The § mark at the end of a chapter opens a summary and a "
-               "context note for the whole chapter.</p>\n")
-    out.append("<p class=\"howto\">The diagram puts the main verb at the top and indents each phrase under "
-               "the word it attaches to, with its job in brackets: subject, object, where, when, why, or which "
-               "earlier word it describes. The forms list shows each inflected word as stem + ending, then the "
-               "dictionary form with its meaning, the tense and person (he, she, I, they), and a plain-English "
-               "gloss; the six endings of a tense are written out wherever that tense appears, so no note ever "
-               "sends you to another one.</p>\n")
-    out.append("<p class=\"howto\">Archaic spellings are kept as Cervantes wrote them (<i>mesmo</i> for "
-               "<i>mismo</i>, <i>della</i> for <i>de ella</i>, <i>fermosura</i> for <i>hermosura</i>) and are "
-               "glossed the first time they matter. Long-press any Spanish word for the Kindle dictionary.</p>\n")
     out.append("<p class=\"howto\">Contents: " + "; ".join(esc(c["title_es"].split(". ")[0]) for c in chapters) + ".</p>\n")
     out.append("</div>\n</section>\n")
     out.append(XHTML_FOOT)
@@ -155,6 +148,7 @@ def nav_xhtml(items) -> str:
         out.append(f'<li><a href="{fname}">{esc(label)}</a></li>\n')
     out.append("</ol>\n</nav>\n")
     out.append('<nav epub:type="landmarks" hidden="hidden">\n<ol>\n')
+    out.append('<li><a epub:type="cover" href="cover.xhtml">Cubierta</a></li>\n')
     out.append('<li><a epub:type="titlepage" href="title.xhtml">Portada</a></li>\n')
     out.append(f'<li><a epub:type="bodymatter" href="{items[0][0]}">Texto</a></li>\n')
     out.append("</ol>\n</nav>\n")
@@ -185,9 +179,11 @@ def opf(items) -> str:
         '<item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>',
         '<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>',
         '<item id="css" href="style.css" media-type="text/css"/>',
+        '<item id="cover-img" href="cover.jpg" media-type="image/jpeg" properties="cover-image"/>',
+        '<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>',
         '<item id="title" href="title.xhtml" media-type="application/xhtml+xml"/>',
     ]
-    spine = ['<itemref idref="title"/>']
+    spine = ['<itemref idref="cover"/>', '<itemref idref="title"/>']
     for i, (fname, _) in enumerate(items):
         manifest.append(f'<item id="c{i}" href="{fname}" media-type="application/xhtml+xml"/>')
         spine.append(f'<itemref idref="c{i}"/>')
@@ -204,6 +200,7 @@ def opf(items) -> str:
 <dc:date>1605</dc:date>
 <dc:rights>Spanish text and Ormsby translation are in the public domain. Annotations for this edition.</dc:rights>
 <meta property="dcterms:modified">{modified}</meta>
+<meta name="cover" content="cover-img"/>
 </metadata>
 <manifest>
 {chr(10).join(manifest)}
@@ -236,6 +233,8 @@ def main(argv):
         z.writestr("OEBPS/nav.xhtml", nav_xhtml(items), compress_type=zipfile.ZIP_DEFLATED)
         z.writestr("OEBPS/toc.ncx", ncx(items), compress_type=zipfile.ZIP_DEFLATED)
         z.writestr("OEBPS/style.css", (ROOT / "tools/style.css").read_text(encoding="utf-8"), compress_type=zipfile.ZIP_DEFLATED)
+        z.write(ROOT / "assets/cover.jpg", "OEBPS/cover.jpg", compress_type=zipfile.ZIP_STORED)
+        z.writestr("OEBPS/cover.xhtml", cover_xhtml(), compress_type=zipfile.ZIP_DEFLATED)
         z.writestr("OEBPS/title.xhtml", title_xhtml(chapters), compress_type=zipfile.ZIP_DEFLATED)
         for fname, content in files.items():
             z.writestr(f"OEBPS/{fname}", content, compress_type=zipfile.ZIP_DEFLATED)

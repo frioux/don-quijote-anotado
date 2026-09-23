@@ -1,0 +1,2005 @@
+part: 1
+chapter: 7
+title_es: "Capítulo VII. De la segunda salida de nuestro buen caballero don Quijote de la Mancha"
+title_en: "Of the second sally of our worthy knight Don Quixote of La Mancha"
+paragraphs:
+  - sentences:
+      - es: "Estando en esto, comenzó a dar voces don Quijote, diciendo:"
+        literal: "Being in this, began to give shouts Don Quijote, saying:"
+        ormsby: "At this instant Don Quixote began shouting out,"
+        vocab:
+          - {w: "estando en esto", d: "at this point, while they were busy with this; the priest and barber are in the middle of sorting his library"}
+          - {w: "dar voces", d: "to shout, cry out (literally 'give voices')"}
+        diagram:
+          - s: "comenzó a dar voces"
+            r: "main verb: began to shout"
+            under:
+              - {s: "Estando en esto", r: "when: while they were at this"}
+              - {s: "don Quijote", r: "subject, placed after the verb"}
+              - {s: "diciendo:", r: "how: saying (the speech follows)"}
+        forms:
+          - {w: "Estando", f: "est- + -ando → gerund of estar (to be): 'being'. Here it sets the scene: 'while [they] were at this'."}
+          - {w: "comenzó", f: "comenz- + -ó → comenzar (to begin), preterite, he: 'began'. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron (the 'I' form is spelled 'comencé', z turning to c before e). 'comenzar a' + infinitive = to begin to."}
+          - {w: "dar", f: "infinitive of dar (to give) after 'comenzó a'."}
+          - {w: "diciendo", f: "dic- + -iendo → gerund of decir (to say), with the stem vowel e turned to i: 'saying'."}
+        note: "The chapter opens in the middle of a scene: the priest and the barber have been going through Don Quijote's library book by book, deciding which to burn, while he sleeps off his beating."
+  - sentences:
+      - es: "— Aquí, aquí, valerosos caballeros; aquí es menester mostrar la fuerza de vuestros valerosos brazos, que los cortesanos llevan lo mejor del torneo."
+        literal: "— Here, here, valiant knights; here [it] is needful to-show the strength of your valiant arms, for the courtiers carry-off the best of-the tourney."
+        ormsby: "“Here, here, valiant knights! here is need for you to put forth the might of your strong arms, for they of the Court are gaining the mastery in the tourney!”"
+        vocab:
+          - {w: "valeroso", d: "valiant, brave"}
+          - {w: "es menester", d: "it is necessary, there is need (menester = need); very common in Cervantes"}
+          - {w: "brazo", d: "arm"}
+          - {w: "cortesanos", d: "courtiers; in a romance tournament, the knights of the king's court, fighting against the 'aventureros', the wandering knights"}
+          - {w: "llevar lo mejor", d: "to have the best of it, be winning"}
+          - {w: "torneo", d: "tournament, tourney"}
+        diagram:
+          - {s: "Aquí, aquí, valerosos caballeros", r: "call to his comrades: here, here, valiant knights"}
+          - s: "aquí es menester"
+            r: "main verb: here there is need"
+            under:
+              - {s: "mostrar la fuerza de vuestros valerosos brazos", r: "need for what: to show the strength of your arms"}
+              - {s: "que los cortesanos llevan lo mejor del torneo", r: "loose 'que' = 'for': why, the court knights are winning"}
+        forms:
+          - {w: "valerosos", f: "valeros- + -os → valeroso (valiant), masculine plural to match 'caballeros', and again to match 'brazos'."}
+          - {w: "es", f: "ser (to be), present, it: soy, eres, es, somos, sois, son. 'es menester' = it is needful."}
+          - {w: "mostrar", f: "infinitive of mostrar (to show), the thing that 'es menester'."}
+          - {w: "vuestros", f: "vuestr- + -os → 'your' (belonging to 'vosotros', you all), masculine plural to match 'brazos': vuestro, vuestra, vuestros, vuestras."}
+          - {w: "llevan", f: "llev- + -an → llevar (to carry off), present, they (the courtiers). The present of -ar verbs: -o, -as, -a, -amos, -áis, -an."}
+          - {w: "lo mejor", f: "neuter 'lo' + mejor (best): 'the best part'."}
+          - {w: "del", f: "de + el (of the)."}
+        note: "He is dreaming that he is in a romance tournament, the adventurer knights against the knights of the court. The joke is that his dream-battle breaks up the priest's real 'trial' of his books."
+  - sentences:
+      - es: "Por acudir a este ruido y estruendo, no se pasó adelante con el escrutinio de los demás libros que quedaban;"
+        literal: "For to-come-running to this noise and din, not was-gone forward with the scrutiny of the other books that remained;"
+        ormsby: "Called away by this noise and outcry, they proceeded no farther with the scrutiny of the remaining books,"
+        vocab:
+          - {w: "acudir a", d: "to come running to, respond to (a call or noise)"}
+          - {w: "estruendo", d: "din, uproar, crash"}
+          - {w: "pasar adelante con", d: "to go on with, proceed with"}
+          - {w: "escrutinio", d: "scrutiny, examination; also the counting of votes, so it sounds like an official inquiry"}
+          - {w: "los demás", d: "the rest, the other"}
+          - {w: "quedar", d: "to remain, be left"}
+        diagram:
+          - s: "no se pasó adelante"
+            r: "main verb: there was no going on; impersonal, no named subject"
+            under:
+              - {s: "Por acudir a este ruido y estruendo", r: "why: because of running to this noise"}
+              - s: "con el escrutinio de los demás libros"
+                r: "with what: the examination of the other books"
+                under:
+                  - {s: "que quedaban", r: "describes 'libros': that were left"}
+        forms:
+          - {w: "acudir", f: "infinitive of acudir (to come running) after 'por': 'por' + infinitive = 'because of doing'."}
+          - {w: "este", f: "'this', masculine singular to match 'ruido': este, esta, estos, estas."}
+          - {w: "se pasó", f: "pas- + -ó → pasar (to pass, go on), preterite, it, with impersonal 'se': 'there was no going on' = they did not go on. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron."}
+          - {w: "los demás", f: "'the other'; 'demás' never changes and always takes the article."}
+          - {w: "quedaban", f: "qued- + -aban → quedar (to remain), imperfect, they (the books). The imperfect of -ar verbs: -aba, -abas, -aba, -ábamos, -abais, -aban."}
+      - es: "y así, se cree que fueron al fuego, sin ser vistos ni oídos, La Carolea y León de España, con Los Hechos del Emperador, compuestos por don Luis de Ávila, que, sin duda, debían de estar entre los que quedaban;"
+        literal: "and thus, it-is-believed that went to-the fire, without being seen nor heard, La Carolea and León de España, with Los Hechos del Emperador, composed by Don Luis de Ávila, which, without doubt, must have been among those that remained;"
+        ormsby: "and so it is thought that The Carolea, The Lion of Spain, and The Deeds of the Emperor, written by Don Luis de Avila, went to the fire unseen and unheard; for no doubt they were among those that remained,"
+        vocab:
+          - {w: "se cree", d: "it is believed, people think"}
+          - {w: "sin ser vistos ni oídos", d: "without being seen or heard; 'sin ser oído' is also the legal phrase for condemning someone without a hearing"}
+          - {w: "La Carolea", d: "an epic poem (1560) by Jerónimo Sempere on the victories of the Emperor Charles V"}
+          - {w: "León de España", d: "an epic poem (1586) by Pedro de la Vecilla on the history of the city of León"}
+          - {w: "Los Hechos del Emperador", d: "'The Deeds of the Emperor'; no book by this title is known; Cervantes may mean another poem on Charles V"}
+          - {w: "Luis de Ávila", d: "Luis de Ávila y Zúñiga, soldier and historian who wrote a prose commentary on Charles V's war in Germany"}
+          - {w: "deber de", d: "must (a guess): 'debían de estar' = they must have been"}
+        diagram:
+          - s: "se cree"
+            r: "main verb: it is believed"
+            under:
+              - s: "que fueron al fuego"
+                r: "what is believed: that they went to the fire"
+                under:
+                  - {s: "sin ser vistos ni oídos", r: "how: unseen and unheard"}
+                  - {s: "La Carolea y León de España", r: "subject of 'fueron', placed after it: two books"}
+                  - s: "con Los Hechos del Emperador"
+                    r: "subject, continued: along with a third book"
+                    under:
+                      - {s: "compuestos por don Luis de Ávila", r: "describes the books: written by Luis de Ávila"}
+                  - s: "que, sin duda, debían de estar entre los que quedaban"
+                    r: "describes the books: which no doubt must have been among those left"
+        forms:
+          - {w: "se cree", f: "cre- + -e → creer (to believe), present, it, with impersonal 'se': 'it is believed'. The present of -er verbs: -o, -es, -e, -emos, -éis, -en."}
+          - {w: "fueron", f: "ir (to go), preterite, they: 'went'. ir's preterite is irregular (and the same as ser's): fui, fuiste, fue, fuimos, fuisteis, fueron."}
+          - {w: "al", f: "a + el (to the)."}
+          - {w: "ser vistos ni oídos", f: "ser (to be) + participles, a passive infinitive after 'sin': 'without being seen or heard'. vistos is the irregular participle of ver (to see); oídos the participle of oír (to hear); both masculine plural to match the books."}
+          - {w: "compuestos", f: "compuest- + -os → compuesto, the irregular participle of componer (to compose), masculine plural to match the books."}
+          - {w: "debían de estar", f: "deb- + -ían → deber (must), imperfect, they, + 'de' + estar (to be): 'must have been', a guess. The imperfect of -er and -ir verbs: -ía, -ías, -ía, -íamos, -íais, -ían."}
+          - {w: "los que", f: "'those that': the article as a pronoun + relative 'que'."}
+          - {w: "quedaban", f: "qued- + -aban → quedar (to remain), imperfect, they. The imperfect of -ar verbs: -aba, -abas, -aba, -ábamos, -abais, -aban."}
+        ormsby_note: "The books referred to are the Carolea of Geronimo Sempere (1560), which deals with the victories of Charles V; the León de España, by Pedro de la Vezilla, a poem on the history of the city of León; and, probably, the Carlo Famoso of Louis Zapata, for there is no book known with the title of The Deeds of the Emperor and the work of Avila is simply a prose commentary on the wars against the Protestants of Germany."
+      - es: "y quizá, si el cura los viera, no pasaran por tan rigurosa sentencia."
+        literal: "and perhaps, if the priest them had-seen, not they-would-have-passed through so rigorous sentence."
+        ormsby: "and perhaps if the curate had seen them they would not have undergone so severe a sentence."
+        vocab:
+          - {w: "quizá", d: "perhaps"}
+          - {w: "pasar por", d: "to undergo, go through"}
+          - {w: "riguroso", d: "harsh, severe"}
+          - {w: "sentencia", d: "sentence, verdict; the book-burning is described as a court trial"}
+        diagram:
+          - s: "no pasaran por tan rigurosa sentencia"
+            r: "main verb: they would not have undergone so harsh a sentence"
+            under:
+              - {s: "quizá", r: "how sure: perhaps"}
+              - {s: "si el cura los viera", r: "condition: if the priest had seen them"}
+        forms:
+          - {w: "los", f: "them (the books), masculine plural object pronoun."}
+          - {w: "viera", f: "vi- + -era → ver (to see), imperfect subjunctive (-ra form), he: here 'had seen'. Built on the preterite vieron: viera, vieras, viera, viéramos, vierais, vieran. After 'si' the -ra form is the counterfactual."}
+          - {w: "pasaran", f: "pas- + -aran → pasar (to undergo), imperfect subjunctive (-ra form), they: here 'would have undergone'. pasara, pasaras, pasara, pasáramos, pasarais, pasaran. Cervantes uses the -ra form where modern Spanish says 'habrían pasado'."}
+          - {w: "tan rigurosa", f: "tan (so) + rigurosa, feminine to match 'sentencia'."}
+        note: "The narrator keeps up the legal joke of the previous chapter: the books are defendants, the priest is the judge, and some are condemned unheard. Cervantes, who admired some of these epics, pretends to regret it."
+  - sentences:
+      - es: "Cuando llegaron a don Quijote, ya él estaba levantado de la cama, y proseguía en sus voces y en sus desatinos, dando cuchilladas y reveses a todas partes, estando tan despierto como si nunca hubiera dormido."
+        literal: "When they-arrived at Don Quijote, already he was risen from the bed, and continued in his shouts and in his follies, giving slashes and backstrokes to all sides, being so awake as if never he-had slept."
+        ormsby: "When they reached Don Quixote he was already out of bed, and was still shouting and raving, and slashing and cutting all round, as wide awake as if he had never slept."
+        vocab:
+          - {w: "levantado", d: "up, out of bed"}
+          - {w: "proseguir en", d: "to carry on with, continue"}
+          - {w: "desatino", d: "folly, raving, nonsense"}
+          - {w: "cuchillada", d: "slash, cut (with a sword or knife)"}
+          - {w: "revés", d: "backhand stroke (in fencing)"}
+          - {w: "a todas partes", d: "in all directions"}
+          - {w: "despierto", d: "awake"}
+        diagram:
+          - s: "ya él estaba levantado de la cama"
+            r: "main verb 1: he was already out of bed"
+            under:
+              - {s: "Cuando llegaron a don Quijote", r: "when: when they reached him"}
+          - s: "y proseguía en sus voces y en sus desatinos"
+            r: "main verb 2: and went on shouting and raving"
+            under:
+              - {s: "dando cuchilladas y reveses a todas partes", r: "how: slashing in all directions"}
+              - s: "estando tan despierto"
+                r: "how: being so wide awake"
+                under:
+                  - {s: "como si nunca hubiera dormido", r: "as if he had never slept"}
+        forms:
+          - {w: "llegaron", f: "lleg- + -aron → llegar (to arrive), preterite, they. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron."}
+          - {w: "estaba levantado", f: "est- + -aba → estar (to be), imperfect, he, + levantado, participle of levantar (to raise): 'was up'. The imperfect of -ar verbs: -aba, -abas, -aba, -ábamos, -abais, -aban."}
+          - {w: "proseguía", f: "prosegu- + -ía → proseguir (to continue), imperfect, he. The imperfect of -er and -ir verbs: -ía, -ías, -ía, -íamos, -íais, -ían."}
+          - {w: "sus", f: "'his', plural to match 'voces' and 'desatinos', not the owner."}
+          - {w: "dando", f: "d- + -ando → gerund of dar (to give): 'giving [slashes]'."}
+          - {w: "reveses", f: "revés + -es → plural of revés (backstroke); the accent drops because the stress now falls regularly."}
+          - {w: "estando", f: "est- + -ando → gerund of estar (to be)."}
+          - {w: "hubiera dormido", f: "hub- + -iera → haber, imperfect subjunctive (-ra form), he, + dormido, participle of dormir (to sleep): pluperfect subjunctive, 'had slept'. haber's -ra form: hubiera, hubieras, hubiera, hubiéramos, hubierais, hubieran. 'como si' (as if) always takes the imperfect or pluperfect subjunctive."}
+      - es: "Abrazáronse con él, y por fuerza le volvieron al lecho; y, después que hubo sosegado un poco, volviéndose a hablar con el cura, le dijo:"
+        literal: "They-grappled-themselves with him, and by force him they-returned to-the bed; and, after that he-had calmed a little, turning-himself to speak with the priest, to-him he-said:"
+        ormsby: "They closed with him and by force got him back to bed, and when he had become a little calm, addressing the curate, he said to him,"
+        vocab:
+          - {w: "abrazarse con", d: "to seize hold of, grapple with; here not a friendly 'embrace'"}
+          - {w: "por fuerza", d: "by force"}
+          - {w: "volver", d: "to return, put back; 'volverse a' = to turn to"}
+          - {w: "lecho", d: "bed (literary word for 'cama')"}
+          - {w: "sosegar", d: "to calm down, quiet down"}
+        diagram:
+          - s: "Abrazáronse con él"
+            r: "main verb 1: they grabbed hold of him"
+          - s: "y por fuerza le volvieron al lecho"
+            r: "main verb 2: and by force put him back to bed"
+          - s: "le dijo:"
+            r: "main verb 3 (after 'y'): he said to him"
+            under:
+              - {s: "después que hubo sosegado un poco", r: "when: after he had calmed down a little"}
+              - {s: "volviéndose a hablar con el cura", r: "how: turning to speak to the priest"}
+        forms:
+          - {w: "Abrazáronse", f: "abraz- + -aron + se → abrazarse (to grapple), preterite, they, with 'se' stuck on the end: modern 'se abrazaron'. Cervantes hangs pronouns on the end of a conjugated verb that opens its clause. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron."}
+          - {w: "le volvieron", f: "volv- + -ieron → volver (to put back), preterite, they, + 'le' (him). The preterite of -er and -ir verbs: -í, -iste, -ió, -imos, -isteis, -ieron. 'le' for a male person as direct object is leísmo, normal in Castile; strict grammar wants 'lo'."}
+          - {w: "al", f: "a + el (to the)."}
+          - {w: "hubo sosegado", f: "hub- + -o → haber, preterite, he, + sosegado, participle of sosegar (to calm down): the past anterior, 'had calmed', used after 'después que'. haber's preterite: hube, hubiste, hubo, hubimos, hubisteis, hubieron."}
+          - {w: "volviéndose", f: "volv- + -iendo + se → gerund of volverse (to turn), with 'se' on the end and an accent added to keep the stress."}
+          - {w: "hablar", f: "infinitive of hablar (to speak) after 'volverse a'."}
+          - {w: "le dijo", f: "dij- + -o → decir (to say), preterite, he, + 'le' (to him). Irregular stem: dije, dijiste, dijo, dijimos, dijisteis, dijeron."}
+  - sentences:
+      - es: "— Por cierto, señor arzobispo Turpín, que es gran mengua de los que nos llamamos doce Pares dejar, tan sin más ni más, llevar la vitoria deste torneo a los caballeros cortesanos, habiendo nosotros los aventureros ganado el prez en los tres días antecedentes."
+        literal: "— For certain, sir archbishop Turpín, that [it] is great disgrace of those who ourselves call twelve Peers to-let, so without more nor more, carry-off the victory of-this tourney to the knights courtly, having we the adventurers won the prize in the three days preceding."
+        ormsby: "“Of a truth, Señor Archbishop Turpin, it is a great disgrace for us who call ourselves the Twelve Peers, so carelessly to allow the knights of the Court to gain the victory in this tourney, we the adventurers having carried off the honour on the three former days.”"
+        vocab:
+          - {w: "por cierto", d: "truly, certainly"}
+          - {w: "arzobispo Turpín", d: "Archbishop Turpin, Charlemagne's warrior-bishop in the Roland legends; he takes the priest for him"}
+          - {w: "mengua", d: "disgrace, discredit (literally 'lessening')"}
+          - {w: "los doce Pares", d: "the Twelve Peers of France, Charlemagne's paladins (Roland, Oliver, Reinaldos and the rest)"}
+          - {w: "sin más ni más", d: "just like that, without more ado, for no reason"}
+          - {w: "vitoria", d: "= victoria, victory (old spelling)"}
+          - {w: "deste", d: "= de este, 'of this'"}
+          - {w: "aventureros", d: "the adventurer knights, the wandering side in the tourney, against the 'cortesanos' of the court"}
+          - {w: "prez", d: "honor, glory, the prize of a tournament (an old chivalric word)"}
+          - {w: "antecedente", d: "preceding, previous"}
+        diagram:
+          - s: "es gran mengua"
+            r: "main verb: it is a great disgrace"
+            under:
+              - {s: "Por cierto, señor arzobispo Turpín, que", r: "opening: truly, Archbishop Turpin; the 'que' just adds emphasis"}
+              - {s: "de los que nos llamamos doce Pares", r: "for whom: for us who call ourselves the Twelve Peers"}
+              - s: "dejar"
+                r: "subject, what is the disgrace: to let"
+                under:
+                  - {s: "tan sin más ni más", r: "how: just like that"}
+                  - {s: "llevar la vitoria deste torneo a los caballeros cortesanos", r: "what they let happen: the court knights carry off the victory"}
+              - {s: "habiendo nosotros los aventureros ganado el prez en los tres días antecedentes", r: "when we had: we adventurers having won the prize on the three days before"}
+        forms:
+          - {w: "es", f: "ser (to be), present, it: soy, eres, es, somos, sois, son."}
+          - {w: "gran", f: "grande clipped before a singular noun; before the noun it means 'great'."}
+          - {w: "nos llamamos", f: "llam- + -amos → llamarse (to call oneself), present, we, with 'nos' (ourselves). The present of -ar verbs: -o, -as, -a, -amos, -áis, -an."}
+          - {w: "dejar ... llevar", f: "two infinitives: dejar (to let) + llevar (to carry off): 'to let [them] carry off'. The whole infinitive phrase is the subject of 'es'."}
+          - {w: "vitoria", f: "old spelling of victoria (Cervantes drops the c before t: vitoria, efeto, dotor)."}
+          - {w: "deste", f: "de + este (of this)."}
+          - {w: "habiendo ... ganado", f: "habiendo, gerund of haber, + ganado, participle of ganar (to win): 'having won', with its own subject 'nosotros' squeezed in between. A gerund phrase with its own subject works like 'since we had ...'."}
+          - {w: "antecedentes", f: "antecedente + -s → plural to match 'días'."}
+        ormsby_note: "Turpin (or Tilpin), Charlemagne's chaplain, and Archbishop of Rheims: according to the Chanson de Roland, one of those slain at Roncesvalles; but also claimed as author of the Chronicle of Charlemagne, which, however, was probably not composed before the end of the eleventh or beginning of the twelfth century. He died in the year of the Roncesvalles rout, 778."
+        note: "In his dream Don Quijote has become one of Charlemagne's Twelve Peers and takes the priest for Archbishop Turpin, the Peers' fighting churchman: a fitting part for a village priest."
+  - sentences:
+      - es: "— Calle vuestra merced, señor compadre —dijo el cura—, que Dios será servido que la suerte se mude, y que lo que hoy se pierde se gane mañana;"
+        literal: "— Be-quiet your grace, sir gossip —said the priest—, for God will-be served that the luck itself-change, and that what today is-lost be-won tomorrow;"
+        ormsby: "“Hush, gossip,” said the curate; “please God, the luck may turn, and what is lost today may be won tomorrow;"
+        vocab:
+          - {w: "callar", d: "to be quiet, hush"}
+          - {w: "vuestra merced", d: "'your grace', the polite way to say 'you', taking a he/she verb; it later shrank to 'usted'"}
+          - {w: "compadre", d: "old friend, 'gossip'; literally a godfather in relation to the child's parents, and so a term for a close neighbor"}
+          - {w: "Dios será servido", d: "God willing, please God (literally 'God will be served [to grant]')"}
+          - {w: "suerte", d: "luck, fortune"}
+          - {w: "mudarse", d: "to change"}
+        diagram:
+          - {s: "Calle vuestra merced, señor compadre", r: "main verb 1: hush, my friend"}
+          - s: "Dios será servido"
+            r: "main verb 2, after a loose 'que' = 'for': God will be pleased"
+            under:
+              - {s: "que la suerte se mude", r: "what God will grant, 1: that luck will change"}
+              - s: "y que lo que hoy se pierde se gane mañana"
+                r: "what God will grant, 2: that what is lost today be won tomorrow"
+        forms:
+          - {w: "Calle", f: "call- + -e → callar (to be quiet), present subjunctive, you (vuestra merced), used as a polite command: 'be quiet'. The present subjunctive of -ar verbs: -e, -es, -e, -emos, -éis, -en."}
+          - {w: "vuestra merced", f: "a 'you' that takes the he/she form of the verb, like modern 'usted' (which grew out of it)."}
+          - {w: "será servido", f: "ser (to be), future, he (God): 'will be', + servido, participle of servir (to serve). The future is the whole infinitive + -é, -ás, -á, -emos, -éis, -án: seré, serás, será, seremos, seréis, serán."}
+          - {w: "se mude", f: "mud- + -e → mudarse (to change), present subjunctive, it, with 'se'. The present subjunctive of -ar verbs: -e, -es, -e, -emos, -éis, -en. Subjunctive because it is a wish."}
+          - {w: "lo que", f: "neuter 'lo' + 'que': 'what, that which'."}
+          - {w: "se pierde", f: "pierd- + -e → perder (to lose), present, it, with passive 'se': 'is lost'. The stem e becomes ie when stressed: pierdo, pierdes, pierde, perdemos, perdéis, pierden."}
+          - {w: "se gane", f: "gan- + -e → ganar (to win), present subjunctive, it, with passive 'se': 'may be won'. Same -e subjunctive."}
+        note: "Ormsby's note here only says the second half is a proverb (No. 188 in his list): what is lost today is won tomorrow. The priest humors the madman in his own terms rather than contradicting him."
+      - es: "y atienda vuestra merced a su salud por agora, que me parece que debe de estar demasiadamente cansado, si ya no es que está malferido."
+        literal: "and attend your grace to your health for now, for to-me it-seems that you-must be excessively tired, if already not is that you-are badly-wounded."
+        ormsby: "for the present let your worship have a care of your health, for it seems to me that you are overfatigued, if not badly wounded.”"
+        vocab:
+          - {w: "atender a", d: "to look after, see to"}
+          - {w: "agora", d: "= ahora, now (old form); 'por agora' = for now"}
+          - {w: "deber de", d: "must (a guess): 'debe de estar' = you must be"}
+          - {w: "demasiadamente", d: "excessively, too (modern 'demasiado')"}
+          - {w: "si ya no es que", d: "unless, if not indeed"}
+          - {w: "malferido", d: "= malherido, badly wounded (old f- for modern h-)"}
+        diagram:
+          - s: "y atienda vuestra merced a su salud"
+            r: "main verb: and look after your health"
+            under:
+              - {s: "por agora", r: "when: for now"}
+              - s: "que me parece"
+                r: "loose 'que' = 'for': it seems to me"
+                under:
+                  - {s: "que debe de estar demasiadamente cansado", r: "what seems: that you must be over-tired"}
+                  - {s: "si ya no es que está malferido", r: "unless: unless you are badly wounded"}
+        forms:
+          - {w: "atienda", f: "atiend- + -a → atender (to look after), present subjunctive, you (vuestra merced), as a polite command. The stem e becomes ie when stressed; the present subjunctive of -er verbs: -a, -as, -a, -amos, -áis, -an (atienda, atiendas, atienda, atendamos, atendáis, atiendan)."}
+          - {w: "su", f: "'your' here, because it belongs to vuestra merced; su works for his, her, its, their and polite 'your'."}
+          - {w: "me parece", f: "parec- + -e → parecer (to seem), present, it, + 'me' (to me). The present of -er verbs: -o, -es, -e, -emos, -éis, -en (the 'I' form is 'parezco')."}
+          - {w: "debe de estar", f: "deb- + -e → deber (must), present, you (vuestra merced), + 'de' + estar (to be): 'you must be', a guess."}
+          - {w: "demasiadamente", f: "demasiada + -mente → adverb from demasiado (too much); -mente is added to the feminine form, like English -ly."}
+          - {w: "es, está", f: "ser (to be), present, it: 'if it is not [the case]'; estar (to be, for states), present, you: estoy, estás, está, estamos, estáis, están."}
+          - {w: "malferido", f: "mal (badly) + ferido, the old form of herido, participle of herir (to wound). Words that start with h- today often had f- in old Spanish: fermosura, facer, ferir."}
+  - sentences:
+      - es: "— Ferido no —dijo don Quijote—, pero molido y quebrantado, no hay duda en ello; porque aquel bastardo de don Roldán me ha molido a palos con el tronco de una encina, y todo de envidia, porque ve que yo solo soy el opuesto de sus valentías."
+        literal: "— Wounded no —said Don Quijote—, but ground and broken, not there-is doubt in it; because that bastard of Don Roldán me has ground with sticks with the trunk of a holm-oak, and all from envy, because he-sees that I alone am the opponent of his valors."
+        ormsby: "“Wounded no,” said Don Quixote, “but bruised and battered no doubt, for that bastard Don Roland has cudgelled me with the trunk of an oak tree, and all for envy, because he sees that I alone rival him in his achievements."
+        vocab:
+          - {w: "ferido", d: "= herido, wounded (old f- for modern h-)"}
+          - {w: "molido", d: "bruised, aching all over (literally 'ground', like flour)"}
+          - {w: "quebrantado", d: "battered, broken"}
+          - {w: "aquel bastardo de", d: "'that bastard'; 'aquel ... de' before a name is the pattern of insults, like 'el tonto de Juan'"}
+          - {w: "Roldán", d: "Roland, Charlemagne's greatest paladin, hero of the Chanson de Roland and of Ariosto's Orlando Furioso"}
+          - {w: "moler a palos", d: "to beat black and blue, give a thrashing (literally 'grind with sticks')"}
+          - {w: "encina", d: "holm oak, the evergreen oak of the Spanish plains"}
+          - {w: "envidia", d: "envy"}
+          - {w: "opuesto", d: "opponent, rival (literally 'the one set against')"}
+          - {w: "valentías", d: "feats of valor, brave deeds"}
+        diagram:
+          - s: "Ferido no"
+            r: "answer, part 1: not wounded"
+          - s: "pero molido y quebrantado"
+            r: "answer, part 2: but bruised and battered"
+            under:
+              - {s: "no hay duda en ello", r: "comment: no doubt about it"}
+          - s: "me ha molido a palos"
+            r: "main verb of the explanation: has beaten me black and blue"
+            under:
+              - {s: "porque", r: "why"}
+              - {s: "aquel bastardo de don Roldán", r: "subject: that bastard Roland"}
+              - {s: "con el tronco de una encina", r: "with what: an oak trunk"}
+              - {s: "y todo de envidia", r: "why: and all from envy"}
+              - {s: "porque ve que yo solo soy el opuesto de sus valentías", r: "why the envy: because he sees I alone am his rival"}
+        forms:
+          - {w: "Ferido", f: "ferid- + -o → the old form of herido, participle of herir (to wound); f- became h- in modern Spanish."}
+          - {w: "molido, quebrantado", f: "participles of moler (to grind) and quebrantar (to break), masculine singular to agree with Don Quijote."}
+          - {w: "hay", f: "haber, the special present form 'there is / there are'; it never changes."}
+          - {w: "ello", f: "neuter 'it' for an idea."}
+          - {w: "me ha molido", f: "haber (ha) + molido, participle of moler (to grind): present perfect, he: 'has beaten'. haber in the present: he, has, ha, hemos, habéis, han. 'me' = me, the object."}
+          - {w: "ve", f: "ver (to see), present, he: veo, ves, ve, vemos, veis, ven."}
+          - {w: "solo", f: "adjective 'alone', masculine to match 'yo' (Don Quijote)."}
+          - {w: "soy", f: "ser (to be), present, I: soy, eres, es, somos, sois, son."}
+          - {w: "sus", f: "'his', plural to match 'valentías', not the owner."}
+        note: "Now he casts himself as Reinaldos de Montalbán, Roland's cousin and envious rival in the Italian epics, where Roland is enchanted and cannot be wounded. The oak trunk comes from those poems too, where the maddened Roland uproots trees."
+      - es: "Mas no me llamaría yo Reinaldos de Montalbán si, en levantándome deste lecho, no me lo pagare, a pesar de todos sus encantamentos; y, por agora, tráiganme de yantar, que sé que es lo que más me hará al caso, y quédese lo del vengarme a mi cargo."
+        literal: "But not myself would-call I Reinaldos de Montalbán if, on getting-myself-up from-this bed, not to-me it he-shall-pay, in-spite of all his enchantments; and, for now, bring-me of to-eat, for I-know that [it] is what most to-me will-do to-the case, and let-remain-itself the [matter] of-the avenging-myself at my charge."
+        ormsby: "But I should not call myself Reinaldos of Montalvan did he not pay me for it in spite of all his enchantments as soon as I rise from this bed. For the present let them bring me something to eat, for that, I feel, is what will be more to my purpose, and leave it to me to avenge myself.”"
+        vocab:
+          - {w: "mas", d: "but (no accent; 'más' with accent means 'more')"}
+          - {w: "Reinaldos de Montalbán", d: "Rinaldo of Montalbano, one of Charlemagne's paladins, a rebel and raider; Don Quijote's favorite hero"}
+          - {w: "en + gerund", d: "as soon as: 'en levantándome' = as soon as I get up"}
+          - {w: "pagar", d: "to pay; 'me lo pagará' = he'll pay me for it, I'll get even"}
+          - {w: "a pesar de", d: "in spite of"}
+          - {w: "encantamento", d: "= encantamiento, enchantment, spell (old form)"}
+          - {w: "yantar", d: "to eat (archaic even then, the word of the old ballads); 'de yantar' = something to eat"}
+          - {w: "hacer al caso", d: "to be to the purpose, be just what is needed"}
+          - {w: "vengarse", d: "to take revenge"}
+          - {w: "a mi cargo", d: "in my charge, up to me"}
+        diagram:
+          - s: "Mas no me llamaría yo Reinaldos de Montalbán"
+            r: "main verb 1: but I would not call myself Reinaldos"
+            under:
+              - s: "si, en levantándome deste lecho, no me lo pagare"
+                r: "condition: if he does not pay me for it as soon as I get up"
+                under:
+                  - {s: "a pesar de todos sus encantamentos", r: "in spite of what: all his spells"}
+          - s: "tráiganme de yantar"
+            r: "main verb 2: bring me something to eat"
+            under:
+              - {s: "por agora", r: "when: for now"}
+              - s: "que sé"
+                r: "loose 'que' = 'for': I know"
+                under:
+                  - {s: "que es lo que más me hará al caso", r: "what I know: that it is what will do me most good"}
+          - {s: "y quédese lo del vengarme a mi cargo", r: "main verb 3: and let the avenging be left to me"}
+        forms:
+          - {w: "me llamaría", f: "llamar + -ía → llamarse (to call oneself), conditional, I: 'I would call myself'. The conditional is the whole infinitive + -ía, -ías, -ía, -íamos, -íais, -ían."}
+          - {w: "levantándome", f: "levant- + -ando + me → gerund of levantarse (to get up), with 'me' on the end and an accent added. 'en' + gerund = as soon as."}
+          - {w: "deste", f: "de + este (from this)."}
+          - {w: "me lo pagare", f: "pag- + -are → pagar (to pay), future subjunctive, he: 'if he shall not pay'. Built on the preterite pagaron: pagare, pagares, pagare, pagáremos, pagareis, pagaren. This tense is dead in modern Spanish, which says 'si no me lo paga'. 'me' = to me, 'lo' = it (the beating)."}
+          - {w: "tráiganme", f: "traig- + -an + me → traer (to bring), present subjunctive, they, used as a command, with 'me' on the end: 'let them bring me'. Built on 'traigo': traiga, traigas, traiga, traigamos, traigáis, traigan. Pronouns attach to the end of a command."}
+          - {w: "yantar", f: "infinitive used as a noun after 'de': 'something to eat'."}
+          - {w: "sé", f: "saber (to know), present, I: sé, sabes, sabe, sabemos, sabéis, saben. The accent tells it from 'se'."}
+          - {w: "hará", f: "har- + -á → hacer (to do), future, it: 'will do'. Irregular stem har-: haré, harás, hará, haremos, haréis, harán."}
+          - {w: "quédese", f: "qued- + -e + se → quedarse (to remain), present subjunctive, it, as a command 'let it remain', with 'se' on the end. The present subjunctive of -ar verbs: -e, -es, -e, -emos, -éis, -en."}
+          - {w: "lo del vengarme", f: "neuter 'lo' + del + the infinitive vengarse used as a noun, with 'me': 'the matter of avenging myself'."}
+  - sentences:
+      - es: "Hiciéronlo ansí: diéronle de comer, y quedóse otra vez dormido, y ellos, admirados de su locura."
+        literal: "They-did-it thus: they-gave-him of to-eat, and he-remained-himself another time asleep, and they, amazed at his madness."
+        ormsby: "They did as he wished; they gave him something to eat, and once more he fell asleep, leaving them marvelling at his madness."
+        vocab:
+          - {w: "ansí", d: "= así, thus, so (old form)"}
+          - {w: "dar de comer", d: "to give something to eat, feed"}
+          - {w: "quedarse dormido", d: "to fall asleep"}
+          - {w: "otra vez", d: "again"}
+          - {w: "admirado de", d: "amazed at, astonished by (not 'admiring')"}
+          - {w: "locura", d: "madness"}
+        diagram:
+          - {s: "Hiciéronlo ansí", r: "main verb 1: they did so"}
+          - {s: "diéronle de comer", r: "main verb 2, explaining: they gave him food"}
+          - {s: "y quedóse otra vez dormido", r: "main verb 3: and he fell asleep again"}
+          - {s: "y ellos, admirados de su locura", r: "and they [were left] amazed at his madness; the verb is understood from 'quedóse'"}
+        forms:
+          - {w: "Hiciéronlo", f: "hic- + -ieron + lo → hacer (to do), preterite, they, with 'lo' (it) on the end: modern 'lo hicieron'. Irregular: hice, hiciste, hizo, hicimos, hicisteis, hicieron. Cervantes hangs pronouns on the end of a conjugated verb that opens its clause."}
+          - {w: "ansí", f: "old form of así (thus)."}
+          - {w: "diéronle", f: "d- + -ieron + le → dar (to give), preterite, they, with 'le' (to him) on the end: modern 'le dieron'. dar's preterite takes -er endings: di, diste, dio, dimos, disteis, dieron."}
+          - {w: "comer", f: "infinitive of comer (to eat) after 'de'."}
+          - {w: "quedóse", f: "qued- + -ó + se → quedarse (to become, remain), preterite, he, with 'se' on the end: modern 'se quedó'. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron."}
+          - {w: "dormido", f: "participle of dormir (to sleep): 'asleep', masculine singular."}
+          - {w: "admirados", f: "admirad- + -os → participle of admirar (to amaze), masculine plural to match 'ellos'."}
+  - sentences:
+      - es: "Aquella noche quemó y abrasó el ama cuantos libros había en el corral y en toda la casa, y tales debieron de arder que merecían guardarse en perpetuos archivos;"
+        literal: "That night burned and burned-up the housekeeper as-many books as there-were in the yard and in all the house, and such must have burned that deserved to-be-kept in perpetual archives;"
+        ormsby: "That night the housekeeper burned to ashes all the books that were in the yard and in the whole house; and some must have been consumed that deserved preservation in everlasting archives,"
+        vocab:
+          - {w: "abrasar", d: "to burn up, reduce to ashes"}
+          - {w: "cuantos", d: "all the ... that, as many ... as"}
+          - {w: "corral", d: "yard, courtyard (where the priest had the books thrown)"}
+          - {w: "tales ... que", d: "such ... that; here 'some such that'"}
+          - {w: "deber de", d: "must (a guess): 'debieron de arder' = must have burned"}
+          - {w: "arder", d: "to burn (intransitive)"}
+          - {w: "merecer", d: "to deserve"}
+          - {w: "perpetuo", d: "everlasting, perpetual"}
+        diagram:
+          - s: "quemó y abrasó"
+            r: "main verb 1: burned and burned up"
+            under:
+              - {s: "Aquella noche", r: "when"}
+              - {s: "el ama", r: "subject: the housekeeper"}
+              - s: "cuantos libros"
+                r: "object: all the books"
+                under:
+                  - {s: "había en el corral y en toda la casa", r: "describes 'libros': that there were in the yard and the house"}
+          - s: "y tales debieron de arder"
+            r: "main verb 2: and some such must have burned"
+            under:
+              - {s: "que merecían guardarse en perpetuos archivos", r: "describes 'tales': that deserved to be kept forever"}
+        forms:
+          - {w: "Aquella", f: "aquell- + -a → 'that' (far off), feminine to match 'noche': aquel, aquella, aquellos, aquellas."}
+          - {w: "quemó, abrasó", f: "quem- + -ó → quemar (to burn), abras- + -ó → abrasar (to burn up), preterite, she. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron."}
+          - {w: "el ama", f: "'ama' is feminine but takes 'el' because it starts with a stressed a-."}
+          - {w: "cuantos", f: "cuant- + -os → 'as many as', masculine plural to match 'libros'."}
+          - {w: "había", f: "haber, imperfect, used as 'there were'; like 'hay', it stays singular."}
+          - {w: "debieron de arder", f: "deb- + -ieron → deber (must), preterite, they, + 'de' + arder (to burn): 'must have burned'. The preterite of -er and -ir verbs: -í, -iste, -ió, -imos, -isteis, -ieron."}
+          - {w: "merecían", f: "merec- + -ían → merecer (to deserve), imperfect, they. The imperfect of -er and -ir verbs: -ía, -ías, -ía, -íamos, -íais, -ían."}
+          - {w: "guardarse", f: "infinitive of guardar (to keep) + passive 'se': 'to be kept'."}
+          - {w: "perpetuos", f: "perpetu- + -os → masculine plural to match 'archivos', placed before the noun."}
+      - es: "mas no lo permitió su suerte y la pereza del escrutiñador;"
+        literal: "but not it permitted their fate and the laziness of-the scrutinizer;"
+        ormsby: "but their fate and the laziness of the examiner did not permit it,"
+        vocab:
+          - {w: "mas", d: "but (no accent)"}
+          - {w: "suerte", d: "fate, fortune"}
+          - {w: "pereza", d: "laziness"}
+          - {w: "escrutiñador", d: "examiner, scrutineer; an old form related to escudriñar (to pry into), here the priest"}
+        diagram:
+          - s: "no lo permitió"
+            r: "main verb: did not allow it"
+            under:
+              - {s: "mas", r: "but"}
+              - {s: "su suerte y la pereza del escrutiñador", r: "subject: their fate and the examiner's laziness"}
+        forms:
+          - {w: "lo", f: "it (their being saved), neuter object pronoun."}
+          - {w: "permitió", f: "permit- + -ió → permitir (to allow), preterite, it. Singular though there are two subjects, since the verb comes first and agrees with the nearer one. The preterite of -er and -ir verbs: -í, -iste, -ió, -imos, -isteis, -ieron."}
+          - {w: "su", f: "'their' here (the books' fate); su serves for his, her, its, their."}
+          - {w: "escrutiñador", f: "escrutiñ- + -ador → from escrutiñar (to examine) + the -dor ending that makes a doer: 'examiner'."}
+      - es: "y así, se cumplió el refrán en ellos de que pagan a las veces justos por pecadores."
+        literal: "and thus, was-fulfilled the proverb in them of that pay at the times righteous for sinners."
+        ormsby: "and so in them was verified the proverb that the innocent suffer for the guilty."
+        vocab:
+          - {w: "cumplirse", d: "to come true, be fulfilled"}
+          - {w: "refrán", d: "proverb, saying"}
+          - {w: "a las veces", d: "sometimes"}
+          - {w: "pagan justos por pecadores", d: "proverb: the righteous pay for sinners, the innocent suffer for the guilty"}
+        diagram:
+          - s: "se cumplió el refrán en ellos"
+            r: "main verb: the proverb came true in them"
+            under:
+              - {s: "y así", r: "and so"}
+              - {s: "de que pagan a las veces justos por pecadores", r: "which proverb: that the just sometimes pay for sinners"}
+        forms:
+          - {w: "se cumplió", f: "cumpl- + -ió → cumplir (to fulfill), preterite, it, with passive 'se': 'was fulfilled'. The preterite of -er and -ir verbs: -í, -iste, -ió, -imos, -isteis, -ieron."}
+          - {w: "ellos", f: "'them' (the good books), after a preposition."}
+          - {w: "pagan", f: "pag- + -an → pagar (to pay), present, they. The present of -ar verbs: -o, -as, -a, -amos, -áis, -an."}
+          - {w: "justos, pecadores", f: "plural nouns without an article, as proverbs often have: 'just [men]', 'sinners'."}
+        note: "Ormsby's note only records that this is a proverb (No. 165 in his list). The good books burn with the bad ones, the innocent with the guilty, and the narrator dresses the bonfire up as a miscarriage of justice."
+  - sentences:
+      - es: "Uno de los remedios que el cura y el barbero dieron, por entonces, para el mal de su amigo, fue que le murasen y tapiasen el aposento de los libros, porque cuando se levantase no los hallase —quizá quitando la causa, cesaría el efeto—, y que dijesen que un encantador se los había llevado, y el aposento y todo; y así fue hecho con mucha presteza."
+        literal: "One of the remedies that the priest and the barber gave, for then, for the illness of their friend, was that on-him they-should-wall-up and brick-up the room of the books, so-that when he-got-up not them he-should-find —perhaps removing the cause, would-cease the effect—, and that they-should-say that an enchanter them had carried-off, and the room and all; and thus [it] was done with much speed."
+        ormsby: "One of the remedies which the curate and the barber immediately applied to their friend’s disorder was to wall up and plaster the room where the books were, so that when he got up he should not find them (possibly the cause being removed the effect might cease), and they might say that a magician had carried them off, room and all; and this was done with all despatch."
+        vocab:
+          - {w: "remedio", d: "remedy, cure"}
+          - {w: "por entonces", d: "for the time being, then and there"}
+          - {w: "mal", d: "illness, ailment"}
+          - {w: "murar", d: "to wall up"}
+          - {w: "tapiar", d: "to brick up, close off with a wall of rammed earth (tapia)"}
+          - {w: "aposento", d: "room, chamber"}
+          - {w: "porque + subjunctive", d: "so that (purpose), not 'because'"}
+          - {w: "cesar", d: "to cease, stop"}
+          - {w: "efeto", d: "= efecto, effect (old spelling)"}
+          - {w: "encantador", d: "enchanter, wizard"}
+          - {w: "llevarse", d: "to carry off, take away"}
+          - {w: "y el aposento y todo", d: "room and all, the room included"}
+          - {w: "presteza", d: "speed, promptness"}
+        diagram:
+          - s: "fue"
+            r: "main verb 1: was"
+            under:
+              - s: "Uno de los remedios"
+                r: "subject: one of the cures"
+                under:
+                  - {s: "que el cura y el barbero dieron, por entonces, para el mal de su amigo", r: "describes 'remedios': that the priest and barber prescribed for their friend's illness"}
+              - s: "que le murasen y tapiasen el aposento de los libros"
+                r: "what the cure was, 1: that they wall up the book room on him"
+                under:
+                  - s: "porque cuando se levantase no los hallase"
+                    r: "purpose: so that when he got up he would not find them"
+                  - {s: "quizá quitando la causa, cesaría el efeto", r: "aside: perhaps, the cause removed, the effect would stop"}
+              - s: "y que dijesen"
+                r: "what the cure was, 2: and that they say"
+                under:
+                  - {s: "que un encantador se los había llevado, y el aposento y todo", r: "what they would say: an enchanter had taken them, room and all"}
+          - s: "y así fue hecho"
+            r: "main verb 2: and so it was done"
+            under:
+              - {s: "con mucha presteza", r: "how: very promptly"}
+        forms:
+          - {w: "dieron", f: "d- + -ieron → dar (to give), preterite, they. dar's preterite takes -er endings: di, diste, dio, dimos, disteis, dieron."}
+          - {w: "su", f: "'their' (the priest's and barber's friend); su serves for his, her, its, their."}
+          - {w: "fue", f: "ser (to be), preterite, it: 'was'. ser's preterite (the same as ir's): fui, fuiste, fue, fuimos, fuisteis, fueron."}
+          - {w: "le", f: "'on him', to his cost: the person affected by the action."}
+          - {w: "murasen, tapiasen", f: "mur- + -asen → murar (to wall up), tapi- + -asen → tapiar (to brick up), imperfect subjunctive (-se form), they: 'that they should wall up'. The -se form of -ar verbs: -ase, -ases, -ase, -ásemos, -aseis, -asen. Subjunctive because it is a plan, not a fact."}
+          - {w: "se levantase", f: "levant- + -ase → levantarse (to get up), imperfect subjunctive (-se), he. Same -ase subjunctive; after 'cuando' about the future it must be subjunctive."}
+          - {w: "hallase", f: "hall- + -ase → hallar (to find), imperfect subjunctive (-se), he. Same -ase subjunctive; 'porque' + subjunctive = 'so that'."}
+          - {w: "quitando", f: "quit- + -ando → gerund of quitar (to remove): 'removing' = if one removed."}
+          - {w: "cesaría", f: "cesar + -ía → cesar (to cease), conditional, it: 'would cease'. The conditional is the whole infinitive + -ía, -ías, -ía, -íamos, -íais, -ían."}
+          - {w: "efeto", f: "old spelling of efecto (Cervantes drops the c before t: efeto, vitoria, dotor)."}
+          - {w: "dijesen", f: "dij- + -esen → decir (to say), imperfect subjunctive (-se), they. Built on the preterite dijeron: dijese, dijeses, dijese, dijésemos, dijeseis, dijesen."}
+          - {w: "se los había llevado", f: "haber (había) + llevado, participle of llevar (to carry): pluperfect, he: 'had carried off'. haber in the imperfect: había, habías, había, habíamos, habíais, habían. 'se' belongs to llevarse (to carry away), 'los' = them (the books)."}
+          - {w: "fue hecho", f: "fue (preterite of ser) + hecho, the irregular participle of hacer (to do): the true passive, 'was done'."}
+          - {w: "mucha", f: "much- + -a → mucho, feminine to match 'presteza'."}
+      - es: "De allí a dos días se levantó don Quijote, y lo primero que hizo fue ir a"
+        literal: "From there to two days got-himself-up Don Quijote, and the first that he-did was to-go to"
+        ormsby: "Two days later Don Quixote got up, and the first thing he did was to go"
+        vocab:
+          - {w: "de allí a dos días", d: "two days later (literally 'from there to two days')"}
+          - {w: "levantarse", d: "to get up"}
+          - {w: "lo primero que", d: "the first thing that"}
+        diagram:
+          - s: "se levantó"
+            r: "main verb 1: got up"
+            under:
+              - {s: "De allí a dos días", r: "when: two days later"}
+              - {s: "don Quijote", r: "subject"}
+          - s: "fue ir a"
+            r: "main verb 2 (after 'y'): was to go to; the sentence runs on into the next paragraph"
+            under:
+              - s: "lo primero"
+                r: "subject: the first thing"
+                under:
+                  - {s: "que hizo", r: "describes 'lo primero': that he did"}
+        forms:
+          - {w: "se levantó", f: "levant- + -ó → levantarse (to get up), preterite, he, with 'se' (himself). The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron."}
+          - {w: "lo primero", f: "neuter 'lo' + primero (first): 'the first thing'."}
+          - {w: "hizo", f: "hiz- + -o → hacer (to do), preterite, he. Irregular: hice, hiciste, hizo, hicimos, hicisteis, hicieron (c becomes z before o)."}
+          - {w: "fue", f: "ser (to be), preterite, it: fui, fuiste, fue, fuimos, fuisteis, fueron."}
+          - {w: "ir", f: "infinitive of ir (to go), what 'the first thing' was."}
+        note: "The Gutenberg text breaks the paragraph in mid-sentence here, after 'ir a'; the sentence goes on in the next paragraph with 'ver sus libros'. The break is kept so the Spanish matches the source."
+  - sentences:
+      - es: "ver sus libros; y, como no hallaba el aposento donde le había dejado, andaba de una en otra parte buscándole."
+        literal: "see his books; and, as not he-found the room where it he-had left, he-went from one to another part seeking-it."
+        ormsby: "and look at his books, and not finding the room where he had left it, he wandered from side to side looking for it."
+        vocab:
+          - {w: "como", d: "since, as (giving a reason, at the start of a clause)"}
+          - {w: "hallar", d: "to find"}
+          - {w: "andar", d: "to go about, wander"}
+          - {w: "de una en otra parte", d: "from one place to another, all over"}
+        diagram:
+          - s: "fue ir a"
+            r: "carried over from the previous sentence: the first thing he did was to go to"
+            under:
+              - {s: "ver sus libros", r: "what for: see his books"}
+          - s: "andaba de una en otra parte"
+            r: "main verb (after 'y'): he went from place to place"
+            under:
+              - s: "como no hallaba el aposento"
+                r: "why: since he could not find the room"
+                under:
+                  - {s: "donde le había dejado", r: "describes 'aposento': where he had left it"}
+              - {s: "buscándole", r: "how: looking for it"}
+        forms:
+          - {w: "ver", f: "infinitive of ver (to see) after 'ir a'."}
+          - {w: "sus", f: "'his', plural to match 'libros', not the owner."}
+          - {w: "hallaba", f: "hall- + -aba → hallar (to find), imperfect, he. The imperfect of -ar verbs: -aba, -abas, -aba, -ábamos, -abais, -aban."}
+          - {w: "le había dejado", f: "haber (había) + dejado, participle of dejar (to leave): pluperfect, he: 'had left'. haber in the imperfect: había, habías, había, habíamos, habíais, habían. 'le' = it (the room): Cervantes uses 'le' for a masculine direct object even for a thing, where modern Spanish wants 'lo'."}
+          - {w: "andaba", f: "and- + -aba → andar (to go about), imperfect, he. Same -aba imperfect."}
+          - {w: "una ... otra", f: "feminine to match 'parte'."}
+          - {w: "buscándole", f: "busc- + -ando + le → gerund of buscar (to look for) + 'le' (it, the room), with an accent added. 'le' for a thing is Cervantes' leísmo; modern 'buscándolo'."}
+      - es: "Llegaba adonde solía tener la puerta, y tentábala con las manos, y volvía y revolvía los ojos por todo, sin decir palabra; pero, al cabo de una buena pieza, preguntó a su ama que hacia qué parte estaba el aposento de sus libros."
+        literal: "He-came to-where [it] used to-have the door, and felt-it with the hands, and turned and turned-again the eyes through everything, without saying word; but, at-the end of a good piece, he-asked his housekeeper that toward what part was the room of his books."
+        ormsby: "He came to the place where the door used to be, and tried it with his hands, and turned and twisted his eyes in every direction without saying a word; but after a good while he asked his housekeeper whereabouts was the room that held his books."
+        vocab:
+          - {w: "adonde", d: "to where"}
+          - {w: "soler", d: "to be in the habit of, usually do; 'solía tener' = used to have"}
+          - {w: "tentar", d: "to feel, grope, touch (not 'tempt' here)"}
+          - {w: "volver y revolver los ojos", d: "to look all around, turn his eyes this way and that"}
+          - {w: "sin decir palabra", d: "without a word"}
+          - {w: "al cabo de", d: "at the end of, after"}
+          - {w: "buena pieza", d: "a good while ('pieza' = a stretch of time as well as 'piece')"}
+          - {w: "hacia qué parte", d: "in which direction, whereabouts"}
+        diagram:
+          - s: "Llegaba"
+            r: "main verb 1: he would come"
+            under:
+              - {s: "adonde solía tener la puerta", r: "where: to where the door used to be ('it', the room, used to have its door)"}
+          - s: "y tentábala con las manos"
+            r: "main verb 2: and felt it with his hands"
+          - s: "y volvía y revolvía los ojos por todo"
+            r: "main verb 3: and looked all around"
+            under:
+              - {s: "sin decir palabra", r: "how: without a word"}
+          - s: "preguntó a su ama"
+            r: "main verb 4 (after 'pero'): he asked his housekeeper"
+            under:
+              - {s: "al cabo de una buena pieza", r: "when: after a good while"}
+              - {s: "que hacia qué parte estaba el aposento de sus libros", r: "what he asked: which way the book room was"}
+        forms:
+          - {w: "Llegaba", f: "lleg- + -aba → llegar (to arrive), imperfect, he: 'he would come', repeated action. The imperfect of -ar verbs: -aba, -abas, -aba, -ábamos, -abais, -aban."}
+          - {w: "solía", f: "sol- + -ía → soler (to usually do), imperfect, it: 'used to'. The imperfect of -er and -ir verbs: -ía, -ías, -ía, -íamos, -íais, -ían."}
+          - {w: "tener", f: "infinitive of tener (to have) after 'solía'."}
+          - {w: "tentábala", f: "tent- + -aba + la → tentar (to feel), imperfect, he, with 'la' (it, the door) on the end: modern 'la tentaba'. Cervantes hangs pronouns on the end of a conjugated verb that opens its clause. Same -aba imperfect."}
+          - {w: "volvía, revolvía", f: "volv- + -ía → volver (to turn), revolv- + -ía → revolver (to turn over), imperfect, he. Same -ía imperfect."}
+          - {w: "decir", f: "infinitive of decir (to say) after 'sin'."}
+          - {w: "preguntó", f: "pregunt- + -ó → preguntar (to ask), preterite, he. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron."}
+          - {w: "que hacia qué parte", f: "an extra 'que' before a reported question, common in Cervantes: 'asked that which way ...'."}
+          - {w: "estaba", f: "est- + -aba → estar (to be, for location), imperfect, it. Same -aba imperfect."}
+      - es: "El ama, que ya estaba bien advertida de lo que había de responder, le dijo:"
+        literal: "The housekeeper, who already was well warned of what she-had to answer, to-him said:"
+        ormsby: "The housekeeper, who had been already well instructed in what she was to answer, said,"
+        vocab:
+          - {w: "advertido de", d: "forewarned about, briefed on"}
+          - {w: "haber de", d: "to have to, be supposed to"}
+        diagram:
+          - s: "le dijo:"
+            r: "main verb: said to him"
+            under:
+              - s: "El ama"
+                r: "subject: the housekeeper"
+                under:
+                  - {s: "que ya estaba bien advertida de lo que había de responder", r: "describes 'ama': who had been told what to answer"}
+        forms:
+          - {w: "estaba advertida", f: "est- + -aba → estar (to be), imperfect, she, + advertida, participle of advertir (to warn), feminine to match 'ama'. The imperfect of -ar verbs: -aba, -abas, -aba, -ábamos, -abais, -aban."}
+          - {w: "lo que", f: "neuter 'lo' + 'que': 'what'."}
+          - {w: "había de responder", f: "hab- + -ía → haber, imperfect, she, + 'de' + responder (to answer): 'she was to answer'. The imperfect of -er and -ir verbs: -ía, -ías, -ía, -íamos, -íais, -ían."}
+          - {w: "le dijo", f: "dij- + -o → decir (to say), preterite, she, + 'le' (to him). Irregular: dije, dijiste, dijo, dijimos, dijisteis, dijeron."}
+  - sentences:
+      - es: "— ¿Qué aposento, o qué nada, busca vuestra merced?"
+        literal: "— What room, or what nothing, seeks your grace?"
+        ormsby: "“What room or what nothing is it that your worship is looking for?"
+        vocab:
+          - {w: "o qué nada", d: "'or what nothing': a scornful tag, 'what room, what anything?'"}
+          - {w: "vuestra merced", d: "'your grace', the polite 'you', taking a he/she verb; the ancestor of 'usted'"}
+        diagram:
+          - s: "busca"
+            r: "main verb: are you looking for"
+            under:
+              - {s: "Qué aposento, o qué nada", r: "object, put first as a question: what room, what nothing"}
+              - {s: "vuestra merced", r: "subject: your grace"}
+        forms:
+          - {w: "busca", f: "busc- + -a → buscar (to look for), present, you (vuestra merced takes the he/she form). The present of -ar verbs: -o, -as, -a, -amos, -áis, -an."}
+          - {w: "Qué", f: "'what', with an accent because it asks a question."}
+      - es: "Ya no hay aposento ni libros en esta casa, porque todo se lo llevó el mesmo diablo."
+        literal: "Already not there-is room nor books in this house, because everything itself it carried-off the same devil."
+        ormsby: "There are neither room nor books in this house now, for the devil himself has carried all away.”"
+        vocab:
+          - {w: "ya no", d: "no longer"}
+          - {w: "llevarse", d: "to carry off, take away"}
+          - {w: "el mesmo diablo", d: "the devil himself; 'mesmo' = mismo (old form)"}
+        diagram:
+          - s: "Ya no hay aposento ni libros en esta casa"
+            r: "main verb: there is no longer any room or books"
+            under:
+              - s: "porque todo se lo llevó"
+                r: "why: because [he] carried it all off"
+                under:
+                  - {s: "el mesmo diablo", r: "subject: the devil himself"}
+        forms:
+          - {w: "hay", f: "haber, the special present form 'there is / there are'; it never changes."}
+          - {w: "esta", f: "'this', feminine to match 'casa': este, esta, estos, estas."}
+          - {w: "todo se lo llevó", f: "llev- + -ó → llevarse (to carry off), preterite, he, with 'se'. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron. 'todo' (everything) comes first, so 'lo' repeats it before the verb: 'everything, he took it'."}
+          - {w: "mesmo", f: "old form of mismo; before a noun = 'himself, the very'."}
+  - sentences:
+      - es: "— No era diablo —replicó la sobrina—, sino un encantador que vino sobre una nube una noche, después del día que vuestra merced de aquí se partió, y, apeándose de una sierpe en que venía caballero, entró en el aposento, y no sé lo que se hizo dentro, que a cabo de poca pieza salió volando por el tejado, y dejó la casa llena de humo;"
+        literal: "— Not it-was devil —replied the niece—, but an enchanter who came upon a cloud one night, after the day that your grace from here yourself departed, and, getting-himself-down from a serpent on which he-came riding, he-entered in the room, and not I-know what he-did-himself inside, for at end of little piece he-went-out flying through the roof, and left the house full of smoke;"
+        ormsby: "“It was not the devil,” said the niece, “but a magician who came on a cloud one night after the day your worship left this, and dismounting from a serpent that he rode he entered the room, and what he did there I know not, but after a little while he made off, flying through the roof, and left the house full of smoke;"
+        vocab:
+          - {w: "replicar", d: "to reply, retort"}
+          - {w: "sino", d: "but rather (after a negative)"}
+          - {w: "nube", d: "cloud"}
+          - {w: "partirse", d: "to depart, leave"}
+          - {w: "apearse de", d: "to dismount from, get down from"}
+          - {w: "sierpe", d: "serpent, dragon (old word for 'serpiente')"}
+          - {w: "venir caballero en", d: "to come riding on ('caballero' = mounted)"}
+          - {w: "hacerse", d: "here: to do, get up to; 'lo que se hizo' = what he did"}
+          - {w: "a cabo de poca pieza", d: "after a little while"}
+          - {w: "tejado", d: "roof (of tiles)"}
+          - {w: "humo", d: "smoke"}
+        diagram:
+          - s: "No era diablo"
+            r: "main verb: it was not the devil"
+            under:
+              - s: "sino un encantador"
+                r: "but an enchanter"
+                under:
+                  - s: "que vino sobre una nube una noche"
+                    r: "describes 'encantador', verb 1: who came on a cloud one night"
+                    under:
+                      - {s: "después del día que vuestra merced de aquí se partió", r: "when: after the day you left here"}
+                  - s: "entró en el aposento"
+                    r: "verb 2 (after 'y'): went into the room"
+                    under:
+                      - {s: "apeándose de una sierpe en que venía caballero", r: "how: getting down from a serpent he was riding"}
+                  - {s: "y no sé lo que se hizo dentro", r: "aside: and I don't know what he did inside"}
+                  - {s: "que a cabo de poca pieza salió volando por el tejado", r: "verb 3, after a loose 'que': after a little while he flew out through the roof"}
+                  - {s: "y dejó la casa llena de humo", r: "verb 4: and left the house full of smoke"}
+        forms:
+          - {w: "era", f: "ser (to be), imperfect, it: era, eras, era, éramos, erais, eran."}
+          - {w: "replicó", f: "replic- + -ó → replicar (to reply), preterite, she. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron (the 'I' form is 'repliqué')."}
+          - {w: "vino", f: "vin- + -o → venir (to come), preterite, he. Irregular stem: vine, viniste, vino, vinimos, vinisteis, vinieron."}
+          - {w: "se partió", f: "part- + -ió → partirse (to depart), preterite, you (vuestra merced). The preterite of -er and -ir verbs: -í, -iste, -ió, -imos, -isteis, -ieron."}
+          - {w: "apeándose", f: "ape- + -ando + se → gerund of apearse (to dismount), with 'se' on the end and an accent added."}
+          - {w: "venía", f: "ven- + -ía → venir (to come), imperfect, he: 'was coming [riding]'. The imperfect of -er and -ir verbs: -ía, -ías, -ía, -íamos, -íais, -ían."}
+          - {w: "entró", f: "entr- + -ó → entrar (to enter), preterite, he. Same -ar preterite."}
+          - {w: "sé", f: "saber (to know), present, I: sé, sabes, sabe, sabemos, sabéis, saben."}
+          - {w: "se hizo", f: "hiz- + -o → hacer (to do), preterite, he, with 'se': 'what he got up to'. hice, hiciste, hizo, hicimos, hicisteis, hicieron."}
+          - {w: "salió volando", f: "sal- + -ió → salir (to go out), preterite, he, + volando, gerund of volar (to fly): 'went out flying'. The preterite of -er and -ir verbs: -í, -iste, -ió, -imos, -isteis, -ieron."}
+          - {w: "dejó", f: "dej- + -ó → dejar (to leave), preterite, he. Same -ar preterite."}
+          - {w: "llena", f: "llen- + -a → lleno (full), feminine to match 'casa'."}
+      - es: "y, cuando acordamos a mirar lo que dejaba hecho, no vimos libro ni aposento alguno;"
+        literal: "and, when we-thought to look-at what he-left done, not we-saw book nor room any;"
+        ormsby: "and when we went to see what he had done we saw neither book nor room:"
+        vocab:
+          - {w: "acordar a", d: "to think to, get round to (old use); modern Spanish would say 'cuando fuimos a mirar'"}
+          - {w: "dejar hecho", d: "to leave done, to have done (and gone)"}
+          - {w: "alguno", d: "after a noun in a negative sentence = 'any at all': 'ni aposento alguno' = no room at all"}
+        diagram:
+          - s: "no vimos libro ni aposento alguno"
+            r: "main verb: we saw no book and no room at all"
+            under:
+              - s: "cuando acordamos a mirar"
+                r: "when: when we thought to look at"
+                under:
+                  - {s: "lo que dejaba hecho", r: "object of 'mirar': what he had left done"}
+        forms:
+          - {w: "acordamos", f: "acord- + -amos → acordar (to think to), preterite, we. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron; the 'we' form is the same as the present."}
+          - {w: "mirar", f: "infinitive of mirar (to look at) after 'acordar a'."}
+          - {w: "dejaba hecho", f: "dej- + -aba → dejar (to leave), imperfect, he, + hecho, irregular participle of hacer (to do): 'had left done'. The imperfect of -ar verbs: -aba, -abas, -aba, -ábamos, -abais, -aban."}
+          - {w: "vimos", f: "v- + -imos → ver (to see), preterite, we: vi, viste, vio, vimos, visteis, vieron."}
+          - {w: "alguno", f: "after the noun in a negative sentence, alguno means 'any at all'."}
+      - es: "sólo se nos acuerda muy bien a mí y al ama que, al tiempo del partirse aquel mal viejo, dijo en altas voces que, por enemistad secreta que tenía al dueño de aquellos libros y aposento, dejaba hecho el daño en aquella casa que después se vería."
+        literal: "only itself to-us remembers very well to me and to-the housekeeper that, at-the time of-the departing-himself that bad old-man, he-said in high voices that, for enmity secret that he-had to-the owner of those books and room, he-left done the damage in that house that afterward would-be-seen."
+        ormsby: "but we remember very well, the housekeeper and I, that on leaving, the old villain said in a loud voice that, for a private grudge he owed the owner of the books and the room, he had done mischief in that house that would be discovered by-and-by:"
+        vocab:
+          - {w: "acordársele a uno", d: "to be remembered by someone; 'se nos acuerda' = it comes back to us, we remember (the thing remembered is the subject)"}
+          - {w: "al tiempo de", d: "at the moment of"}
+          - {w: "partirse", d: "to depart, leave"}
+          - {w: "mal viejo", d: "wicked old man"}
+          - {w: "en altas voces", d: "loudly, out loud"}
+          - {w: "enemistad", d: "enmity, hostility; 'tener enemistad a' = to bear a grudge against"}
+          - {w: "dueño", d: "owner, master"}
+          - {w: "daño", d: "harm, damage"}
+        diagram:
+          - s: "sólo se nos acuerda muy bien"
+            r: "main verb: only we remember very well"
+            under:
+              - {s: "a mí y al ama", r: "who remembers: me and the housekeeper, spelling out 'nos'"}
+              - s: "que"
+                r: "what we remember, starting here"
+                under:
+                  - {s: "al tiempo del partirse aquel mal viejo", r: "when: as that wicked old man was leaving"}
+                  - s: "dijo en altas voces"
+                    r: "verb of what we remember: he said loudly"
+                    under:
+                      - s: "que"
+                        r: "what he said, starting here"
+                        under:
+                          - {s: "por enemistad secreta que tenía al dueño de aquellos libros y aposento", r: "why: for a secret grudge against the owner of the books and room"}
+                          - s: "dejaba hecho el daño en aquella casa"
+                            r: "what he said: he had done harm in that house"
+                            under:
+                              - {s: "que después se vería", r: "describes 'daño': that would be seen later"}
+        forms:
+          - {w: "sólo", f: "adverb 'only', written with an accent in older spelling."}
+          - {w: "se nos acuerda", f: "acuerd- + -a → acordar (to remember), present, it, with 'se' + 'nos' (to us): 'it is remembered to us'. The o in the stem becomes ue when stressed: acuerdo, acuerdas, acuerda, acordamos, acordáis, acuerdan."}
+          - {w: "a mí y al ama", f: "the people 'nos' refers to, spelled out. 'mí' takes an accent after a preposition; al = a + el."}
+          - {w: "del partirse", f: "de + el + the infinitive partirse (to depart) used as a noun: 'of the departing'. Any infinitive can be a noun."}
+          - {w: "aquel", f: "'that' (far off), masculine to match 'viejo': aquel, aquella, aquellos, aquellas. 'aquella' further on matches 'casa'."}
+          - {w: "dijo", f: "dij- + -o → decir (to say), preterite, he: dije, dijiste, dijo, dijimos, dijisteis, dijeron."}
+          - {w: "altas", f: "alt- + -as → alto (high, loud), feminine plural to match 'voces'."}
+          - {w: "secreta", f: "secret- + -a → secreto, feminine to match 'enemistad' (nouns in -dad are feminine)."}
+          - {w: "tenía", f: "ten- + -ía → tener (to have), imperfect, he. The imperfect of -er and -ir verbs: -ía, -ías, -ía, -íamos, -íais, -ían."}
+          - {w: "dejaba hecho", f: "dej- + -aba → dejar (to leave), imperfect, he, + hecho, irregular participle of hacer (to do): 'he was leaving done' = he had done. The imperfect of -ar verbs: -aba, -abas, -aba, -ábamos, -abais, -aban."}
+          - {w: "se vería", f: "ver + -ía → ver (to see), conditional, it, with passive 'se': 'would be seen'. The conditional is the whole infinitive + -ía, -ías, -ía, -íamos, -íais, -ían."}
+      - es: "Dijo también que se llamaba el sabio Muñatón."
+        literal: "He-said also that himself he-called the sage Muñatón."
+        ormsby: "he said too that his name was the Sage Muñatón.”"
+        vocab:
+          - {w: "sabio", d: "sage, wise man; in the romances, the magician who protects or persecutes a knight and writes down his deeds"}
+          - {w: "Muñatón", d: "the niece's garbled version of the enchanter's name"}
+        diagram:
+          - s: "Dijo también"
+            r: "main verb: he also said"
+            under:
+              - {s: "que se llamaba el sabio Muñatón", r: "what he said: that he was called the sage Muñatón"}
+        forms:
+          - {w: "Dijo", f: "dij- + -o → decir (to say), preterite, he: dije, dijiste, dijo, dijimos, dijisteis, dijeron."}
+          - {w: "se llamaba", f: "llam- + -aba → llamarse (to be called), imperfect, he, with 'se'. The imperfect of -ar verbs: -aba, -abas, -aba, -ábamos, -abais, -aban."}
+        note: "The niece and housekeeper have been coached, but they improvise freely, and their enchanter comes straight out of the books they hate: the cloud, the flying serpent, the smoke, the grudge, the 'sabio' with a sonorous name."
+  - sentences:
+      - es: "— Frestón diría —dijo don Quijote."
+        literal: "— Frestón he-would-say —said Don Quijote."
+        ormsby: "“He must have said Fristón,” said Don Quixote."
+        vocab:
+          - {w: "Frestón", d: "the enchanter Fristón, supposed author of the romance Belianís de Grecia; Cervantes spells him Frestón"}
+        diagram:
+          - s: "Frestón diría"
+            r: "main verb: he must have said 'Frestón'"
+          - {s: "dijo don Quijote", r: "speech tag: said Don Quijote"}
+        forms:
+          - {w: "diría", f: "dir- + -ía → decir (to say), conditional, he: here a guess about the past, 'he must have said'. decir's conditional has the short stem dir-: diría, dirías, diría, diríamos, diríais, dirían."}
+          - {w: "dijo", f: "dij- + -o → decir (to say), preterite, he: dije, dijiste, dijo, dijimos, dijisteis, dijeron."}
+        ormsby_note: "Fristón, a magician, the reputed author of Belianis de Grecia."
+  - sentences:
+      - es: "— No sé —respondió el ama— si se llamaba Frestón o Fritón; sólo sé que acabó en tón su nombre."
+        literal: "— Not I-know —answered the housekeeper— if himself he-called Frestón or Fritón; only I-know that ended in tón his name."
+        ormsby: "“I don’t know whether he called himself Fristón or Fritón,” said the housekeeper, “I only know that his name ended with ‘ton.’”"
+        vocab:
+          - {w: "Fritón", d: "the housekeeper's garbling; it sounds like 'frito' (fried)"}
+          - {w: "acabar en", d: "to end in"}
+        diagram:
+          - s: "No sé"
+            r: "main verb 1: I don't know"
+            under:
+              - {s: "respondió el ama", r: "speech tag: answered the housekeeper"}
+              - {s: "si se llamaba Frestón o Fritón", r: "what I don't know: whether he was called Frestón or Fritón"}
+          - s: "sólo sé"
+            r: "main verb 2: I only know"
+            under:
+              - {s: "que acabó en tón su nombre", r: "what I know: that his name ended in 'tón'"}
+        forms:
+          - {w: "sé", f: "saber (to know), present, I: sé, sabes, sabe, sabemos, sabéis, saben."}
+          - {w: "respondió", f: "respond- + -ió → responder (to answer), preterite, she. The preterite of -er and -ir verbs: -í, -iste, -ió, -imos, -isteis, -ieron."}
+          - {w: "se llamaba", f: "llam- + -aba → llamarse (to be called), imperfect, he. The imperfect of -ar verbs: -aba, -abas, -aba, -ábamos, -abais, -aban."}
+          - {w: "acabó", f: "acab- + -ó → acabar (to end), preterite, it (his name). The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron."}
+        note: "Everyone agrees on the ending -tón, which is the joke: the rest of the name hardly matters to the women, while for Don Quijote the name identifies a specific enemy from his books."
+  - sentences:
+      - es: "— Así es —dijo don Quijote—; que ése es un sabio encantador, grande enemigo mío, que me tiene ojeriza, porque sabe por sus artes y letras que tengo de venir, andando los tiempos, a pelear en singular batalla con un caballero a quien él favorece, y le tengo de vencer, sin que él lo pueda estorbar, y por esto procura hacerme todos los sinsabores que puede;"
+        literal: "— So it-is —said Don Quijote—; for that-one is a sage enchanter, great enemy of-mine, who to-me has grudge, because he-knows by his arts and letters that I-have to come, going-along the times, to fight in single battle with a knight whom he favors, and him I-have to defeat, without that he it can prevent, and for this he-tries to-do-me all the displeasures that he-can;"
+        ormsby: "“So it does,” said Don Quixote, “and he is a sage magician, a great enemy of mine, who has a spite against me because he knows by his arts and lore that in process of time I am to engage in single combat with a knight whom he befriends and that I am to conquer, and he will be unable to prevent it; and for this reason he endeavours to do me all the ill turns that he can;"
+        vocab:
+          - {w: "así es", d: "that's right, so it is"}
+          - {w: "ése", d: "that one (pronoun, written with an accent in older spelling)"}
+          - {w: "sabio encantador", d: "wizard-sage, the stock magician of the romances"}
+          - {w: "tener ojeriza a", d: "to have a grudge against, have it in for"}
+          - {w: "artes y letras", d: "his (magic) arts and learning"}
+          - {w: "tener de", d: "= tener que, to have to, be destined to (old form)"}
+          - {w: "andando los tiempos", d: "in the course of time, some day"}
+          - {w: "singular batalla", d: "single combat"}
+          - {w: "favorecer", d: "to favor, protect"}
+          - {w: "vencer", d: "to defeat, conquer"}
+          - {w: "estorbar", d: "to prevent, hinder"}
+          - {w: "procurar", d: "to try, strive to (not 'procure')"}
+          - {w: "sinsabor", d: "trouble, unpleasantness (literally 'without-taste')"}
+        diagram:
+          - {s: "Así es", r: "reply: that's right"}
+          - s: "ése es un sabio encantador"
+            r: "main verb 1, after a loose 'que' = 'for': that one is a wizard"
+            under:
+              - {s: "grande enemigo mío", r: "describes 'ése': a great enemy of mine"}
+              - s: "que me tiene ojeriza"
+                r: "describes 'ése': who has it in for me"
+                under:
+                  - s: "porque sabe por sus artes y letras"
+                    r: "why: because he knows by his arts"
+                    under:
+                      - s: "que tengo de venir, andando los tiempos, a pelear en singular batalla con un caballero"
+                        r: "what he knows, 1: that some day I must fight a knight in single combat"
+                        under:
+                          - {s: "a quien él favorece", r: "describes 'caballero': whom he favors"}
+                      - {s: "y le tengo de vencer", r: "what he knows, 2: and I must defeat him"}
+                      - {s: "sin que él lo pueda estorbar", r: "what he knows, 3: without his being able to stop it"}
+          - s: "y por esto procura hacerme todos los sinsabores"
+            r: "main verb 2: and for this he tries to do me every ill turn"
+            under:
+              - {s: "que puede", r: "describes 'sinsabores': that he can"}
+        forms:
+          - {w: "es", f: "ser (to be), present, it / he: soy, eres, es, somos, sois, son."}
+          - {w: "ése", f: "'that one', masculine pronoun; ese, esa, esos, esas (accent when it stands alone, in older spelling)."}
+          - {w: "grande", f: "full form here, though before a singular noun modern Spanish clips it to 'gran'."}
+          - {w: "mío", f: "'of mine', the full possessive placed after the noun, masculine to match 'enemigo'."}
+          - {w: "tiene", f: "tien- + -e → tener (to have), present, he: tengo, tienes, tiene, tenemos, tenéis, tienen."}
+          - {w: "sabe", f: "sab- + -e → saber (to know), present, he: sé, sabes, sabe, sabemos, sabéis, saben."}
+          - {w: "tengo de venir, tengo de vencer", f: "teng- + -o → tener (to have), present, I, + 'de' + infinitive: 'I am to come', 'I am to defeat'. Old for 'tengo que'."}
+          - {w: "andando", f: "and- + -ando → gerund of andar (to go along): 'andando los tiempos' = as time goes on."}
+          - {w: "pelear", f: "infinitive of pelear (to fight) after 'venir a'."}
+          - {w: "a quien", f: "'whom', with the 'a' that marks a person as object."}
+          - {w: "favorece", f: "favorec- + -e → favorecer (to favor), present, he. The present of -er verbs: -o, -es, -e, -emos, -éis, -en (the 'I' form is 'favorezco')."}
+          - {w: "le", f: "him (the knight), the direct object; strict grammar wants 'lo', but Castilian uses 'le' for a male person (leísmo)."}
+          - {w: "pueda", f: "pued- + -a → poder (to be able), present subjunctive, he. The o in the stem becomes ue when stressed: pueda, puedas, pueda, podamos, podáis, puedan. 'sin que' always takes the subjunctive."}
+          - {w: "procura", f: "procur- + -a → procurar (to try), present, he. The present of -ar verbs: -o, -as, -a, -amos, -áis, -an."}
+          - {w: "hacerme", f: "hacer (to do) + me (to me), infinitive after 'procura'."}
+          - {w: "puede", f: "pued- + -e → poder (to be able), present, he: puedo, puedes, puede, podemos, podéis, pueden."}
+        note: "The enchanter who persecutes the hero and protects his enemy is a fixture of the romances. From now on Don Quijote will blame every setback on enchanters, which makes his delusion impossible to disprove."
+      - es: "y mándole yo que mal podrá él contradecir ni evitar lo que por el cielo está ordenado."
+        literal: "and I-promise-him I that badly will-be-able he to-contradict nor avoid what by the heaven is ordained."
+        ormsby: "but I promise him it will be hard for him to oppose or avoid what is decreed by Heaven.”"
+        vocab:
+          - {w: "mandar", d: "here, in its old sense: to promise, assure (as in 'I promise you')"}
+          - {w: "mal podrá", d: "he will hardly be able, he will be hard put to"}
+          - {w: "contradecir", d: "to go against, oppose"}
+          - {w: "evitar", d: "to avoid, prevent"}
+          - {w: "cielo", d: "heaven, sky"}
+          - {w: "ordenado", d: "ordained, decreed"}
+        diagram:
+          - s: "y mándole yo"
+            r: "main verb: and I promise him"
+            under:
+              - s: "que mal podrá él contradecir ni evitar"
+                r: "what I promise: that he will hardly be able to oppose or avoid"
+                under:
+                  - {s: "lo que por el cielo está ordenado", r: "object: what is decreed by heaven"}
+        forms:
+          - {w: "mándole", f: "mand- + -o + le → mandar (to promise), present, I, with 'le' (to him) on the end: modern 'le mando'. Cervantes hangs pronouns on the end of a conjugated verb that opens its clause. The present of -ar verbs: -o, -as, -a, -amos, -áis, -an."}
+          - {w: "podrá", f: "podr- + -á → poder (to be able), future, he. Short stem podr-: podré, podrás, podrá, podremos, podréis, podrán."}
+          - {w: "contradecir, evitar", f: "infinitives of contradecir (to oppose) and evitar (to avoid) after 'podrá'."}
+          - {w: "lo que", f: "neuter 'lo' + 'que': 'what, that which'."}
+          - {w: "está ordenado", f: "est- + -á → estar (to be), present, it, + ordenado, participle of ordenar (to decree): 'is decreed', a settled state. estoy, estás, está, estamos, estáis, están."}
+  - sentences:
+      - es: "— ¿Quién duda de eso? —dijo la sobrina—."
+        literal: "— Who doubts of that? —said the niece—."
+        ormsby: "“Who doubts that?” said the niece;"
+        vocab:
+          - {w: "dudar de", d: "to doubt"}
+        diagram:
+          - s: "Quién duda de eso"
+            r: "main verb: who doubts that?"
+          - {s: "dijo la sobrina", r: "speech tag: said the niece"}
+        forms:
+          - {w: "Quién", f: "'who', with an accent because it asks a question."}
+          - {w: "duda", f: "dud- + -a → dudar (to doubt), present, he (whoever). The present of -ar verbs: -o, -as, -a, -amos, -áis, -an."}
+          - {w: "eso", f: "neuter 'that [matter]'; esto, eso, aquello point at ideas rather than nouns."}
+          - {w: "dijo", f: "dij- + -o → decir (to say), preterite, she: dije, dijiste, dijo, dijimos, dijisteis, dijeron."}
+        note: "The niece agrees with the madness in order to argue against it: fine, the enchanter is real, so why go looking for trouble?"
+      - es: "Pero, ¿quién le mete a vuestra merced, señor tío, en esas pendencias?"
+        literal: "But, who you puts to your grace, sir uncle, in those quarrels?"
+        ormsby: "“but, uncle, who mixes you up in these quarrels?"
+        vocab:
+          - {w: "meter a uno en", d: "to get someone into, mix someone up in"}
+          - {w: "vuestra merced", d: "'your grace', the polite 'you', taking a he/she verb; the ancestor of 'usted'"}
+          - {w: "tío", d: "uncle"}
+          - {w: "pendencia", d: "quarrel, brawl, fight"}
+        diagram:
+          - s: "quién le mete"
+            r: "main verb: who gets you"
+            under:
+              - {s: "a vuestra merced", r: "object, spelling out 'le': your grace"}
+              - {s: "señor tío", r: "whom she is addressing: uncle"}
+              - {s: "en esas pendencias", r: "into what: into those quarrels"}
+        forms:
+          - {w: "le mete", f: "met- + -e → meter (to put), present, he (whoever), + 'le' (you, for vuestra merced). The present of -er verbs: -o, -es, -e, -emos, -éis, -en. 'le' and 'a vuestra merced' are the same person, said twice, as Spanish often does."}
+          - {w: "esas", f: "es- + -as → 'those', feminine plural to match 'pendencias': ese, esa, esos, esas."}
+      - es: "¿No será mejor estarse pacífico en su casa y no irse por el mundo a buscar pan de trastrigo, sin considerar que muchos van por lana y vuelven tresquilados?"
+        literal: "Not will-it-be better to-stay-oneself peaceful in your house and not go-off through the world to seek bread of beyond-wheat, without considering that many go for wool and return shorn?"
+        ormsby: "Would it not be better to remain at peace in your own house instead of roaming the world looking for better bread than ever came of wheat, never reflecting that many go for wool and come back shorn?”"
+        vocab:
+          - {w: "estarse", d: "to stay, remain (put)"}
+          - {w: "pacífico", d: "peaceful, quiet"}
+          - {w: "irse por el mundo", d: "to go off roaming the world"}
+          - {w: "buscar pan de trastrigo", d: "proverb: to look for bread better than wheat, i.e. ask for the impossible and ask for trouble"}
+          - {w: "ir por lana y volver trasquilado", d: "proverb: to go for wool and come back shorn, i.e. to set out to get something and lose instead"}
+          - {w: "tresquilado", d: "= trasquilado, shorn, sheared (old form)"}
+        diagram:
+          - s: "No será mejor"
+            r: "main verb: wouldn't it be better"
+            under:
+              - s: "estarse pacífico en su casa"
+                r: "subject, 1: to stay quietly at home"
+              - s: "y no irse por el mundo"
+                r: "subject, 2: and not go off through the world"
+                under:
+                  - {s: "a buscar pan de trastrigo", r: "why: to look for bread better than wheat"}
+              - s: "sin considerar"
+                r: "how: without considering"
+                under:
+                  - {s: "que muchos van por lana y vuelven tresquilados", r: "what: that many go for wool and come back shorn"}
+        forms:
+          - {w: "será", f: "ser (to be), future, it: 'will it not be'. The future is the whole infinitive + -é, -ás, -á, -emos, -éis, -án: seré, serás, será, seremos, seréis, serán."}
+          - {w: "estarse, irse", f: "infinitives of estar (to be) and ir (to go) with 'se' on the end: 'estarse' = to stay put, 'irse' = to go off. The infinitives are the subject of 'será mejor'."}
+          - {w: "su", f: "'your' here, belonging to vuestra merced; su serves for his, her, its, their and polite 'your'."}
+          - {w: "buscar, considerar", f: "infinitives of buscar (to look for) after 'a' and considerar (to consider) after 'sin'."}
+          - {w: "van", f: "ir (to go), present, they: voy, vas, va, vamos, vais, van."}
+          - {w: "vuelven", f: "vuelv- + -en → volver (to come back), present, they. The o in the stem becomes ue when stressed: vuelvo, vuelves, vuelve, volvemos, volvéis, vuelven."}
+          - {w: "tresquilados", f: "tresquilad- + -os → participle of tresquilar (= trasquilar, to shear), masculine plural to match 'muchos'."}
+        ormsby_note: "Proverb 171. Buscar pan de trastrigo: there is some difference of opinion as to the meaning of trastrigo, but it seems on the whole more probable that it means wheat of such superlative quality as to be unattainable; at any rate, the proverb is used in reference to seeking things that are out of reach. (On the second proverb:) Proverb 124. A very old proverb, as old at least as the poem of Fernán González."
+  - sentences:
+      - es: "— ¡Oh sobrina mía —respondió don Quijote—, y cuán mal que estás en la cuenta!"
+        literal: "— Oh niece of-mine —answered Don Quijote—, and how badly that you-are in the reckoning!"
+        ormsby: "“Oh, niece of mine,” replied Don Quixote, “how much astray art thou in thy reckoning:"
+        vocab:
+          - {w: "cuán", d: "how (before an adjective or adverb, literary; modern 'qué')"}
+          - {w: "estar mal en la cuenta", d: "to have got it wrong, miscalculate (literally 'be badly in the reckoning')"}
+        diagram:
+          - {s: "Oh sobrina mía", r: "address: oh niece of mine"}
+          - {s: "respondió don Quijote", r: "speech tag: answered Don Quijote"}
+          - s: "y cuán mal que estás en la cuenta"
+            r: "main verb, an exclamation: how wrong you are"
+        forms:
+          - {w: "mía", f: "mí- + -a → 'of mine', the full possessive after the noun, feminine to match 'sobrina'."}
+          - {w: "respondió", f: "respond- + -ió → responder (to answer), preterite, he. The preterite of -er and -ir verbs: -í, -iste, -ió, -imos, -isteis, -ieron."}
+          - {w: "cuán", f: "short form of cuánto, used before adjectives and adverbs: 'how'."}
+          - {w: "estás", f: "estar (to be), present, you (tú): estoy, estás, está, estamos, estáis, están. He uses 'tú' to his niece, as an elder to a young relative; she uses 'vuestra merced' to him."}
+      - es: "Primero que a mí me tresquilen, tendré peladas y quitadas las barbas a cuantos imaginaren tocarme en la punta de un solo cabello."
+        literal: "First than to me me they-shear, I-will-have plucked and removed the beards to as-many-as might-imagine to-touch-me in the tip of a single hair."
+        ormsby: "ere they shear me I shall have plucked away and stripped off the beards of all who dare to touch only the tip of a hair of mine.”"
+        vocab:
+          - {w: "primero que", d: "before (+ subjunctive); modern 'antes de que'"}
+          - {w: "pelar", d: "to pluck, strip of hair"}
+          - {w: "barbas", d: "beard; pulling a man's beard was the gravest insult in chivalric and Spanish custom"}
+          - {w: "cuantos", d: "all those who, as many as"}
+          - {w: "imaginar", d: "here: to dare to think of, to so much as intend"}
+          - {w: "punta", d: "tip, point"}
+          - {w: "cabello", d: "a hair of the head"}
+        diagram:
+          - s: "tendré peladas y quitadas las barbas"
+            r: "main verb: I will have plucked off the beards"
+            under:
+              - {s: "Primero que a mí me tresquilen", r: "when: before they shear me"}
+              - s: "a cuantos"
+                r: "from whom: from all those"
+                under:
+                  - {s: "imaginaren tocarme en la punta de un solo cabello", r: "describes 'cuantos': who so much as think of touching the tip of one hair of mine"}
+        forms:
+          - {w: "a mí me", f: "'me' said twice: 'a mí' stresses the object pronoun 'me'."}
+          - {w: "tresquilen", f: "tresquil- + -en → tresquilar (= trasquilar, to shear), present subjunctive, they (people in general). The present subjunctive of -ar verbs: -e, -es, -e, -emos, -éis, -en. 'primero que' (before) always takes the subjunctive."}
+          - {w: "tendré peladas y quitadas", f: "tendr- + -é → tener (to have), future, I, + peladas and quitadas, participles of pelar (to pluck) and quitar (to remove), feminine plural to match 'barbas': 'I will have [them] plucked'. tener's future: tendré, tendrás, tendrá, tendremos, tendréis, tendrán."}
+          - {w: "imaginaren", f: "imagin- + -aren → imaginar (to imagine, dare think of), future subjunctive, they: 'whoever shall think of'. Built on the preterite imaginaron: imaginare, imaginares, imaginare, imagináremos, imaginareis, imaginaren. Dead in modern Spanish, which uses the present subjunctive 'imaginen'."}
+          - {w: "tocarme", f: "tocar (to touch) + me (me), infinitive after 'imaginaren'."}
+          - {w: "un solo", f: "'a single': solo before the noun means 'only one'."}
+        note: "He turns her proverb round: he will do the shearing. Plucking or pulling another man's beard was the supreme insult, so the threat is both grand and faintly comic."
+  - sentences:
+      - es: "No quisieron las dos replicarle más, porque vieron que se le encendía la cólera."
+        literal: "Not wanted the two to-reply-to-him more, because they-saw that itself to-him was-kindling the anger."
+        ormsby: "The two were unwilling to make any further answer, as they saw that his anger was kindling."
+        vocab:
+          - {w: "replicar", d: "to answer back, reply"}
+          - {w: "encenderse", d: "to flare up, catch fire"}
+          - {w: "cólera", d: "anger; also choler, the yellow bile that caused anger in the old medicine of the four humors"}
+        diagram:
+          - s: "No quisieron"
+            r: "main verb: did not want"
+            under:
+              - {s: "las dos", r: "subject: the two women, after the verb"}
+              - {s: "replicarle más", r: "what they did not want: to answer him any more"}
+              - s: "porque vieron"
+                r: "why: because they saw"
+                under:
+                  - {s: "que se le encendía la cólera", r: "what they saw: that his anger was flaring up"}
+        forms:
+          - {w: "quisieron", f: "quis- + -ieron → querer (to want), preterite, they; in the negative, 'refused'. Irregular stem: quise, quisiste, quiso, quisimos, quisisteis, quisieron."}
+          - {w: "las dos", f: "feminine 'the two', because both are women."}
+          - {w: "replicarle", f: "replicar (to reply) + le (to him), infinitive after 'quisieron'."}
+          - {w: "vieron", f: "v- + -ieron → ver (to see), preterite, they: vi, viste, vio, vimos, visteis, vieron."}
+          - {w: "se le encendía", f: "encend- + -ía → encenderse (to flare up), imperfect, it (the anger), with 'se', + 'le' (in him): 'his anger was flaring'. The 'le' shows whose anger, where English says 'his'. The imperfect of -er and -ir verbs: -ía, -ías, -ía, -íamos, -íais, -ían."}
+  - sentences:
+      - es: "Es, pues, el caso que él estuvo quince días en casa muy sosegado, sin dar muestras de querer segundar sus primeros devaneos, en los cuales días pasó graciosísimos cuentos con sus dos compadres el cura y el barbero, sobre que él decía que la cosa de que más necesidad tenía el mundo era de caballeros andantes y de que en él se resucitase la caballería andantesca."
+        literal: "It-is, then, the case that he stayed fifteen days at home very calm, without giving signs of wanting to-repeat his first follies, in the which days he-passed very-amusing tales with his two gossips the priest and the barber, over that he said that the thing of which most need had the world was of knights errant and of that in it itself should-revive the chivalry errantish."
+        ormsby: "In short, then, he remained at home fifteen days very quietly without showing any signs of a desire to take up with his former delusions, and during this time he held lively discussions with his two gossips, the curate and the barber, on the point he maintained, that knights-errant were what the world stood most in need of, and that in him was to be accomplished the revival of knight-errantry."
+        vocab:
+          - {w: "es el caso que", d: "the fact is that, well then"}
+          - {w: "sosegado", d: "calm, quiet"}
+          - {w: "dar muestras de", d: "to show signs of"}
+          - {w: "segundar", d: "to repeat, do a second time"}
+          - {w: "devaneo", d: "folly, wild fancy, delusion"}
+          - {w: "pasar cuentos", d: "to have exchanges, conversations"}
+          - {w: "gracioso", d: "amusing, witty (not 'gracious')"}
+          - {w: "compadre", d: "old friend, 'gossip' (literally a co-godparent)"}
+          - {w: "caballeros andantes", d: "knights-errant (andante = wandering)"}
+          - {w: "resucitarse", d: "to be revived, come back to life"}
+          - {w: "caballería andantesca", d: "knight-errantry; 'andantesco' is a mock-solemn coinage"}
+        diagram:
+          - s: "Es, pues, el caso"
+            r: "opening formula: the fact is, then"
+            under:
+              - s: "que él estuvo quince días en casa muy sosegado"
+                r: "what the fact is: he stayed home fifteen days quite calm"
+                under:
+                  - {s: "sin dar muestras de querer segundar sus primeros devaneos", r: "how: without any sign of wanting to repeat his first follies"}
+                  - s: "en los cuales días pasó graciosísimos cuentos con sus dos compadres el cura y el barbero"
+                    r: "in which days he had very amusing talks with his two friends"
+                    under:
+                      - s: "sobre que él decía"
+                        r: "about what: about his claim"
+                        under:
+                          - {s: "que la cosa de que más necesidad tenía el mundo era de caballeros andantes", r: "what he said, 1: that what the world most needed was knights-errant"}
+                          - {s: "y de que en él se resucitase la caballería andantesca", r: "what he said, 2: and that knight-errantry be revived in it"}
+        forms:
+          - {w: "Es", f: "ser (to be), present, it: soy, eres, es, somos, sois, son."}
+          - {w: "estuvo", f: "estuv- + -o → estar (to be, to stay), preterite, he. Irregular stem: estuve, estuviste, estuvo, estuvimos, estuvisteis, estuvieron."}
+          - {w: "sosegado", f: "participle of sosegar (to calm), masculine singular to match 'él'."}
+          - {w: "dar, querer, segundar", f: "infinitives: dar (to give) after 'sin', querer (to want) after 'de', segundar (to repeat) after 'querer'."}
+          - {w: "sus primeros", f: "plural to match 'devaneos'; 'primeros' = his first [outing's]."}
+          - {w: "los cuales", f: "'which', masculine plural to match 'días'; here used like an adjective, 'in which days'."}
+          - {w: "pasó", f: "pas- + -ó → pasar (to pass, spend), preterite, he. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron."}
+          - {w: "graciosísimos", f: "gracios- + -ísimos → gracioso (amusing) + -ísimo 'very', masculine plural to match 'cuentos'."}
+          - {w: "decía", f: "dec- + -ía → decir (to say), imperfect, he: 'kept saying'. The imperfect of -er and -ir verbs: -ía, -ías, -ía, -íamos, -íais, -ían."}
+          - {w: "tenía", f: "ten- + -ía → tener (to have), imperfect, it (the world). Same -ía imperfect."}
+          - {w: "era", f: "ser (to be), imperfect, it: era, eras, era, éramos, erais, eran."}
+          - {w: "se resucitase", f: "resucit- + -ase → resucitar (to revive), imperfect subjunctive (-se form), it, with passive 'se': 'should be revived'. The -se form of -ar verbs: -ase, -ases, -ase, -ásemos, -aseis, -asen. Subjunctive because it is something wished for."}
+        note: "'en él' can mean 'in it' (the world) or 'in him'; Ormsby took it as 'in him', making Don Quijote the reviver of knight-errantry, which fits his pride just as well."
+      - es: "El cura algunas veces le contradecía y otras concedía, porque si no guardaba este artificio, no había poder averiguarse con él."
+        literal: "The priest some times him contradicted and others conceded, because if not he-kept this artifice, not there-was power to-come-to-terms with him."
+        ormsby: "The curate sometimes contradicted him, sometimes agreed with him, for if he had not observed this precaution he would have been unable to bring him to reason."
+        vocab:
+          - {w: "algunas veces ... otras", d: "sometimes ... other times"}
+          - {w: "contradecir", d: "to contradict"}
+          - {w: "conceder", d: "to concede, agree"}
+          - {w: "guardar", d: "to keep to, observe"}
+          - {w: "artificio", d: "device, stratagem"}
+          - {w: "no había poder", d: "there was no way, it was impossible"}
+          - {w: "averiguarse con", d: "to deal with, manage, come to terms with (old sense; today 'averiguar' = to find out)"}
+        diagram:
+          - s: "le contradecía"
+            r: "main verb 1: contradicted him"
+            under:
+              - {s: "El cura", r: "subject: the priest"}
+              - {s: "algunas veces", r: "how often: sometimes"}
+          - {s: "y otras concedía", r: "main verb 2: and other times agreed"}
+          - s: "porque"
+            r: "why"
+            under:
+              - {s: "si no guardaba este artificio", r: "condition: if he did not keep to this device"}
+              - {s: "no había poder averiguarse con él", r: "result: there was no managing him"}
+        forms:
+          - {w: "algunas", f: "algun- + -as → alguno (some), feminine plural to match 'veces'; 'otras' likewise."}
+          - {w: "le contradecía", f: "contradec- + -ía → contradecir (to contradict), imperfect, he, + 'le' (him). The imperfect of -er and -ir verbs: -ía, -ías, -ía, -íamos, -íais, -ían."}
+          - {w: "concedía", f: "conced- + -ía → conceder (to concede), imperfect, he. Same -ía imperfect."}
+          - {w: "guardaba", f: "guard- + -aba → guardar (to keep to), imperfect, he. The imperfect of -ar verbs: -aba, -abas, -aba, -ábamos, -abais, -aban."}
+          - {w: "había", f: "haber, imperfect, 'there was'; 'no había poder' = there was no power, no way."}
+          - {w: "averiguarse", f: "infinitive of averiguarse (to deal with), with 'se', after 'poder'."}
+  - sentences:
+      - es: "En este tiempo, solicitó don Quijote a un labrador vecino suyo, hombre de bien —si es que este título se puede dar al que es pobre—, pero de muy poca sal en la mollera."
+        literal: "In this time, solicited Don Quijote a farmhand neighbor of-his, man of good —if it-is that this title itself can give to-the one who is poor—, but of very little salt in the pate."
+        ormsby: "Meanwhile Don Quixote worked upon a farm labourer, a neighbour of his, an honest man (if indeed that title can be given to him who is poor), but with very little wit in his pate."
+        vocab:
+          - {w: "solicitar", d: "to court, work on, try to win over"}
+          - {w: "labrador", d: "farm laborer, peasant farmer (from 'labrar', to till)"}
+          - {w: "vecino", d: "neighbor; also a householder of a village"}
+          - {w: "hombre de bien", d: "honest man, decent man"}
+          - {w: "si es que", d: "if indeed"}
+          - {w: "sal", d: "salt; figuratively wit, good sense"}
+          - {w: "mollera", d: "crown of the head, pate; 'poca sal en la mollera' = not very bright"}
+        diagram:
+          - s: "solicitó"
+            r: "main verb: worked on, tried to win over"
+            under:
+              - {s: "En este tiempo", r: "when: meanwhile"}
+              - {s: "don Quijote", r: "subject"}
+              - s: "a un labrador vecino suyo"
+                r: "object: a farmhand, a neighbor of his"
+                under:
+                  - s: "hombre de bien"
+                    r: "describes 'labrador': an honest man"
+                    under:
+                      - {s: "si es que este título se puede dar al que es pobre", r: "aside: if that title can be given to a poor man"}
+                  - {s: "pero de muy poca sal en la mollera", r: "describes 'labrador': but not very bright"}
+        forms:
+          - {w: "solicitó", f: "solicit- + -ó → solicitar (to court, work on), preterite, he. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron."}
+          - {w: "a un labrador", f: "the 'a' marks a person as the direct object; English has nothing for it."}
+          - {w: "suyo", f: "'of his', the full possessive after the noun, masculine to match 'vecino'."}
+          - {w: "se puede dar", f: "pued- + -e → poder (to be able), present, it, + dar (to give), with passive 'se': 'can be given'. The o in the stem becomes ue when stressed: puedo, puedes, puede, podemos, podéis, pueden."}
+          - {w: "al que", f: "a + el que: 'to the one who'."}
+          - {w: "poca", f: "poc- + -a → poco (little), feminine to match 'sal' (feminine in Spanish)."}
+        note: "The narrator's aside is a sharp one: in a society where honor went with birth and money, calling a poor man 'hombre de bien' needs an apology. Sancho enters the book as honest, poor and simple."
+      - es: "En resolución, tanto le dijo, tanto le persuadió y prometió, que el pobre villano se determinó de salirse con él y servirle de escudero."
+        literal: "In resolution, so-much to-him he-said, so-much him he-persuaded and promised, that the poor peasant himself determined to go-out with him and serve-him as squire."
+        ormsby: "In a word, he so talked him over, and with such persuasions and promises, that the poor clown made up his mind to sally forth with him and serve him as esquire."
+        vocab:
+          - {w: "en resolución", d: "in short, to cut a long story short"}
+          - {w: "persuadir", d: "to persuade"}
+          - {w: "villano", d: "peasant, villager, commoner (not 'villain'; the insult came later)"}
+          - {w: "determinarse de", d: "to make up one's mind to (modern 'a')"}
+          - {w: "salirse con", d: "here: to go off with, leave home with"}
+          - {w: "servir de", d: "to serve as"}
+          - {w: "escudero", d: "squire, a knight's attendant (literally 'shield-bearer', from 'escudo')"}
+        diagram:
+          - s: "tanto le dijo, tanto le persuadió y prometió"
+            r: "main verbs: he told him so much, persuaded and promised so much"
+            under:
+              - {s: "En resolución", r: "in short"}
+              - s: "que el pobre villano se determinó"
+                r: "result: that the poor peasant made up his mind"
+                under:
+                  - {s: "de salirse con él", r: "to what, 1: to go off with him"}
+                  - {s: "y servirle de escudero", r: "to what, 2: and serve him as squire"}
+        forms:
+          - {w: "tanto ... que", f: "'so much ... that': the 'que' clause gives the result."}
+          - {w: "le dijo", f: "dij- + -o → decir (to say), preterite, he, + 'le' (to him). Irregular: dije, dijiste, dijo, dijimos, dijisteis, dijeron."}
+          - {w: "le persuadió", f: "persuad- + -ió → persuadir (to persuade), preterite, he, + 'le' (him). The preterite of -er and -ir verbs: -í, -iste, -ió, -imos, -isteis, -ieron."}
+          - {w: "prometió", f: "promet- + -ió → prometer (to promise), preterite, he. Same -ió preterite."}
+          - {w: "se determinó", f: "determin- + -ó → determinarse (to make up one's mind), preterite, he. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron."}
+          - {w: "salirse, servirle", f: "infinitives: salir (to go out) + se, servir (to serve) + le (him, Don Quijote)."}
+      - es: "Decíale, entre otras cosas, don Quijote que se dispusiese a ir con él de buena gana, porque tal vez le podía suceder aventura que ganase, en quítame allá esas pajas, alguna ínsula, y le dejase a él por gobernador della."
+        literal: "Was-telling-him, among other things, Don Quijote that he-should-dispose-himself to go with him of good will, because perhaps to-him could happen adventure that [he] might-win, in take-me-away-there those straws, some isle, and him should-leave him as governor of-it."
+        ormsby: "Don Quixote, among other things, told him he ought to be ready to go with him gladly, because any moment an adventure might occur that might win an island in the twinkling of an eye and leave him governor of it."
+        vocab:
+          - {w: "disponerse a", d: "to get ready to, be willing to"}
+          - {w: "de buena gana", d: "willingly, gladly"}
+          - {w: "tal vez", d: "here: at some time, now and then (old sense); today 'perhaps'"}
+          - {w: "suceder", d: "to happen, befall (not 'succeed')"}
+          - {w: "en quítame allá esas pajas", d: "in a trice, in no time (literally 'in take-those-straws-off-me')"}
+          - {w: "ínsula", d: "isle; the Latinate word of the romances, never used for a real island. Sancho will not know what it means"}
+          - {w: "gobernador", d: "governor"}
+          - {w: "della", d: "= de ella, 'of it' (the isle); Cervantes fuses de with él, ella, este: dél, della, deste"}
+        diagram:
+          - s: "Decíale"
+            r: "main verb: was telling him"
+            under:
+              - {s: "entre otras cosas", r: "among other things"}
+              - {s: "don Quijote", r: "subject, after the verb"}
+              - s: "que se dispusiese a ir con él de buena gana"
+                r: "what he told him: that he should be ready to go with him gladly"
+                under:
+                  - s: "porque tal vez le podía suceder aventura"
+                    r: "why: because at any time an adventure might befall him"
+                    under:
+                      - s: "que ganase"
+                        r: "describes 'aventura', 1: in which [he] might win"
+                        under:
+                          - {s: "en quítame allá esas pajas", r: "how fast: in a trice"}
+                          - {s: "alguna ínsula", r: "object: some isle"}
+                      - {s: "y le dejase a él por gobernador della", r: "describes 'aventura', 2: and leave him governor of it"}
+        forms:
+          - {w: "Decíale", f: "dec- + -ía + le → decir (to say), imperfect, he, with 'le' (to him) on the end: modern 'le decía'. Cervantes hangs pronouns on the end of a conjugated verb that opens its clause. The imperfect of -er and -ir verbs: -ía, -ías, -ía, -íamos, -íais, -ían."}
+          - {w: "se dispusiese", f: "dispus- + -iese → disponerse (to get ready), imperfect subjunctive (-se form), he. Built on the preterite dispusieron (like poner: puse, pusieron): dispusiese, dispusieses, dispusiese, dispusiésemos, dispusieseis, dispusiesen. Subjunctive after 'decir' used as an order."}
+          - {w: "ir", f: "infinitive of ir (to go) after 'disponerse a'."}
+          - {w: "podía", f: "pod- + -ía → poder (to be able), imperfect, it: 'could'. Same -ía imperfect."}
+          - {w: "suceder", f: "infinitive of suceder (to happen) after 'podía'."}
+          - {w: "ganase", f: "gan- + -ase → ganar (to win), imperfect subjunctive (-se form), he: 'might win'. The -se form of -ar verbs: -ase, -ases, -ase, -ásemos, -aseis, -asen. Subjunctive because the adventure is only possible."}
+          - {w: "quítame", f: "quit- + -a + me → quitar (to take away), command, you (tú), with 'me' on the end: 'take away from me'. Frozen here inside the idiom."}
+          - {w: "alguna", f: "algun- + -a → alguno (some), feminine to match 'ínsula'."}
+          - {w: "dejase", f: "dej- + -ase → dejar (to leave), imperfect subjunctive (-se), he. Same -ase subjunctive."}
+          - {w: "le ... a él", f: "'him' said twice: 'a él' makes clear the 'le' is Sancho."}
+          - {w: "della", f: "de + ella (of it: the ínsula)."}
+        note: "Governing an 'ínsula' is the bait that will drive Sancho for the whole novel. The pompous word, which he does not understand, is part of the joke."
+      - es: "Con estas promesas y otras tales, Sancho Panza, que así se llamaba el labrador, dejó su mujer y hijos y asentó por escudero de su vecino."
+        literal: "With these promises and others such, Sancho Panza, for thus himself called the farmhand, left his wife and children and signed-on as squire of his neighbor."
+        ormsby: "On these and the like promises Sancho Panza (for so the labourer was called) left wife and children, and engaged himself as esquire to his neighbour."
+        vocab:
+          - {w: "otras tales", d: "others like them"}
+          - {w: "Sancho Panza", d: "Sancho is a common old Castilian first name; 'panza' means paunch, belly"}
+          - {w: "asentar por", d: "to sign on as, enlist as (as a servant or soldier)"}
+        diagram:
+          - s: "dejó su mujer y hijos"
+            r: "main verb 1: left his wife and children"
+            under:
+              - {s: "Con estas promesas y otras tales", r: "why: with these promises and others"}
+              - s: "Sancho Panza"
+                r: "subject"
+                under:
+                  - {s: "que así se llamaba el labrador", r: "aside: for that was the farmhand's name"}
+          - {s: "y asentó por escudero de su vecino", r: "main verb 2: and signed on as his neighbor's squire"}
+        forms:
+          - {w: "estas", f: "est- + -as → 'these', feminine plural to match 'promesas': este, esta, estos, estas."}
+          - {w: "tales", f: "tal + -es → 'such', plural to match 'otras'."}
+          - {w: "se llamaba", f: "llam- + -aba → llamarse (to be called), imperfect, he. The imperfect of -ar verbs: -aba, -abas, -aba, -ábamos, -abais, -aban."}
+          - {w: "dejó", f: "dej- + -ó → dejar (to leave), preterite, he. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron."}
+          - {w: "su", f: "'his', singular to match 'mujer'; one 'su' covers 'hijos' too."}
+          - {w: "asentó", f: "asent- + -ó → asentar (to sign on), preterite, he. Same -ar preterite."}
+        note: "The first time Sancho Panza is named. His name, 'Belly', fits the earthy, hungry, sensible squire, set against his master's thin, dry, bookish figure."
+  - sentences:
+      - es: "Dio luego don Quijote orden en buscar dineros; y, vendiendo una cosa y empeñando otra, y malbaratándolas todas, llegó una razonable cantidad."
+        literal: "Gave then Don Quijote order in seeking moneys; and, selling one thing and pawning another, and underselling-them all, he-gathered a reasonable quantity."
+        ormsby: "Don Quixote next set about getting some money; and selling one thing and pawning another, and making a bad bargain in every case, he got together a fair sum."
+        vocab:
+          - {w: "luego", d: "then, next; in Cervantes often 'at once'"}
+          - {w: "dar orden en", d: "to set about, arrange"}
+          - {w: "dineros", d: "money (plural in old usage)"}
+          - {w: "empeñar", d: "to pawn"}
+          - {w: "malbaratar", d: "to sell off cheap, squander"}
+          - {w: "llegar", d: "here, transitive in the old sense: to gather, collect"}
+          - {w: "razonable", d: "reasonable, fair"}
+        diagram:
+          - s: "Dio luego don Quijote orden"
+            r: "main verb 1: then Don Quijote set about"
+            under:
+              - {s: "en buscar dineros", r: "what: raising money"}
+          - s: "llegó una razonable cantidad"
+            r: "main verb 2 (after 'y'): he got together a fair sum"
+            under:
+              - {s: "vendiendo una cosa y empeñando otra", r: "how: selling one thing and pawning another"}
+              - {s: "y malbaratándolas todas", r: "how: and selling them all at a loss"}
+        forms:
+          - {w: "Dio", f: "d- + -io → dar (to give), preterite, he. dar's preterite takes -er endings: di, diste, dio, dimos, disteis, dieron."}
+          - {w: "buscar", f: "infinitive of buscar (to look for) after 'en'."}
+          - {w: "vendiendo, empeñando", f: "gerunds of vender (to sell, -iendo) and empeñar (to pawn, -ando): 'by selling', 'by pawning'."}
+          - {w: "malbaratándolas", f: "malbarat- + -ando + las → gerund of malbaratar (to sell cheap) + 'las' (them: the cosas), with an accent added."}
+          - {w: "todas", f: "tod- + -as → 'all', feminine plural to match 'cosas'."}
+          - {w: "llegó", f: "lleg- + -ó → llegar (here: to gather), preterite, he. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron."}
+      - es: "Acomodóse asimesmo de una rodela, que pidió prestada a un su amigo, y, pertrechando su rota celada lo mejor que pudo, avisó a su escudero Sancho del día y la hora que pensaba ponerse en camino, para que él se acomodase de lo que viese que más le era menester."
+        literal: "He-provided-himself likewise with a round-shield, which he-asked lent from a his friend, and, repairing his broken helmet the best that he-could, he-notified his squire Sancho of-the day and the hour that he-intended to-put-himself on road, so that he himself should-provide with what he-might-see that most to-him was needful."
+        ormsby: "He provided himself with a buckler, which he begged as a loan from a friend, and, restoring his battered helmet as best he could, he warned his squire Sancho of the day and hour he meant to set out, that he might provide himself with what he thought most needful."
+        vocab:
+          - {w: "acomodarse de", d: "to provide oneself with"}
+          - {w: "asimesmo", d: "= asimismo, likewise, also (old form)"}
+          - {w: "rodela", d: "round shield, buckler"}
+          - {w: "pedir prestado", d: "to borrow (literally 'ask lent')"}
+          - {w: "un su amigo", d: "a friend of his; article + possessive together is old usage"}
+          - {w: "pertrechar", d: "to repair, fit out, equip"}
+          - {w: "celada", d: "helmet (with visor); the one he patched with pasteboard"}
+          - {w: "avisar de", d: "to let know, warn of"}
+          - {w: "pensar + infinitive", d: "to intend to"}
+          - {w: "ponerse en camino", d: "to set out"}
+          - {w: "ser menester", d: "to be needed"}
+        diagram:
+          - s: "Acomodóse asimesmo de una rodela"
+            r: "main verb 1: he also got himself a shield"
+            under:
+              - {s: "que pidió prestada a un su amigo", r: "describes 'rodela': which he borrowed from a friend"}
+          - s: "avisó a su escudero Sancho"
+            r: "main verb 2 (after 'y'): he let his squire Sancho know"
+            under:
+              - {s: "pertrechando su rota celada lo mejor que pudo", r: "how, meanwhile: patching his broken helmet as best he could"}
+              - s: "del día y la hora"
+                r: "of what: the day and hour"
+                under:
+                  - {s: "que pensaba ponerse en camino", r: "describes 'día y hora': when he meant to set out"}
+              - s: "para que él se acomodase de lo"
+                r: "purpose: so that he would provide himself with what"
+                under:
+                  - {s: "que viese que más le era menester", r: "describes 'lo': what he saw he most needed"}
+        forms:
+          - {w: "Acomodóse", f: "acomod- + -ó + se → acomodarse (to provide oneself), preterite, he, with 'se' on the end: modern 'se acomodó'. Cervantes hangs pronouns on the end of a conjugated verb that opens its clause. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron."}
+          - {w: "asimesmo", f: "old form of asimismo (likewise); 'mesmo' = mismo."}
+          - {w: "pidió prestada", f: "pid- + -ió → pedir (to ask), preterite, he, with the stem e turned to i: pedí, pediste, pidió, pedimos, pedisteis, pidieron. prestada, participle of prestar (to lend), feminine to match 'rodela'."}
+          - {w: "pertrechando", f: "pertrech- + -ando → gerund of pertrechar (to repair)."}
+          - {w: "rota", f: "rot- + -a → roto, irregular participle of romper (to break), feminine to match 'celada'."}
+          - {w: "lo mejor que pudo", f: "'as best he could'; pudo = pud- + -o → poder (to be able), preterite, he: pude, pudiste, pudo, pudimos, pudisteis, pudieron."}
+          - {w: "avisó", f: "avis- + -ó → avisar (to inform), preterite, he. Same -ar preterite."}
+          - {w: "pensaba", f: "pens- + -aba → pensar (to intend), imperfect, he. The imperfect of -ar verbs: -aba, -abas, -aba, -ábamos, -abais, -aban."}
+          - {w: "ponerse", f: "infinitive of ponerse (to set oneself), with 'se', after 'pensaba'."}
+          - {w: "se acomodase", f: "acomod- + -ase → acomodarse (to provide oneself), imperfect subjunctive (-se form), he. The -se form of -ar verbs: -ase, -ases, -ase, -ásemos, -aseis, -asen. 'para que' (so that) always takes the subjunctive."}
+          - {w: "viese", f: "vi- + -ese → ver (to see), imperfect subjunctive (-se), he: 'whatever he saw'. Built on vieron: viese, vieses, viese, viésemos, vieseis, viesen."}
+          - {w: "le era menester", f: "er- + -a → ser (to be), imperfect, it, + 'le' (to him): 'was needful to him'. ser's imperfect: era, eras, era, éramos, erais, eran."}
+      - es: "Sobre todo le encargó que llevase alforjas; e dijo que sí llevaría, y que ansimesmo pensaba llevar un asno que tenía muy bueno, porque él no estaba duecho a andar mucho a pie."
+        literal: "Above all him he-charged that he-should-take saddlebags; and he-said that yes he-would-take, and that likewise he-intended to-take an ass that he-had very good, because he not was used to walk much on foot."
+        ormsby: "Above all, he charged him to take alforjas with him. The other said he would, and that he meant to take also a very good ass he had, as he was not much given to going on foot."
+        vocab:
+          - {w: "sobre todo", d: "above all"}
+          - {w: "encargar", d: "to charge, instruct, tell someone to"}
+          - {w: "alforjas", d: "saddlebags, a double bag slung over a mount or a shoulder"}
+          - {w: "e", d: "= y, 'and' (old form, here even before a consonant)"}
+          - {w: "ansimesmo", d: "= asimismo, likewise (old form)"}
+          - {w: "asno", d: "donkey, ass"}
+          - {w: "duecho", d: "= ducho, used to, practiced at (old form)"}
+          - {w: "a pie", d: "on foot"}
+        diagram:
+          - s: "le encargó"
+            r: "main verb 1: he told him"
+            under:
+              - {s: "Sobre todo", r: "above all"}
+              - {s: "que llevase alforjas", r: "what he told him: to take saddlebags"}
+          - s: "e dijo"
+            r: "main verb 2: and [Sancho] said"
+            under:
+              - {s: "que sí llevaría", r: "what he said, 1: that yes, he would"}
+              - s: "y que ansimesmo pensaba llevar un asno"
+                r: "what he said, 2: and that he meant to take a donkey too"
+                under:
+                  - {s: "que tenía muy bueno", r: "describes 'asno': that he had, a very good one"}
+              - {s: "porque él no estaba duecho a andar mucho a pie", r: "why: because he was not used to walking far"}
+        forms:
+          - {w: "le encargó", f: "encarg- + -ó → encargar (to charge), preterite, he, + 'le' (to him). The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron."}
+          - {w: "llevase", f: "llev- + -ase → llevar (to take), imperfect subjunctive (-se form), he. The -se form of -ar verbs: -ase, -ases, -ase, -ásemos, -aseis, -asen. Subjunctive after an order."}
+          - {w: "dijo", f: "dij- + -o → decir (to say), preterite, he: dije, dijiste, dijo, dijimos, dijisteis, dijeron."}
+          - {w: "sí", f: "'yes', with an accent (without it, 'si' means 'if')."}
+          - {w: "llevaría", f: "llevar + -ía → llevar (to take), conditional, he: 'would take'. The conditional is the whole infinitive + -ía, -ías, -ía, -íamos, -íais, -ían."}
+          - {w: "pensaba", f: "pens- + -aba → pensar (to intend), imperfect, he. The imperfect of -ar verbs: -aba, -abas, -aba, -ábamos, -abais, -aban."}
+          - {w: "tenía", f: "ten- + -ía → tener (to have), imperfect, he. The imperfect of -er and -ir verbs: -ía, -ías, -ía, -íamos, -íais, -ían."}
+          - {w: "estaba duecho", f: "est- + -aba → estar (to be), imperfect, he, + duecho (= ducho, used to). Same -aba imperfect."}
+          - {w: "andar", f: "infinitive of andar (to walk) after 'duecho a'."}
+        ormsby_note: "Alforjas, a sort of double wallet serving for saddlebags, but more frequently carried slung across the shoulder."
+      - es: "En lo del asno reparó un poco don Quijote, imaginando si se le acordaba si algún caballero andante había traído escudero caballero asnalmente, pero nunca le vino alguno a la memoria;"
+        literal: "In the [matter] of-the ass paused a little Don Quijote, imagining whether itself to-him remembered whether some knight errant had brought squire mounted ass-ly, but never to-him came any to the memory;"
+        ormsby: "About the ass, Don Quixote hesitated a little, trying whether he could call to mind any knight-errant taking with him an esquire mounted on ass-back, but no instance occurred to his memory."
+        vocab:
+          - {w: "lo del asno", d: "the matter of the donkey"}
+          - {w: "reparar en", d: "to hesitate over, stop to consider"}
+          - {w: "imaginar", d: "here: to think hard, try to recall"}
+          - {w: "acordársele a uno", d: "to come to one's mind; 'se le acordaba' = he remembered (the thing remembered is the subject)"}
+          - {w: "caballero", d: "here the adjective 'mounted, riding'"}
+          - {w: "asnalmente", d: "'donkeyishly', on donkey-back; a comic coinage from 'asnal' (asinine)"}
+          - {w: "venirle a la memoria", d: "to come to mind"}
+        diagram:
+          - s: "reparó un poco"
+            r: "main verb 1: hesitated a little"
+            under:
+              - {s: "En lo del asno", r: "over what: the matter of the donkey"}
+              - {s: "don Quijote", r: "subject"}
+              - s: "imaginando si se le acordaba"
+                r: "how: trying to recall whether he remembered"
+                under:
+                  - {s: "si algún caballero andante había traído escudero caballero asnalmente", r: "what: whether any knight-errant had brought a squire mounted on a donkey"}
+          - {s: "pero nunca le vino alguno a la memoria", r: "main verb 2: but none ever came to his mind"}
+        forms:
+          - {w: "reparó", f: "repar- + -ó → reparar (to hesitate over), preterite, he. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron."}
+          - {w: "imaginando", f: "imagin- + -ando → gerund of imaginar (to think hard)."}
+          - {w: "se le acordaba", f: "acord- + -aba → acordar (to remember), imperfect, it, with 'se' + 'le' (to him): 'whether it came back to him'. The imperfect of -ar verbs: -aba, -abas, -aba, -ábamos, -abais, -aban."}
+          - {w: "algún", f: "alguno (some, any) clipped before a masculine singular noun, like un, ningún, buen, primer."}
+          - {w: "había traído", f: "haber (había) + traído, participle of traer (to bring): pluperfect, he: 'had brought'. haber in the imperfect: había, habías, había, habíamos, habíais, habían."}
+          - {w: "asnalmente", f: "asnal + -mente → adverb from asnal (of donkeys), like English -ly."}
+          - {w: "vino", f: "vin- + -o → venir (to come), preterite, it. Irregular stem: vine, viniste, vino, vinimos, vinisteis, vinieron."}
+          - {w: "alguno", f: "'any [one]', standing for a knight; after 'nunca' it means 'none'."}
+        note: "No squire in the romances rides a donkey; the ass is the mount of peasants and fools. The pair's mismatch, noble horse and humble donkey, becomes the novel's lasting image."
+      - es: "mas, con todo esto, determinó que le llevase, con presupuesto de acomodarle de más honrada caballería en habiendo ocasión para ello, quitándole el caballo al primer descortés caballero que topase."
+        literal: "but, with all this, he-determined that it he-should-take, with presupposition of providing-him with more honorable mount on there-being occasion for it, taking-from-him the horse from-the first discourteous knight that he-might-bump-into."
+        ormsby: "For all that, however, he determined to take him, intending to furnish him with a more honourable mount when a chance of it presented itself, by appropriating the horse of the first discourteous knight he encountered."
+        vocab:
+          - {w: "con todo esto", d: "for all that, nevertheless"}
+          - {w: "determinar", d: "to decide"}
+          - {w: "con presupuesto de", d: "with the intention of, on the understanding of (presupuesto = premise, plan)"}
+          - {w: "acomodar de", d: "to provide with"}
+          - {w: "honrado", d: "honorable, respectable"}
+          - {w: "caballería", d: "mount, riding animal; also 'chivalry', a pun"}
+          - {w: "en habiendo ocasión", d: "as soon as the chance arose"}
+          - {w: "descortés", d: "discourteous, rude"}
+          - {w: "topar", d: "to run into, come across"}
+        diagram:
+          - s: "determinó"
+            r: "main verb: he decided"
+            under:
+              - {s: "mas, con todo esto", r: "but, for all that"}
+              - {s: "que le llevase", r: "what he decided: that [Sancho] should take it (the donkey)"}
+              - s: "con presupuesto de acomodarle de más honrada caballería"
+                r: "with what plan: to give him a more honorable mount"
+                under:
+                  - {s: "en habiendo ocasión para ello", r: "when: as soon as there was a chance"}
+                  - s: "quitándole el caballo al primer descortés caballero"
+                    r: "how: by taking the horse from the first rude knight"
+                    under:
+                      - {s: "que topase", r: "describes 'caballero': that he came across"}
+        forms:
+          - {w: "determinó", f: "determin- + -ó → determinar (to decide), preterite, he. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron."}
+          - {w: "le llevase", f: "llev- + -ase → llevar (to take), imperfect subjunctive (-se form), he (Sancho), + 'le' (it, the donkey). The -se form of -ar verbs: -ase, -ases, -ase, -ásemos, -aseis, -asen. 'le' for a masculine thing or animal where modern Spanish wants 'lo' is Cervantes' leísmo."}
+          - {w: "acomodarle", f: "acomodar (to provide) + le (him, Sancho)."}
+          - {w: "honrada", f: "honrad- + -a → honrado (honorable), feminine to match 'caballería'."}
+          - {w: "en habiendo", f: "en + habiendo, gerund of haber ('there being'): 'as soon as there was'."}
+          - {w: "ello", f: "neuter 'it' for an idea."}
+          - {w: "quitándole", f: "quit- + -ando + le → gerund of quitar (to take away) + 'le' (from him, the knight), with an accent added."}
+          - {w: "al primer", f: "a + el; primero clipped to 'primer' before a masculine singular noun, like un, algún, buen."}
+          - {w: "topase", f: "top- + -ase → topar (to run into), imperfect subjunctive (-se), he. Same -ase subjunctive; subjunctive because the knight is not yet met."}
+      - es: "Proveyóse de camisas y de las demás cosas que él pudo, conforme al consejo que el ventero le había dado;"
+        literal: "He-provided-himself with shirts and with the other things that he could, in-accordance to-the advice that the innkeeper to-him had given;"
+        ormsby: "Himself he provided with shirts and such other things as he could, according to the advice the host had given him;"
+        vocab:
+          - {w: "proveerse de", d: "to provide oneself with, stock up on"}
+          - {w: "camisa", d: "shirt"}
+          - {w: "las demás cosas", d: "the other things"}
+          - {w: "conforme a", d: "in accordance with"}
+          - {w: "ventero", d: "innkeeper; the one who dubbed him knight and told him to carry money, clean shirts and ointments"}
+        diagram:
+          - s: "Proveyóse"
+            r: "main verb: he provided himself"
+            under:
+              - {s: "de camisas", r: "with what, 1: shirts"}
+              - s: "y de las demás cosas"
+                r: "with what, 2: and the other things"
+                under:
+                  - {s: "que él pudo", r: "describes 'cosas': that he could [get]"}
+              - s: "conforme al consejo"
+                r: "according to what: the advice"
+                under:
+                  - {s: "que el ventero le había dado", r: "describes 'consejo': that the innkeeper had given him"}
+        forms:
+          - {w: "Proveyóse", f: "prove- + -yó + se → proveerse (to provide oneself), preterite, he, with 'se' on the end: modern 'se proveyó'. The -ió ending becomes -yó between vowels. Cervantes hangs pronouns on the end of a conjugated verb that opens its clause. The preterite of -er and -ir verbs: -í, -iste, -ió, -imos, -isteis, -ieron."}
+          - {w: "las demás", f: "'the other'; 'demás' never changes and always takes the article."}
+          - {w: "pudo", f: "pud- + -o → poder (to be able), preterite, he: pude, pudiste, pudo, pudimos, pudisteis, pudieron."}
+          - {w: "al", f: "a + el (to the)."}
+          - {w: "le había dado", f: "haber (había) + dado, participle of dar (to give): pluperfect, he: 'had given', + 'le' (to him). haber in the imperfect: había, habías, había, habíamos, habíais, habían."}
+      - es: "todo lo cual hecho y cumplido, sin despedirse Panza de sus hijos y mujer, ni don Quijote de su ama y sobrina, una noche se salieron del lugar sin que persona los viese;"
+        literal: "all the which done and completed, without taking-leave Panza of his children and wife, nor Don Quijote of his housekeeper and niece, one night they-went-off from-the village without that person them should-see;"
+        ormsby: "all which being done, without taking leave, Sancho Panza of his wife and children, or Don Quixote of his housekeeper and niece, they sallied forth unseen by anybody from the village one night,"
+        vocab:
+          - {w: "todo lo cual hecho", d: "all of which done, with all this done"}
+          - {w: "cumplido", d: "completed, carried out"}
+          - {w: "despedirse de", d: "to say goodbye to, take leave of"}
+          - {w: "salirse de", d: "to slip out of, leave"}
+          - {w: "lugar", d: "village"}
+          - {w: "persona", d: "here, in a negative: anybody, a soul"}
+        diagram:
+          - s: "se salieron del lugar"
+            r: "main verb: they slipped out of the village"
+            under:
+              - {s: "todo lo cual hecho y cumplido", r: "when: all this done"}
+              - {s: "sin despedirse Panza de sus hijos y mujer", r: "how, 1: without Panza saying goodbye to his children and wife"}
+              - {s: "ni don Quijote de su ama y sobrina", r: "how, 2: nor Don Quijote to his housekeeper and niece"}
+              - {s: "una noche", r: "when: one night"}
+              - {s: "sin que persona los viese", r: "how: without anyone seeing them"}
+        forms:
+          - {w: "todo lo cual hecho y cumplido", f: "an absolute participle phrase: hecho (irregular participle of hacer, to do) and cumplido (participle of cumplir, to complete) agree with 'todo lo cual' and mean 'once all this was done'."}
+          - {w: "despedirse", f: "infinitive of despedirse (to take leave), with 'se', after 'sin'; its subject 'Panza' follows it."}
+          - {w: "sus", f: "'his', plural to match 'hijos', not the owner."}
+          - {w: "se salieron", f: "sal- + -ieron → salirse (to slip out), preterite, they, with 'se'. The preterite of -er and -ir verbs: -í, -iste, -ió, -imos, -isteis, -ieron."}
+          - {w: "del", f: "de + el (from the)."}
+          - {w: "los viese", f: "vi- + -ese → ver (to see), imperfect subjunctive (-se form), he (anybody), + 'los' (them). Built on vieron: viese, vieses, viese, viésemos, vieseis, viesen. 'sin que' always takes the subjunctive."}
+      - es: "en la cual caminaron tanto, que al amanecer se tuvieron por seguros de que no los hallarían aunque los buscasen."
+        literal: "in the which they-traveled so-much, that at-the dawning themselves they-held for safe of that not them they-would-find even-if them they-sought."
+        ormsby: "and made such good way in the course of it that by daylight they held themselves safe from discovery, even should search be made for them."
+        vocab:
+          - {w: "en la cual", d: "in which (the night)"}
+          - {w: "caminar", d: "to travel, walk, make one's way"}
+          - {w: "al amanecer", d: "at dawn, at daybreak"}
+          - {w: "tenerse por", d: "to consider oneself"}
+          - {w: "seguro de que", d: "safe in the knowledge that"}
+          - {w: "aunque + subjunctive", d: "even if"}
+        diagram:
+          - s: "caminaron tanto"
+            r: "main verb: they traveled so far"
+            under:
+              - {s: "en la cual", r: "when: in which (night)"}
+              - s: "que al amanecer se tuvieron por seguros"
+                r: "result: that by dawn they felt safe"
+                under:
+                  - s: "de que no los hallarían"
+                    r: "safe of what: that they would not be found"
+                    under:
+                      - {s: "aunque los buscasen", r: "even if they were looked for"}
+        forms:
+          - {w: "la cual", f: "'which', feminine to match 'noche' in the previous sentence."}
+          - {w: "caminaron", f: "camin- + -aron → caminar (to travel), preterite, they. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron."}
+          - {w: "amanecer", f: "the infinitive amanecer (to dawn) used as a noun: 'the dawning'."}
+          - {w: "se tuvieron", f: "tuv- + -ieron → tenerse (to consider oneself), preterite, they. Irregular stem: tuve, tuviste, tuvo, tuvimos, tuvisteis, tuvieron."}
+          - {w: "seguros", f: "segur- + -os → seguro (safe), masculine plural to match the two men."}
+          - {w: "hallarían", f: "hallar + -ían → hallar (to find), conditional, they (people in general): 'would find'. The conditional is the whole infinitive + -ía, -ías, -ía, -íamos, -íais, -ían."}
+          - {w: "buscasen", f: "busc- + -asen → buscar (to look for), imperfect subjunctive (-se form), they. The -se form of -ar verbs: -ase, -ases, -ase, -ásemos, -aseis, -asen. 'aunque' + subjunctive = even if."}
+  - sentences:
+      - es: "Iba Sancho Panza sobre su jumento como un patriarca, con sus alforjas y su bota, y con mucho deseo de verse ya gobernador de la ínsula que su amo le había prometido."
+        literal: "Went Sancho Panza upon his donkey like a patriarch, with his saddlebags and his wineskin, and with much desire of seeing-himself already governor of the isle that his master to-him had promised."
+        ormsby: "Sancho rode on his ass like a patriarch, with his alforjas and bota, and longing to see himself soon governor of the island his master had promised him."
+        vocab:
+          - {w: "jumento", d: "donkey, ass"}
+          - {w: "patriarca", d: "patriarch, like an Old Testament elder: grave, comfortable, at ease"}
+          - {w: "alforjas", d: "saddlebags"}
+          - {w: "bota", d: "leather wine bag, drunk from by squirting"}
+          - {w: "amo", d: "master"}
+        diagram:
+          - s: "Iba"
+            r: "main verb: went, was riding"
+            under:
+              - {s: "Sancho Panza", r: "subject"}
+              - {s: "sobre su jumento", r: "on what: on his donkey"}
+              - {s: "como un patriarca", r: "how: like a patriarch"}
+              - {s: "con sus alforjas y su bota", r: "with what: saddlebags and wineskin"}
+              - s: "y con mucho deseo de verse ya gobernador de la ínsula"
+                r: "with what: longing to see himself governor of the isle"
+                under:
+                  - {s: "que su amo le había prometido", r: "describes 'ínsula': that his master had promised him"}
+        forms:
+          - {w: "Iba", f: "ir (to go), imperfect, he: 'was going'. ir's imperfect is irregular: iba, ibas, iba, íbamos, ibais, iban."}
+          - {w: "sus, su", f: "'his': plural 'sus' to match 'alforjas', singular 'su' to match 'bota', not the owner."}
+          - {w: "mucho", f: "masculine singular to match 'deseo'."}
+          - {w: "verse", f: "infinitive of ver (to see) + se (himself), after 'deseo de'."}
+          - {w: "le había prometido", f: "haber (había) + prometido, participle of prometer (to promise): pluperfect, he: 'had promised', + 'le' (to him). haber in the imperfect: había, habías, había, habíamos, habíais, habían."}
+        ormsby_note: "The bota is the leathern wine-bag which is as much a part of the Spanish wayfarer's paraphernalia as the alforjas. It cannot, of course, be properly translated 'bottle.'"
+      - es: "Acertó don Quijote a tomar la misma derrota y camino que el que él había tomado en su primer viaje, que fue por el campo de Montiel, por el cual caminaba con menos pesadumbre que la vez pasada, porque, por ser la hora de la mañana y herirles a soslayo los rayos del sol, no les fatigaban."
+        literal: "Happened Don Quijote to take the same route and road as that which he had taken in his first journey, which was through the Campo de Montiel, through which he-traveled with less grief than the time past, because, for being the hour of the morning and striking-them at slant the rays of the sun, not them they-tired."
+        ormsby: "Don Quixote decided upon taking the same route and road he had taken on his first journey, that over the Campo de Montiel, which he travelled with less discomfort than on the last occasion, for, as it was early morning and the rays of the sun fell on them obliquely, the heat did not distress them."
+        vocab:
+          - {w: "acertar a", d: "to happen to, chance to"}
+          - {w: "derrota", d: "route, course (a false friend: also 'defeat', but not here)"}
+          - {w: "campo de Montiel", d: "the Campo de Montiel, a high, bare plain in the southeast of La Mancha"}
+          - {w: "pesadumbre", d: "discomfort, heaviness, grief"}
+          - {w: "la vez pasada", d: "last time"}
+          - {w: "herir", d: "to strike (of light or sun); normally 'to wound'"}
+          - {w: "a soslayo", d: "slantwise, at an angle"}
+          - {w: "fatigar", d: "to tire, wear out"}
+        diagram:
+          - s: "Acertó don Quijote a tomar la misma derrota y camino"
+            r: "main verb: Don Quijote happened to take the same route"
+            under:
+              - s: "que el que él había tomado en su primer viaje"
+                r: "as which: as the one he had taken on his first journey"
+                under:
+                  - s: "que fue por el campo de Montiel"
+                    r: "describes the route: which went over the Campo de Montiel"
+                    under:
+                      - s: "por el cual caminaba con menos pesadumbre que la vez pasada"
+                        r: "describes 'campo': over which he traveled with less discomfort than last time"
+                        under:
+                          - s: "porque"
+                            r: "why"
+                            under:
+                              - {s: "por ser la hora de la mañana", r: "cause, 1: it being morning"}
+                              - {s: "y herirles a soslayo los rayos del sol", r: "cause, 2: and the sun's rays striking them slantwise"}
+                              - {s: "no les fatigaban", r: "result: they did not tire them"}
+        forms:
+          - {w: "Acertó", f: "acert- + -ó → acertar (to happen to), preterite, he. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron."}
+          - {w: "tomar", f: "infinitive of tomar (to take) after 'acertó a'."}
+          - {w: "misma", f: "mism- + -a → mismo (same), feminine to match 'derrota'."}
+          - {w: "el que", f: "'the one that', 'el' standing for 'camino'."}
+          - {w: "había tomado", f: "haber (había) + tomado, participle of tomar: pluperfect, he: 'had taken'. haber in the imperfect: había, habías, había, habíamos, habíais, habían."}
+          - {w: "primer", f: "primero clipped before a masculine singular noun, like un, algún, buen."}
+          - {w: "fue", f: "ser (to be), preterite, it: fui, fuiste, fue, fuimos, fuisteis, fueron."}
+          - {w: "el cual", f: "'which', masculine to match 'campo'."}
+          - {w: "caminaba", f: "camin- + -aba → caminar (to travel), imperfect, he. The imperfect of -ar verbs: -aba, -abas, -aba, -ábamos, -abais, -aban."}
+          - {w: "por ser", f: "por + infinitive of ser (to be): 'because it was'."}
+          - {w: "herirles", f: "herir (to strike) + les (them): infinitive after 'por', with its subject 'los rayos' after it."}
+          - {w: "les fatigaban", f: "fatig- + -aban → fatigar (to tire), imperfect, they (the rays), + 'les' (them). Same -aba imperfect. 'les' for 'them' as a direct object is leísmo."}
+        note: "On his first sally, in Chapter 2, he crossed the same plain at the height of a July day, and the sun nearly melted his brains. Now it is early morning, so the heat does not trouble them."
+      - es: "Dijo en esto Sancho Panza a su amo:"
+        literal: "Said at this Sancho Panza to his master:"
+        ormsby: "And now said Sancho Panza to his master,"
+        vocab:
+          - {w: "en esto", d: "at this point, just then"}
+          - {w: "amo", d: "master"}
+        diagram:
+          - s: "Dijo"
+            r: "main verb: said"
+            under:
+              - {s: "en esto", r: "when: just then"}
+              - {s: "Sancho Panza", r: "subject"}
+              - {s: "a su amo:", r: "to whom: to his master"}
+        forms:
+          - {w: "Dijo", f: "dij- + -o → decir (to say), preterite, he: dije, dijiste, dijo, dijimos, dijisteis, dijeron."}
+          - {w: "su", f: "'his', singular to match 'amo'."}
+  - sentences:
+      - es: "— Mire vuestra merced, señor caballero andante, que no se le olvide lo que de la ínsula me tiene prometido; que yo la sabré gobernar, por grande que sea."
+        literal: "— Look your grace, sir knight errant, that not itself to-you forget what of the isle to-me you-have promised; for I it will-know-how to-govern, for big that it-be."
+        ormsby: "“Your worship will take care, Señor Knight-errant, not to forget about the island you have promised me, for be it ever so big I’ll be equal to governing it.”"
+        vocab:
+          - {w: "mire vuestra merced que", d: "mind, your grace, that; take care that"}
+          - {w: "olvidársele a uno", d: "to slip someone's mind; 'no se le olvide' = don't let it slip your mind (the thing forgotten is the subject)"}
+          - {w: "tener prometido", d: "to have promised (tener + participle stresses the promise stands)"}
+          - {w: "saber + infinitive", d: "to know how to"}
+          - {w: "por ... que", d: "however ...: 'por grande que sea' = however big it may be"}
+        diagram:
+          - s: "Mire vuestra merced"
+            r: "main verb: mind, your grace"
+            under:
+              - {s: "señor caballero andante", r: "whom he is addressing: sir knight-errant"}
+              - s: "que no se le olvide lo"
+                r: "what to mind: that you don't forget what"
+                under:
+                  - {s: "que de la ínsula me tiene prometido", r: "describes 'lo': what you have promised me about the isle"}
+          - s: "que yo la sabré gobernar"
+            r: "main verb 2, after a loose 'que' = 'for': I'll know how to govern it"
+            under:
+              - {s: "por grande que sea", r: "concession: however big it is"}
+        forms:
+          - {w: "Mire", f: "mir- + -e → mirar (to look, mind), present subjunctive, you (vuestra merced), as a polite command. The present subjunctive of -ar verbs: -e, -es, -e, -emos, -éis, -en."}
+          - {w: "se le olvide", f: "olvid- + -e → olvidar (to forget), present subjunctive, it, with 'se' + 'le' (to you): 'that it not slip your mind'. Same -e subjunctive, needed after 'mire que' as a warning."}
+          - {w: "tiene prometido", f: "tien- + -e → tener (to have), present, you (vuestra merced), + prometido, participle of prometer (to promise): 'you have promised'. tengo, tienes, tiene, tenemos, tenéis, tienen."}
+          - {w: "la sabré gobernar", f: "sabr- + -é → saber (to know how), future, I, + gobernar (to govern) + 'la' (it, the ínsula, feminine) placed before both verbs. saber's future has the short stem sabr-: sabré, sabrás, sabrá, sabremos, sabréis, sabrán."}
+          - {w: "sea", f: "se- + -a → ser (to be), present subjunctive, it: sea, seas, sea, seamos, seáis, sean. 'por ... que' (however) takes the subjunctive."}
+        note: "Sancho's first words in the book are about the island. He calls his master 'vuestra merced' and 'señor', a servant's courtesy, and has already caught the language of chivalry."
+  - sentences:
+      - es: "A lo cual le respondió don Quijote:"
+        literal: "To the which to-him answered Don Quijote:"
+        ormsby: "To which Don Quixote replied,"
+        vocab:
+          - {w: "a lo cual", d: "to which"}
+        diagram:
+          - s: "le respondió"
+            r: "main verb: answered him"
+            under:
+              - {s: "A lo cual", r: "to what: to which"}
+              - {s: "don Quijote", r: "subject"}
+        forms:
+          - {w: "lo cual", f: "neuter 'which', pointing back to everything Sancho said."}
+          - {w: "le respondió", f: "respond- + -ió → responder (to answer), preterite, he, + 'le' (to him). The preterite of -er and -ir verbs: -í, -iste, -ió, -imos, -isteis, -ieron."}
+  - sentences:
+      - es: "— Has de saber, amigo Sancho Panza, que fue costumbre muy usada de los caballeros andantes antiguos hacer gobernadores a sus escuderos de las ínsulas o reinos que ganaban, y yo tengo determinado de que por mí no falte tan agradecida usanza; antes, pienso aventajarme en ella:"
+        literal: "— You-have to know, friend Sancho Panza, that [it] was custom very used of the knights errant ancient to-make governors to their squires of the isles or kingdoms that they-won, and I have determined of that by me not be-lacking so grateful usage; rather, I-intend to-outdo-myself in it:"
+        ormsby: "“Thou must know, friend Sancho Panza, that it was a practice very much in vogue with the knights-errant of old to make their squires governors of the islands or kingdoms they won, and I am determined that there shall be no failure on my part in so liberal a custom; on the contrary, I mean to improve upon it,"
+        vocab:
+          - {w: "haber de", d: "to have to, must; 'has de saber' = you must know"}
+          - {w: "usado", d: "customary, common, in use"}
+          - {w: "tener determinado", d: "to have decided (tener + participle)"}
+          - {w: "faltar", d: "to be lacking, fail"}
+          - {w: "agradecido", d: "here: generous, rewarding (literally 'grateful')"}
+          - {w: "usanza", d: "custom, usage"}
+          - {w: "antes", d: "here: on the contrary, rather"}
+          - {w: "aventajarse en", d: "to outdo, go further in"}
+        diagram:
+          - s: "Has de saber"
+            r: "main verb 1: you must know"
+            under:
+              - {s: "amigo Sancho Panza", r: "whom he is addressing"}
+              - s: "que fue costumbre muy usada de los caballeros andantes antiguos"
+                r: "what to know: that it was a common custom of the old knights-errant"
+                under:
+                  - s: "hacer gobernadores a sus escuderos de las ínsulas o reinos"
+                    r: "what the custom was: to make their squires governors of the isles or kingdoms"
+                    under:
+                      - {s: "que ganaban", r: "describes 'ínsulas o reinos': that they won"}
+          - s: "y yo tengo determinado"
+            r: "main verb 2: and I have decided"
+            under:
+              - {s: "de que por mí no falte tan agradecida usanza", r: "what: that so generous a custom shall not fail through me"}
+          - s: "antes, pienso aventajarme en ella:"
+            r: "main verb 3: on the contrary, I mean to outdo it"
+        forms:
+          - {w: "Has de saber", f: "haber (has) + 'de' + saber (to know): 'you are to know'. haber in the present: he, has, ha, hemos, habéis, han. He uses 'tú' to Sancho, as a master to a servant."}
+          - {w: "fue", f: "ser (to be), preterite, it: fui, fuiste, fue, fuimos, fuisteis, fueron."}
+          - {w: "usada", f: "usad- + -a → usado (customary), feminine to match 'costumbre'."}
+          - {w: "antiguos", f: "antigu- + -os → antiguo (ancient), masculine plural to match 'caballeros'."}
+          - {w: "hacer", f: "infinitive of hacer (to make), explaining what the custom was."}
+          - {w: "a sus escuderos", f: "the 'a' marks people as the direct object; 'sus' plural to match 'escuderos'."}
+          - {w: "ganaban", f: "gan- + -aban → ganar (to win), imperfect, they. The imperfect of -ar verbs: -aba, -abas, -aba, -ábamos, -abais, -aban."}
+          - {w: "tengo determinado", f: "teng- + -o → tener (to have), present, I, + determinado, participle of determinar (to decide): 'I have decided'. tengo, tienes, tiene, tenemos, tenéis, tienen."}
+          - {w: "falte", f: "falt- + -e → faltar (to be lacking), present subjunctive, it. The present subjunctive of -ar verbs: -e, -es, -e, -emos, -éis, -en. Subjunctive after a decision about the future."}
+          - {w: "agradecida", f: "agradecid- + -a → agradecido, feminine to match 'usanza'."}
+          - {w: "pienso", f: "piens- + -o → pensar (to intend), present, I. The stem e becomes ie when stressed: pienso, piensas, piensa, pensamos, pensáis, piensan."}
+          - {w: "aventajarme", f: "aventajar (to outdo) + me (myself), infinitive after 'pienso'."}
+          - {w: "ella", f: "'it' (the usanza), feminine, after a preposition."}
+        ormsby_note: "Amadís, for instance, made his squire Gandalin governor of the Insula Firme."
+      - es: "porque ellos algunas veces, y quizá las más, esperaban a que sus escuderos fuesen viejos;"
+        literal: "because they some times, and perhaps the most, waited for that their squires should-be old;"
+        ormsby: "for they sometimes, and perhaps most frequently, waited until their squires were old,"
+        vocab:
+          - {w: "las más", d: "most times, mostly ('las más [veces]')"}
+          - {w: "esperar a que", d: "to wait until (+ subjunctive)"}
+        diagram:
+          - s: "esperaban"
+            r: "main verb: they waited"
+            under:
+              - {s: "porque", r: "why: this is why he can do better"}
+              - {s: "ellos", r: "subject: the old knights"}
+              - {s: "algunas veces, y quizá las más", r: "how often: sometimes, perhaps mostly"}
+              - {s: "a que sus escuderos fuesen viejos", r: "until when: until their squires were old"}
+        forms:
+          - {w: "algunas", f: "algun- + -as → alguno (some), feminine plural to match 'veces'."}
+          - {w: "las más", f: "feminine plural, 'veces' understood: 'most times'."}
+          - {w: "esperaban", f: "esper- + -aban → esperar (to wait), imperfect, they. The imperfect of -ar verbs: -aba, -abas, -aba, -ábamos, -abais, -aban."}
+          - {w: "fuesen", f: "fue- + -sen → ser (to be), imperfect subjunctive (-se form), they. Built on the preterite fueron: fuese, fueses, fuese, fuésemos, fueseis, fuesen. 'esperar a que' takes the subjunctive."}
+          - {w: "viejos", f: "viej- + -os → viejo (old), masculine plural to match 'escuderos'."}
+      - es: "y, ya después de hartos de servir y de llevar malos días y peores noches, les daban algún título de conde, o, por lo mucho, de marqués, de algún valle o provincia de poco más a menos;"
+        literal: "and, already after [being] sick of serving and of bearing bad days and worse nights, to-them they-gave some title of count, or, at the most, of marquis, of some valley or province of little more to less;"
+        ormsby: "and then when they had had enough of service and hard days and worse nights, they gave them some title or other, of count, or at the most marquis, of some valley or province more or less;"
+        vocab:
+          - {w: "harto de", d: "fed up with, having had one's fill of"}
+          - {w: "llevar", d: "here: to bear, put up with"}
+          - {w: "conde", d: "count, earl"}
+          - {w: "por lo mucho", d: "at the most"}
+          - {w: "marqués", d: "marquis"}
+          - {w: "de poco más a menos", d: "of little account, paltry (a variant of 'de poco más o menos')"}
+        diagram:
+          - s: "les daban"
+            r: "main verb: they gave them"
+            under:
+              - {s: "ya después de hartos de servir y de llevar malos días y peores noches", r: "when: once [the squires were] worn out with serving and bad days and worse nights"}
+              - s: "algún título de conde"
+                r: "object: some title of count"
+                under:
+                  - {s: "o, por lo mucho, de marqués", r: "or at most of marquis"}
+                  - {s: "de algún valle o provincia de poco más a menos", r: "of where: of some paltry valley or province"}
+        forms:
+          - {w: "hartos", f: "hart- + -os → harto (fed up), masculine plural to match the squires."}
+          - {w: "servir, llevar", f: "infinitives of servir (to serve) and llevar (to bear) after 'de'."}
+          - {w: "malos, peores", f: "masculine plural of malo (bad) and peor (worse), placed before 'días' and 'noches'; peor has one form for both genders."}
+          - {w: "les daban", f: "d- + -aban → dar (to give), imperfect, they, + 'les' (to them). The imperfect of -ar verbs: -aba, -abas, -aba, -ábamos, -abais, -aban."}
+          - {w: "algún", f: "alguno clipped before a masculine singular noun ('título', 'valle'), like un, ningún, buen, primer."}
+      - es: "pero, si tú vives y yo vivo, bien podría ser que antes de seis días ganase yo tal reino que tuviese otros a él adherentes, que viniesen de molde para coronarte por rey de uno dellos."
+        literal: "but, if you live and I live, well it-could be that before six days I-might-win I such kingdom that might-have others to it attached, that might-come of mold to crown-you as king of one of-them."
+        ormsby: "but if thou livest and I live, it may well be that before six days are over, I may have won some kingdom that has others dependent upon it, which will be just the thing to enable thee to be crowned king of one of them."
+        vocab:
+          - {w: "bien podría ser", d: "it could well be"}
+          - {w: "adherente a", d: "attached to, dependent on"}
+          - {w: "venir de molde", d: "to be just right, fit perfectly (literally 'come out of the mold')"}
+          - {w: "coronar", d: "to crown"}
+          - {w: "dellos", d: "= de ellos, 'of them'"}
+        diagram:
+          - s: "bien podría ser"
+            r: "main verb: it could well be"
+            under:
+              - {s: "si tú vives y yo vivo", r: "condition: if you and I live"}
+              - s: "que antes de seis días ganase yo tal reino"
+                r: "what could be: that within six days I win such a kingdom"
+                under:
+                  - s: "que tuviese otros a él adherentes"
+                    r: "result of 'tal': that it would have others attached to it"
+                    under:
+                      - {s: "que viniesen de molde para coronarte por rey de uno dellos", r: "describes 'otros': that would be just right for crowning you king of one of them"}
+        forms:
+          - {w: "vives, vivo", f: "viv- + -es / -o → vivir (to live), present, you (tú) and I. The present of -ir verbs: -o, -es, -e, -imos, -ís, -en."}
+          - {w: "podría", f: "podr- + -ía → poder (to be able), conditional, it: 'could'. Short stem podr-: podría, podrías, podría, podríamos, podríais, podrían."}
+          - {w: "ganase", f: "gan- + -ase → ganar (to win), imperfect subjunctive (-se form), I. The -se form of -ar verbs: -ase, -ases, -ase, -ásemos, -aseis, -asen. Subjunctive after 'podría ser que'."}
+          - {w: "tuviese", f: "tuv- + -iese → tener (to have), imperfect subjunctive (-se), it. Built on the preterite tuvieron: tuviese, tuvieses, tuviese, tuviésemos, tuvieseis, tuviesen."}
+          - {w: "adherentes", f: "adherente + -s → plural to match 'otros'."}
+          - {w: "viniesen", f: "vin- + -iesen → venir (to come), imperfect subjunctive (-se), they. Built on vinieron: viniese, vinieses, viniese, viniésemos, vinieseis, viniesen."}
+          - {w: "coronarte", f: "coronar (to crown) + te (you), infinitive after 'para'."}
+          - {w: "dellos", f: "de + ellos (of them)."}
+      - es: "Y no lo tengas a mucho, que cosas y casos acontecen a los tales caballeros, por modos tan nunca vistos ni pensados, que con facilidad te podría dar aún más de lo que te prometo."
+        literal: "And not it hold at much, for things and cases happen to the such knights, by ways so never seen nor thought-of, that with ease to-you I-could give even more than what to-you I-promise."
+        ormsby: "Nor needst thou count this wonderful, for things and chances fall to the lot of such knights in ways so unexampled and unexpected that I might easily give thee even more than I promise thee.”"
+        vocab:
+          - {w: "tener a mucho", d: "to think a great deal of, find remarkable"}
+          - {w: "caso", d: "event, happening"}
+          - {w: "acontecer", d: "to happen, befall"}
+          - {w: "los tales", d: "such, these kinds of"}
+          - {w: "nunca visto", d: "unheard-of, unprecedented (literally 'never seen')"}
+          - {w: "con facilidad", d: "easily"}
+          - {w: "más de lo que", d: "more than what"}
+        diagram:
+          - s: "Y no lo tengas a mucho"
+            r: "main verb: and don't think it much"
+          - s: "que cosas y casos acontecen a los tales caballeros"
+            r: "loose 'que' = 'for': things and events befall such knights"
+            under:
+              - s: "por modos tan nunca vistos ni pensados"
+                r: "how: in ways so unheard-of and unthought-of"
+                under:
+                  - {s: "que con facilidad te podría dar aún más de lo que te prometo", r: "result: that I could easily give you even more than I promise"}
+        forms:
+          - {w: "no lo tengas", f: "teng- + -as → tener (to have, hold), present subjunctive, you (tú): a negative command always uses the subjunctive. Built on 'tengo': tenga, tengas, tenga, tengamos, tengáis, tengan. 'lo' = it."}
+          - {w: "acontecen", f: "aconte- + -cen → acontecer (to happen), present, they (things and events). The present of -er verbs: -o, -es, -e, -emos, -éis, -en."}
+          - {w: "los tales", f: "the article + tal: 'such'; tales is plural to match 'caballeros'."}
+          - {w: "vistos, pensados", f: "participles of ver (to see; irregular 'visto') and pensar (to think), masculine plural to match 'modos'."}
+          - {w: "podría", f: "podr- + -ía → poder (to be able), conditional, I: 'I could'. podría, podrías, podría, podríamos, podríais, podrían."}
+          - {w: "te", f: "to you (tú)."}
+          - {w: "prometo", f: "promet- + -o → prometer (to promise), present, I. The present of -er verbs: -o, -es, -e, -emos, -éis, -en."}
+        note: "Don Quijote's promises follow the logic of his books, where kingdoms change hands in a single combat. Six days is his estimate."
+  - sentences:
+      - es: "— De esa manera —respondió Sancho Panza—, si yo fuese rey por algún milagro de los que vuestra merced dice, por lo menos, Juana Gutiérrez, mi oíslo, vendría a ser reina, y mis hijos infantes."
+        literal: "— In that manner —answered Sancho Panza—, if I were king by some miracle of those that your grace says, at the least, Juana Gutiérrez, my missus, would-come to be queen, and my children princes."
+        ormsby: "“In that case,” said Sancho Panza, “if I should become a king by one of those miracles your worship speaks of, even Juana Gutierrez, my old woman, would come to be queen and my children infantes.”"
+        vocab:
+          - {w: "de esa manera", d: "in that case, that way"}
+          - {w: "milagro", d: "miracle"}
+          - {w: "por lo menos", d: "at least"}
+          - {w: "oíslo", d: "wife, 'my old woman'; a rustic pet name for a wife"}
+          - {w: "venir a ser", d: "to come to be, end up as"}
+          - {w: "infantes", d: "princes and princesses, the king's children who are not heirs to the throne"}
+        diagram:
+          - s: "vendría a ser reina"
+            r: "main verb: would come to be queen"
+            under:
+              - {s: "De esa manera", r: "in that case"}
+              - {s: "respondió Sancho Panza", r: "speech tag: answered Sancho Panza"}
+              - s: "si yo fuese rey por algún milagro"
+                r: "condition: if I were king by some miracle"
+                under:
+                  - {s: "de los que vuestra merced dice", r: "describes 'milagro': of the kind your grace speaks of"}
+              - {s: "por lo menos", r: "at least"}
+              - {s: "Juana Gutiérrez, mi oíslo", r: "subject: Juana Gutiérrez, my missus"}
+              - {s: "y mis hijos infantes", r: "second subject, verb understood: and my children [would be] princes"}
+        forms:
+          - {w: "respondió", f: "respond- + -ió → responder (to answer), preterite, he. The preterite of -er and -ir verbs: -í, -iste, -ió, -imos, -isteis, -ieron."}
+          - {w: "fuese", f: "fue- + -se → ser (to be), imperfect subjunctive (-se form), I. Built on the preterite fueron: fuese, fueses, fuese, fuésemos, fueseis, fuesen. After 'si' it marks a condition unlikely to happen."}
+          - {w: "algún", f: "alguno clipped before a masculine singular noun."}
+          - {w: "dice", f: "dic- + -e → decir (to say), present, you (vuestra merced). The e in the stem becomes i: digo, dices, dice, decimos, decís, dicen."}
+          - {w: "vendría", f: "vendr- + -ía → venir (to come), conditional, she. Short stem vendr-: vendría, vendrías, vendría, vendríamos, vendríais, vendrían."}
+          - {w: "mis", f: "'my', plural to match 'hijos'."}
+        ormsby_note: "Mi oislo, a sort of pet-name for a wife in old Spanish among the lower orders: 'Acuerda de su oislo Mirando en pobre casa.'"
+        note: "Sancho's wife is called Juana Gutiérrez here and Mari Gutiérrez a few lines later: Cervantes was careless with the name."
+  - sentences:
+      - es: "— Pues, ¿quién lo duda? —respondió don Quijote."
+        literal: "— Well, who it doubts? —answered Don Quijote."
+        ormsby: "“Well, who doubts it?” said Don Quixote."
+        vocab:
+          - {w: "pues", d: "well (a filler at the start of a reply)"}
+          - {w: "dudar", d: "to doubt"}
+        diagram:
+          - s: "quién lo duda"
+            r: "main verb: who doubts it?"
+          - {s: "respondió don Quijote", r: "speech tag: answered Don Quijote"}
+        forms:
+          - {w: "quién", f: "'who', with an accent because it asks a question."}
+          - {w: "lo duda", f: "dud- + -a → dudar (to doubt), present, he (whoever), + 'lo' (it). The present of -ar verbs: -o, -as, -a, -amos, -áis, -an."}
+          - {w: "respondió", f: "respond- + -ió → responder (to answer), preterite, he. The preterite of -er and -ir verbs: -í, -iste, -ió, -imos, -isteis, -ieron."}
+  - sentences:
+      - es: "— Yo lo dudo —replicó Sancho Panza—; porque tengo para mí que, aunque lloviese Dios reinos sobre la tierra, ninguno asentaría bien sobre la cabeza de Mari Gutiérrez."
+        literal: "— I it doubt —replied Sancho Panza—; because I-hold for me that, even-if rained God kingdoms upon the earth, none would-sit well upon the head of Mari Gutiérrez."
+        ormsby: "“I doubt it,” replied Sancho Panza, “because for my part I am persuaded that though God should shower down kingdoms upon earth, not one of them would fit the head of Mari Gutierrez."
+        vocab:
+          - {w: "tener para sí", d: "to be of the opinion, believe privately"}
+          - {w: "llover", d: "to rain; here transitive, 'to rain down'"}
+          - {w: "asentar", d: "to sit, fit (of a crown on a head)"}
+          - {w: "Mari", d: "short, familiar form of María"}
+        diagram:
+          - {s: "Yo lo dudo", r: "main verb 1: I doubt it"}
+          - {s: "replicó Sancho Panza", r: "speech tag: replied Sancho Panza"}
+          - s: "porque tengo para mí"
+            r: "why: because I believe"
+            under:
+              - s: "ninguno asentaría bien sobre la cabeza de Mari Gutiérrez"
+                r: "what I believe: none would sit well on Mari Gutiérrez's head"
+                under:
+                  - {s: "aunque lloviese Dios reinos sobre la tierra", r: "concession: even if God rained kingdoms on the earth"}
+        forms:
+          - {w: "dudo", f: "dud- + -o → dudar (to doubt), present, I. The present of -ar verbs: -o, -as, -a, -amos, -áis, -an."}
+          - {w: "replicó", f: "replic- + -ó → replicar (to reply), preterite, he. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron."}
+          - {w: "tengo", f: "teng- + -o → tener (to have, hold), present, I: tengo, tienes, tiene, tenemos, tenéis, tienen."}
+          - {w: "mí", f: "'me' after a preposition, with an accent (without it, 'mi' = my)."}
+          - {w: "lloviese", f: "llov- + -iese → llover (to rain), imperfect subjunctive (-se form), he (God). Built on the preterite llovieron: lloviese, llovieses, lloviese, lloviésemos, llovieseis, lloviesen. 'aunque' + subjunctive = even if."}
+          - {w: "ninguno", f: "'none', masculine to match 'reino'."}
+          - {w: "asentaría", f: "asentar + -ía → asentar (to sit, fit), conditional, it. The conditional is the whole infinitive + -ía, -ías, -ía, -íamos, -íais, -ían."}
+      - es: "Sepa, señor, que no vale dos maravedís para reina; condesa le caerá mejor, y aun Dios y ayuda."
+        literal: "Know, sir, that not she-is-worth two maravedís for queen; countess to-her will-fall better, and even God and help."
+        ormsby: "Let me tell you, señor, she is not worth two maravedis for a queen; countess will fit her better, and that only with God’s help.”"
+        vocab:
+          - {w: "valer", d: "to be worth"}
+          - {w: "maravedí", d: "the smallest Spanish copper coin; 'no vale dos maravedís' = she isn't worth tuppence"}
+          - {w: "condesa", d: "countess"}
+          - {w: "caer bien", d: "to suit, fit (literally 'fall well')"}
+          - {w: "y aun Dios y ayuda", d: "and even that with God's help; from 'ser menester Dios y ayuda', to need God's help to manage something"}
+        diagram:
+          - s: "Sepa, señor"
+            r: "main verb 1: know, sir"
+            under:
+              - {s: "que no vale dos maravedís para reina", r: "what to know: she isn't worth two coppers as a queen"}
+          - s: "condesa le caerá mejor"
+            r: "main verb 2: countess will suit her better"
+            under:
+              - {s: "y aun Dios y ayuda", r: "and even then with God's help"}
+        forms:
+          - {w: "Sepa", f: "sep- + -a → saber (to know), present subjunctive, you (vuestra merced, understood), as a polite command: 'know that'. Irregular: sepa, sepas, sepa, sepamos, sepáis, sepan."}
+          - {w: "vale", f: "val- + -e → valer (to be worth), present, she. The present of -er verbs: -o, -es, -e, -emos, -éis, -en (the 'I' form is 'valgo')."}
+          - {w: "maravedís", f: "plural of maravedí; words ending in stressed -í add -s (or -es)."}
+          - {w: "le caerá", f: "caer + -á → caer (to fall, suit), future, it, + 'le' (to her). The future is the whole infinitive + -é, -ás, -á, -emos, -éis, -án."}
+          - {w: "mejor", f: "'better', the comparative of bien; one form for all genders."}
+        note: "Sancho's objection is not to the kingdom but to his wife's fitness for it: a peasant's realism set against his master's fantasy, the pattern of all their talk to come."
+  - sentences:
+      - es: "— Encomiéndalo tú a Dios, Sancho —respondió don Quijote—, que Él dará lo que más le convenga, pero no apoques tu ánimo tanto, que te vengas a contentar con menos que con ser adelantado."
+        literal: "— Commend-it you to God, Sancho —answered Don Quijote—, for He will-give what most to-her may-suit, but not belittle your spirit so-much, that yourself you-come to content with less than with being governor."
+        ormsby: "“Leave it to God, Sancho,” returned Don Quixote, “for he will give her what suits her best; but do not undervalue thyself so much as to come to be content with anything less than being governor of a province.”"
+        vocab:
+          - {w: "encomendar", d: "to commend, entrust"}
+          - {w: "convenir", d: "to suit, be right for"}
+          - {w: "apocar", d: "to belittle, make small"}
+          - {w: "ánimo", d: "spirit, ambition, courage"}
+          - {w: "contentarse con", d: "to be content with, settle for"}
+          - {w: "adelantado", d: "governor of a frontier province, a high royal office"}
+        diagram:
+          - s: "Encomiéndalo tú a Dios, Sancho"
+            r: "main verb 1: commend it to God, Sancho"
+            under:
+              - {s: "respondió don Quijote", r: "speech tag: answered Don Quijote"}
+              - s: "que Él dará lo"
+                r: "loose 'que' = 'for': He will give what"
+                under:
+                  - {s: "que más le convenga", r: "describes 'lo': what suits her best"}
+          - s: "pero no apoques tu ánimo tanto"
+            r: "main verb 2: but don't lower your sights so much"
+            under:
+              - {s: "que te vengas a contentar con menos que con ser adelantado", r: "result: that you settle for less than being a governor"}
+        forms:
+          - {w: "Encomiéndalo", f: "encomiend- + -a + lo → encomendar (to commend), command, you (tú), with 'lo' (it) on the end and an accent added. The stem e becomes ie when stressed. The tú command of -ar verbs is the same as the he/she present: encomienda. Pronouns attach to the end of a positive command."}
+          - {w: "dará", f: "dar + -á → dar (to give), future, he (God). The future is the whole infinitive + -é, -ás, -á, -emos, -éis, -án."}
+          - {w: "convenga", f: "conveng- + -a → convenir (to suit), present subjunctive, it, + 'le' (to her). Built on 'convengo' (like venir): convenga, convengas, convenga, convengamos, convengáis, convengan. Subjunctive because 'what suits her' is not yet known."}
+          - {w: "no apoques", f: "apoqu- + -es → apocar (to belittle), present subjunctive, you (tú), as a negative command; c becomes qu before e. The present subjunctive of -ar verbs: -e, -es, -e, -emos, -éis, -en."}
+          - {w: "te vengas", f: "veng- + -as → venir (to come), present subjunctive, you (tú), with 'te': 'venir a' + infinitive = to end up doing. Built on 'vengo': venga, vengas, venga, vengamos, vengáis, vengan."}
+          - {w: "contentar", f: "infinitive of contentarse (to settle for) after 'venir a'; its 'se' appears as 'te' on vengas."}
+          - {w: "ser", f: "infinitive of ser (to be) after 'con'."}
+  - sentences:
+      - es: "— No lo haré, señor mío —respondió Sancho—; y más teniendo tan principal amo en vuestra merced, que me sabrá dar todo aquello que me esté bien y yo pueda llevar."
+        literal: "— Not it I-will-do, sir of-mine —answered Sancho—; and more having so principal master in your grace, who to-me will-know-how to-give all that which to-me may-be good and I may-be-able to-bear."
+        ormsby: "“I will not, señor,” answered Sancho, “specially as I have a man of such quality for a master in your worship, who will know how to give me all that will be suitable for me and that I can bear.”"
+        vocab:
+          - {w: "señor mío", d: "my lord, sir"}
+          - {w: "y más", d: "especially, all the more"}
+          - {w: "principal", d: "distinguished, of high rank"}
+          - {w: "estarle bien a uno", d: "to be good for someone, suit someone"}
+          - {w: "llevar", d: "here: to bear, carry, manage"}
+        diagram:
+          - s: "No lo haré, señor mío"
+            r: "main verb: I won't, sir"
+            under:
+              - {s: "respondió Sancho", r: "speech tag: answered Sancho"}
+              - s: "y más teniendo tan principal amo en vuestra merced"
+                r: "why: especially having so fine a master in your grace"
+                under:
+                  - s: "que me sabrá dar todo aquello"
+                    r: "describes 'amo': who will know how to give me all that"
+                    under:
+                      - {s: "que me esté bien y yo pueda llevar", r: "describes 'aquello': which suits me and I can carry"}
+        forms:
+          - {w: "haré", f: "har- + -é → hacer (to do), future, I. Irregular stem har-: haré, harás, hará, haremos, haréis, harán."}
+          - {w: "mío", f: "'my', the full possessive after the noun, masculine to match 'señor'."}
+          - {w: "respondió", f: "respond- + -ió → responder (to answer), preterite, he. The preterite of -er and -ir verbs: -í, -iste, -ió, -imos, -isteis, -ieron."}
+          - {w: "teniendo", f: "ten- + -iendo → gerund of tener (to have): 'having'."}
+          - {w: "sabrá", f: "sabr- + -á → saber (to know how), future, you (vuestra merced). Short stem sabr-: sabré, sabrás, sabrá, sabremos, sabréis, sabrán."}
+          - {w: "dar", f: "infinitive of dar (to give) after 'sabrá'."}
+          - {w: "aquello", f: "neuter 'that', for things not named."}
+          - {w: "esté", f: "est- + -é → estar (to be), present subjunctive, it: esté, estés, esté, estemos, estéis, estén. Subjunctive because the things are not yet known."}
+          - {w: "pueda", f: "pued- + -a → poder (to be able), present subjunctive, I. The o in the stem becomes ue when stressed: pueda, puedas, pueda, podamos, podáis, puedan."}
+          - {w: "llevar", f: "infinitive of llevar (to bear) after 'pueda'."}
+        note: "Sancho's closing line is humbler than it looks: he wants what is good for him and what he can carry, a peasant's measure of fortune."
+summary: |
+  The priest and the barber are still weeding out Don Quijote's library when he wakes up shouting, dreaming he is fighting in a tournament. In the rush to calm him, the remaining books are burned unexamined. He takes the priest for Archbishop Turpin and himself for one of Charlemagne's peers, claims Roland has beaten him with an oak trunk, and asks for food. That night the housekeeper burns every book in the house.
+
+  To remove the cause of his madness, his friends wall up his library and tell him an enchanter took it. When he gets up he gropes for the missing door. The niece and the housekeeper describe a wizard on a cloud and a serpent who flew off through the roof leaving smoke, and whose name ended in '-tón'. Don Quijote recognizes his enemy, the sage Frestón. The niece begs him to stay home; he answers with threats to anyone who touches a hair of his head.
+
+  For two weeks he seems calm, debating the need for knights-errant with the priest and barber. Meanwhile he persuades a poor, honest, not very bright neighbor, Sancho Panza, to be his squire, promising him the governorship of an island. He raises money, borrows a shield, patches his helmet and, following the innkeeper's advice, packs shirts. Sancho insists on bringing his donkey, which troubles Don Quijote, since no squire in the books rode one.
+
+  One night they slip away without saying goodbye to anyone. On the road across the Campo de Montiel, Sancho reminds his master of the island. Don Quijote promises him a kingdom within six days. Sancho doubts his wife would do as a queen, perhaps as a countess; Don Quijote tells him not to settle for less than a governorship.
+context: |
+  The book-burning. Chapters 6 and 7 stage the destruction of the library as a legal trial: the 'escrutinio', the 'sentencia', books condemned 'sin ser oídos'. Book-burning in Spain inevitably called up the Inquisition, which burned forbidden books, but the priest's tribunal is literary, not religious. The books named at the start of this chapter are not romances at all but patriotic epic poems on Charles V and the city of León (Ormsby identifies them). The narrator hints that the careless 'escrutiñador' let some good books burn with the bad: 'the just pay for sinners'.
+
+  The Carolingian cycle. In his waking dream Don Quijote becomes Reinaldos de Montalbán, one of Charlemagne's Twelve Peers, fighting at a tournament and quarreling with his rival Roldán (Roland). This material came to Spain from French epic and Italian poems (Boiardo, Ariosto) and from Spanish ballads. Roland was invulnerable by enchantment, which is why Don Quijote swears revenge 'in spite of all his spells'. Archbishop Turpin was the Peers' warrior-priest and supposed chronicler, a neat part for the village priest.
+
+  Enchanters. In the romances every hero has a friendly sage who records his deeds and an enemy magician who harasses him. Fristón (Cervantes writes Frestón) was the magician claimed as author of Belianís de Grecia. The walled-up room gives Don Quijote the explanation he will fall back on for the rest of the novel: whatever goes wrong is the work of enchanters. The niece and housekeeper, who hate the books, invent a story straight out of them, with its cloud, serpent and smoke.
+
+  The squire. Squires in the romances were young gentlemen in training who could expect a reward; Amadís made his squire Gandalín governor of an island (Ormsby's note). Sancho is instead a married farmhand with children, poor, honest and shrewd, and he rides a donkey, the mount of peasants and clowns, which has no place in the romances. His name means 'belly'. The pair, the tall thin master on his nag and the squire on his donkey with wineskin and saddlebags, is born in this chapter.
+
+  Money, rank and titles. Don Quijote finances the sally the way ruined gentry did, selling and pawning at a loss. His promises move up the scale of Spanish titles: ínsula, governor, count, marquis, king, and Sancho's children as 'infantes', the royal princes. The 'adelantado' was the royal governor of a frontier province. Sancho's reply is in money: his wife is not worth two maravedís (the smallest copper coin) as a queen.
+
+  Proverbs. This chapter brings in the proverbs that Sancho will later pour out: 'the just pay for sinners', 'what is lost today is won tomorrow', 'to look for bread better than wheat', 'many go for wool and come back shorn'. Ormsby numbers them in his list of proverbs; the niece uses two of them together, and Don Quijote answers the last one by turning it round.
+
+  The Spanish of this chapter. Old spellings: vitoria (victoria), efeto (efecto), agora (ahora), ansí (así), asimesmo and ansimesmo (asimismo), mesmo (mismo), duecho (ducho), tresquilado (trasquilado), and the old f- in ferido and malferido (herido). Contractions: deste, della, dellos. Pronouns hung on the end of a verb that opens its clause: Abrazáronse, Hiciéronlo, diéronle, quedóse, tentábala, Decíale, Acomodóse, Proveyóse, mándole. The future subjunctive, dead in modern Spanish, appears twice (pagare, imaginaren), and 'tener de' and 'haber de' stand where modern Spanish says 'tener que'. Notice too the address: Don Quijote says 'tú' to Sancho and his niece, who both call him 'vuestra merced'.
