@@ -7,7 +7,7 @@ forms list that takes apart every conjugated or inflected word (stem + ending �
 dictionary form, tense, person). Each chapter ends with a summary and
 context note. Built for Kindle (pop-up footnotes) but standard EPUB3.
 
-Status: Part I, Chapters 1–11.
+Status: Part I, Chapters 1–32 and 35–38. Chapters 33, 34, 39 and 40 are partly done in `drafts/`.
 
 Read it in the browser: <https://frioux.github.io/don-quijote-anotado/> (the same EPUB, rendered with epub.js; tap a number for the note). The address bar follows the paragraph at the top of the page (`#p1c02-p5` is Part I, Chapter 2, paragraph 5), so you can copy it to link to any place in the book. The EPUB itself is built and published by GitHub Actions on every push.
 
@@ -30,6 +30,9 @@ The editorial rules for filling in a chapter are in ANNOTATING.md.
     tools/extract_chapter.py  slices a chapter out of the sources into a skeleton YAML
     tools/build_epub.py       YAML -> EPUB3
     tools/verify_text.py      YAML Spanish == Gutenberg Spanish
+    tools/lint_chapter.py     checks a chapter's notes are complete and follow ANNOTATING.md
+    tools/ormsby_text.py      prints Ormsby's chapter as plain text, with his notes
+    drafts/                   partly annotated chapters, not built
     tools/style.css           reader stylesheet
     tools/make_cover.py       makes assets/cover.jpg (Standard Ebooks' Daumier cover art + our title)
     assets/cover.jpg          the cover, committed

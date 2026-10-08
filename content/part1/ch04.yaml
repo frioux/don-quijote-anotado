@@ -778,7 +778,7 @@ paragraphs:
             under:
               - {s: "si le sacó el barbero sangre estando enfermo", r: "condition: if the barber bled him when he was sick"}
         forms:
-          - {w: "sacó", f: "sac- + -ó → sacar (to draw out), preterite, he (the barber). The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron (1st sg. 'saqué', qu keeping the hard c)."}
+          - {w: "sacó", f: "sac- + -ó → sacar (to draw out), preterite, he (the barber). The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron (the I-form is 'saqué', qu keeping the hard c)."}
           - {w: "le", f: "'from him', the person affected."}
           - {w: "estando", f: "est- + -ando → estar (to be), gerund: 'being [sick]'."}
           - {w: "se la", f: "'it (la sangre) from him': le becomes se before lo, la, los, las."}
@@ -1160,7 +1160,7 @@ paragraphs:
               - {s: "en breve espacio", r: "when: shortly"}
         forms:
           - {w: "diciendo", f: "dic- + -iendo → decir (to say), gerund; the stem e becomes i. 'en' + gerund = as soon as."}
-          - {w: "picó", f: "pic- + -ó → picar (to spur), preterite, he. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron (1st sg. 'piqué', qu keeping the hard c)."}
+          - {w: "picó", f: "pic- + -ó → picar (to spur), preterite, he. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron (the I-form is 'piqué', qu keeping the hard c)."}
           - {w: "se apartó", f: "apart- + -ó → apartarse (to move away), preterite, he, with 'se'. Same -ar preterite."}
           - {w: "dellos", f: "de + ellos (from them). Modern Spanish keeps only 'del'."}
       - es: "Siguióle el labrador con los ojos, y, cuando vio que había traspuesto del bosque y que ya no parecía, volvióse a su criado Andrés y díjole:"
@@ -1574,7 +1574,7 @@ paragraphs:
             under:
               - {s: "por imitarlos", r: "why: to imitate them"}
         forms:
-          - {w: "llegó", f: "lleg- + -ó → llegar (to arrive), preterite, he. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron (1st sg. 'llegué', gu keeping the hard g)."}
+          - {w: "llegó", f: "lleg- + -ó → llegar (to arrive), preterite, he. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron (the I-form is 'llegué', gu keeping the hard g)."}
           - {w: "se dividía", f: "divid- + -ía → dividirse (to split), imperfect, it. The imperfect of -er and -ir verbs: -ía, -ías, -ía, -íamos, -íais, -ían."}
           - {w: "se le vino", f: "vino → venir (to come; 'venírsele' = to come to someone), preterite, it, with 'se' and 'le' (to him). Irregular: vine, viniste, vino, vinimos, vinisteis, vinieron. Singular although 'encrucejadas' is plural: a verb placed before its subject is often left singular in Cervantes."}
           - {w: "se ponían", f: "pon- + -ían → ponerse a (to start to), imperfect, they: 'would set about'. Same -ía imperfect."}
@@ -1904,7 +1904,7 @@ paragraphs:
               - {s: "de buena gana y sin apremio alguno", r: "how: gladly and with no compulsion"}
               - {s: "que por parte vuestra nos es pedida", r: "describes 'verdad': that is demanded of us by you"}
         forms:
-          - {w: "conocemos", f: "conoc- + -emos → conocer (to know), present, we. The present of -er verbs: -o, -es, -e, -emos, -éis, -en (1st sg. 'conozco')."}
+          - {w: "conocemos", f: "conoc- + -emos → conocer (to know), present, we. The present of -er verbs: -o, -es, -e, -emos, -éis, -en (the I-form is 'conozco')."}
           - {w: "sea", f: "ser (to be), present subjunctive, she: sea, seas, sea, seamos, seáis, sean. Subjunctive because they doubt she exists."}
           - {w: "esa", f: "'that', feminine to match 'señora': ese, esa, esos, esas."}
           - {w: "decís", f: "dec- + -ís → decir (to say), present, you (vos). Irregular: digo, dices, dice, decimos, decís, dicen."}

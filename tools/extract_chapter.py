@@ -13,8 +13,23 @@ from pathlib import Path
 import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
-ROMAN = ["", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X",
-         "XI", "XII", "XIII", "XIV", "XV", "XVI", "XVII", "XVIII", "XIX", "XX"]
+
+
+def roman(n: int) -> str:
+    out = ""
+    for v, r in ((50, "L"), (40, "XL"), (10, "X"), (9, "IX"), (5, "V"), (4, "IV"), (1, "I")):
+        while n >= v:
+            out += r; n -= v
+    return out
+
+
+class _Roman:
+    """ROMAN[n] -> the Roman numeral for n (Part II has 74 chapters)."""
+    def __getitem__(self, n):
+        return roman(n)
+
+
+ROMAN = _Roman()
 
 SPLIT_WORDS = 50  # sentences longer than this get split at ; or :
 
@@ -62,6 +77,8 @@ def ormsby_chapter(part: int, chapter: int):
                 if re.match(r"^CHAPTER [IVXLC]+\.$", lines[i].strip()) or lines[i].startswith("VOLUME"))
     paras, cur = [], []
     for l in lines[cstart + 1:cend]:
+        if re.match(r"^\S+\.jpg \(\d+K\)$", l.strip()):
+            continue  # Gutenberg's illustration captions
         if l.strip():
             cur.append(l.strip())
         elif cur:

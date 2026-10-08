@@ -15,7 +15,10 @@ as a comment block for alignment. Rename the file to `ch02.yaml` once you start
 filling it in, and delete the comment block before committing.
 
 `make fetch PART=1 CHAPTER_NUM=2` also downloads the Standard Ebooks chapter file
-(`sources/se-chapter-1-2.xhtml`), which you need for step 5.
+(`sources/se-chapter-1-2.xhtml`), which you need for steps 3 and 5.
+`python3 tools/ormsby_text.py 1 2` prints that file as plain text, one
+paragraph per block, with Ormsby's note references inline as `[note-NNN]` and
+the text of each note at the end.
 
 ## 2. Check the sentence units
 
@@ -205,6 +208,7 @@ breaks because Kindle shows only the first block of a note.
 ## 8. Build and check
 
     make verify     # Spanish still matches Gutenberg
+    python3 tools/lint_chapter.py content/part1/ch02.yaml   # every note complete, diagram chunks verbatim, no cross-references
     make check      # builds dist/don-quijote-anotado.epub from every chapter; epubcheck must be clean
     make site       # assembles _site/ for the browser reader
 

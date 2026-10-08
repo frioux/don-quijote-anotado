@@ -321,7 +321,7 @@ paragraphs:
                       - {s: "en que leer", r: "describes 'libros': to read in"}
               - {s: "y así, llevó a su casa todos cuantos pudo haber dellos", r: "result 2: and so brought home as many as he could get"}
         forms:
-          - {w: "llegó", f: "lleg- + -ó → llegar (to reach), preterite, it: 'reached'. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron (the 1st sg. is 'llegué', gu keeping the hard g). Singular though there are two nouns: they are felt as one idea."}
+          - {w: "llegó", f: "lleg- + -ó → llegar (to reach), preterite, it: 'reached'. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron (the I-form is 'llegué', gu keeping the hard g). Singular though there are two nouns: they are felt as one idea."}
           - {w: "esto", f: "neuter 'this [matter]'."}
           - {w: "vendió", f: "vend- + -ió → vender (to sell), preterite, he. The preterite of -er and -ir verbs: -í, -iste, -ió, -imos, -isteis, -ieron."}
           - {w: "muchas", f: "much- + -as → mucho, feminine plural to match 'hanegas'."}
@@ -393,7 +393,7 @@ paragraphs:
         forms:
           - {w: "se hace", f: "hac- + -e → hacer (to do), present, it, with 'se' making it passive: 'is done'. The present of -er verbs: -o, -es, -e, -emos, -éis, -en."}
           - {w: "mi", f: "'my', the unstressed possessive; one form for both genders (mi, mis)."}
-          - {w: "enflaquece", f: "enflaquec- + -e → enflaquecer (to weaken), present, it. Verbs in -ecer only add -zc- in the 1st sg. (enflaquezco)."}
+          - {w: "enflaquece", f: "enflaquec- + -e → enflaquecer (to weaken), present, it. Verbs in -ecer only add -zc- in the I-form (enflaquezco)."}
           - {w: "me quejo", f: "quej- + -o → quejarse de (to complain of), present, I, with 'me' (myself); this verb always carries its pronoun."}
           - {w: "vuestra", f: "vuestr- + -a → 'your', the possessive of 'vos' (the courtly address to one lady), feminine to match 'fermosura'. The article before a possessive ('la vuestra') is archaic."}
           - {w: "fermosura", f: "hermosura with the old initial f-."}
@@ -471,7 +471,7 @@ paragraphs:
           - {w: "desvelábase", f: "desvel- + -aba + se → desvelar (to keep awake) with 'se' (himself) stuck on the end: 'kept himself awake'. Cervantes hangs pronouns on the end of a conjugated verb that opens its clause; modern Spanish says 'se desvelaba'. The imperfect of -ar verbs: -aba, -abas, -aba, -ábamos, -abais, -aban."}
           - {w: "entenderlas", f: "entender (to understand) + las (them: the razones, feminine plural)."}
           - {w: "desentrañarles", f: "desentrañar (to unravel) + les (from them)."}
-          - {w: "sacara", f: "sac- + -ara → sacar (to get out), imperfect subjunctive (-ra form), he: here 'would have got out'. Built on the 3rd pl. preterite (sacaron → saca-): sacara, sacaras, sacara, sacáramos, sacarais, sacaran. Cervantes uses the -ra form where modern Spanish says 'habría sacado'."}
+          - {w: "sacara", f: "sac- + -ara → sacar (to get out), imperfect subjunctive (-ra form), he: here 'would have got out'. Built on the they-form of the preterite (sacaron → saca-): sacara, sacaras, sacara, sacáramos, sacarais, sacaran. Cervantes uses the -ra form where modern Spanish says 'habría sacado'."}
           - {w: "se lo", f: "'se' stands in for 'les' (to them, the sentences), because le / les turns into 'se' before lo / la / los / las; 'lo' = it (the meaning)."}
           - {w: "entendiera", f: "entend- + -iera → entender, imperfect subjunctive (-ra), he: 'would have understood'. entendieron → entendiera."}
           - {w: "las", f: "them (the razones)."}
@@ -703,7 +703,7 @@ paragraphs:
               - {s: "del poco dormir y del mucho leer", r: "why: from little sleep and much reading"}
               - {s: "de manera que vino a perder el juicio", r: "result: so that he lost his mind"}
         forms:
-          - {w: "se enfrascó", f: "enfrasc- + -ó → enfrascarse en (to get absorbed in), preterite, he. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron (the 1st sg. is 'enfrasqué')."}
+          - {w: "se enfrascó", f: "enfrasc- + -ó → enfrascarse en (to get absorbed in), preterite, he. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron (the I-form is 'enfrasqué')."}
           - {w: "letura", f: "= lectura."}
           - {w: "se le pasaban", f: "pas- + -aban → pasar (to pass), imperfect, they (the nights); 'se' makes it 'go by' and 'le' = on him. The imperfect of -ar verbs: -aba, -abas, -aba, -ábamos, -abais, -aban."}
           - {w: "leyendo", f: "le- + -yendo → gerund of leer (to read): 'reading'; -iendo is spelled -yendo between vowels."}
@@ -1197,7 +1197,7 @@ paragraphs:
           - {w: "podía", f: "pod- + -ía → poder (to be able), imperfect, it. The imperfect of -er and -ir verbs: -ía, -ías, -ía, -íamos, -íais, -ían."}
           - {w: "estar", f: "infinitive after podía; 'estar al riesgo de' = to stand up to."}
           - {w: "al", f: "a + el."}
-          - {w: "sacó", f: "sac- + -ó → sacar (to draw out), preterite, he. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron (the 1st sg. is 'saqué')."}
+          - {w: "sacó", f: "sac- + -ó → sacar (to draw out), preterite, he. The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron (the I-form is 'saqué')."}
           - {w: "le dio", f: "dar (to give), preterite, he, + 'le' (to it): di, diste, dio, dimos, disteis, dieron."}
           - {w: "el primero", f: "an ordinal as a pronoun: 'the first one' (before a noun it clips to 'primer')."}
           - {w: "deshizo", f: "deshic- + -o → deshacer (to undo), preterite, he, conjugated like hacer: deshice, deshiciste, deshizo, deshicimos, deshicisteis, deshicieron."}
@@ -1777,11 +1777,11 @@ paragraphs:
           - {w: "el cual", f: "'who', the heavy relative used after a long gap: el cual, la cual, los cuales, las cuales."}
           - {w: "me mandó", f: "mand- + -ó → mandar (to order), preterite, he, + 'me' (to me). The preterite of -ar verbs: -é, -aste, -ó, -amos, -asteis, -aron. 'mandar que' takes the subjunctive."}
           - {w: "me presentase", f: "present- + -ase → presentarse (to present oneself), imperfect subjunctive (-se form), I: 'should present myself'. presentase, presentases, presentase, presentásemos, presentaseis, presentasen (= presentara). A past main verb calls for the past subjunctive."}
-          - {w: "vuestra merced", f: "'your grace', which takes 3rd person verbs; it later shrank into 'usted'."}
+          - {w: "vuestra merced", f: "'your grace', which takes he/she verbs; it later shrank into 'usted'."}
           - {w: "disponga", f: "dispong- + -a → disponer de (to do as one likes with), present subjunctive, she (your greatness), built on the irregular 'dispongo': disponga, dispongas, disponga, dispongamos, dispongáis, dispongan. 'para que' always takes the subjunctive."}
           - {w: "la vuestra grandeza", f: "the article before a possessive is archaic; modern Spanish says 'vuestra grandeza'."}
           - {w: "mí", f: "'me' after a preposition (with the accent; 'mi' = my)."}
-          - {w: "su", f: "'her', referring back to 'vuestra grandeza' as a 3rd person."}
+          - {w: "su", f: "'her', referring back to 'vuestra grandeza' as a he/she form."}
   - sentences:
       - es: "¡Oh, cómo se holgó nuestro buen caballero cuando hubo hecho este discurso, y más cuando halló a quien dar nombre de su dama!"
         literal: "Oh, how himself rejoiced our good gentleman when he-had made this speech, and more when he-found to whom to give name of his lady!"
