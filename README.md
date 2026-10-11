@@ -7,7 +7,7 @@ forms list that takes apart every conjugated or inflected word (stem + ending �
 dictionary form, tense, person). Each chapter ends with a summary and
 context note. Built for Kindle (pop-up footnotes) but standard EPUB3.
 
-Status: Part I complete (Chapters 1–52); Part II, Chapters 1–2.
+Status: Part I complete (Chapters 1–52); Part II, Chapters 1–3.
 
 Read it in the browser: <https://frioux.github.io/don-quijote-anotado/> (the same EPUB, rendered with epub.js; tap a number for the note). The address bar follows the paragraph at the top of the page (`#p1c02-p5` is Part I, Chapter 2, paragraph 5), so you can copy it to link to any place in the book. The EPUB itself is built and published by GitHub Actions on every push.
 
