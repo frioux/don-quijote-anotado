@@ -46,7 +46,7 @@ def spanish_chapter(part: int, chapter: int):
     heading_re = (r"^Capítulo primero\." if chapter == 1
                   else rf"^Capítulo {ROMAN[chapter]}\.")
     cstart = next(i for i in range(pstart, len(lines)) if re.match(heading_re, lines[i], re.I))
-    next_re = r"^Capítulo [IVXLC]+\.|^(Primera|Segunda|Tercera|Cuarta) parte del"
+    next_re = r"^Capítulo [IVXLC]+\.|^(Primera|Segunda|Tercera|Cuarta) parte del|^\*\*\* END OF"
     cend = next(i for i in range(cstart + 1, len(lines)) if re.match(next_re, lines[i]))
     block = lines[cstart:cend]
     # Heading may wrap to a second line.
@@ -71,10 +71,12 @@ def ormsby_chapter(part: int, chapter: int):
     lines = text.split("\n")
     heading = f"CHAPTER {ROMAN[chapter]}."
     hits = [i for i, l in enumerate(lines) if l.strip() == heading]
-    # First hit is Part I body (the TOC entries lack the trailing period).
-    cstart = hits[part - 1]
-    cend = next(i for i in range(cstart + 1, len(lines))
-                if re.match(r"^CHAPTER [IVXLC]+\.$", lines[i].strip()) or lines[i].startswith("VOLUME"))
+    # First hit is Part I body, last is Part II (the TOC entries lack the
+    # trailing period); Part I has only 52 chapters.
+    cstart = hits[0] if part == 1 else hits[-1]
+    cend = next((i for i in range(cstart + 1, len(lines))
+                 if re.match(r"^CHAPTER [IVXLC]+\.$", lines[i].strip())
+                 or lines[i].startswith("VOLUME") or lines[i].startswith("*** END OF")), len(lines))
     paras, cur = [], []
     for l in lines[cstart + 1:cend]:
         if re.match(r"^\S+\.jpg \(\d+K\)$", l.strip()):

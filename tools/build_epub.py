@@ -128,13 +128,28 @@ def cover_xhtml() -> str:
     return "".join(out)
 
 
+PART_NAMES = {1: "Primera parte", 2: "Segunda parte"}
+
+
+def by_part(items):
+    """Group (part, fname, label) items into [(part, [(fname, label), ...]), ...]."""
+    groups = []
+    for part, fname, label in items:
+        if not groups or groups[-1][0] != part:
+            groups.append((part, []))
+        groups[-1][1].append((fname, label))
+    return groups
+
+
 def title_xhtml(chapters) -> str:
     out = [XHTML_HEAD.format(lang="es", title=esc(TITLE), btype="frontmatter titlepage")]
     out.append('<section epub:type="titlepage">\n')
     out.append("<h1>Don Quijote de la Mancha</h1>\n<p class=\"subtitle\">Miguel de Cervantes Saavedra</p>\n")
     out.append('<p class="subtitle" xml:lang="en" lang="en">Annotated edition for English-speaking readers</p>\n')
     out.append('<div xml:lang="en" lang="en">\n')
-    out.append("<p class=\"howto\">Contents: " + "; ".join(esc(c["title_es"].split(". ")[0]) for c in chapters) + ".</p>\n")
+    groups = by_part([(c["part"], None, c["title_es"].split(". ")[0]) for c in chapters])
+    for part, chs in groups:
+        out.append(f"<p class=\"howto\">{PART_NAMES[part]}: " + "; ".join(esc(label) for _, label in chs) + ".</p>\n")
     out.append("</div>\n</section>\n")
     out.append(XHTML_FOOT)
     return "".join(out)
@@ -144,13 +159,16 @@ def nav_xhtml(items) -> str:
     out = [XHTML_HEAD.format(lang="es", title="Índice", btype="frontmatter toc")]
     out.append('<nav epub:type="toc" id="toc">\n<h2>Índice</h2>\n<ol>\n')
     out.append('<li><a href="title.xhtml">Portada</a></li>\n')
-    for fname, label in items:
-        out.append(f'<li><a href="{fname}">{esc(label)}</a></li>\n')
+    for part, chs in by_part(items):
+        out.append(f'<li><a href="{chs[0][0]}">{PART_NAMES[part]}</a>\n<ol>\n')
+        for fname, label in chs:
+            out.append(f'<li><a href="{fname}">{esc(label)}</a></li>\n')
+        out.append("</ol>\n</li>\n")
     out.append("</ol>\n</nav>\n")
     out.append('<nav epub:type="landmarks" hidden="hidden">\n<ol>\n')
     out.append('<li><a epub:type="cover" href="cover.xhtml">Cubierta</a></li>\n')
     out.append('<li><a epub:type="titlepage" href="title.xhtml">Portada</a></li>\n')
-    out.append(f'<li><a epub:type="bodymatter" href="{items[0][0]}">Texto</a></li>\n')
+    out.append(f'<li><a epub:type="bodymatter" href="{items[0][1]}">Texto</a></li>\n')
     out.append("</ol>\n</nav>\n")
     out.append(XHTML_FOOT)
     return "".join(out)
@@ -160,12 +178,18 @@ def ncx(items) -> str:
     pts = []
     order = 1
     pts.append(f'<navPoint id="np{order}" playOrder="{order}"><navLabel><text>Portada</text></navLabel><content src="title.xhtml"/></navPoint>')
-    for fname, label in items:
-        order += 1
-        pts.append(f'<navPoint id="np{order}" playOrder="{order}"><navLabel><text>{esc(label)}</text></navLabel><content src="{fname}"/></navPoint>')
+    for part, chs in by_part(items):
+        # The part entry points at its first chapter, so it shares that
+        # chapter's playOrder (NCX requires one playOrder per target).
+        sub = []
+        part_order = order + 1
+        for fname, label in chs:
+            order += 1
+            sub.append(f'<navPoint id="np{order}" playOrder="{order}"><navLabel><text>{esc(label)}</text></navLabel><content src="{fname}"/></navPoint>')
+        pts.append(f'<navPoint id="part{part}" playOrder="{part_order}"><navLabel><text>{PART_NAMES[part]}</text></navLabel><content src="{chs[0][0]}"/>{"".join(sub)}</navPoint>')
     return f"""<?xml version="1.0" encoding="utf-8"?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
-<head><meta name="dtb:uid" content="{BOOK_ID}"/><meta name="dtb:depth" content="1"/>
+<head><meta name="dtb:uid" content="{BOOK_ID}"/><meta name="dtb:depth" content="2"/>
 <meta name="dtb:totalPageCount" content="0"/><meta name="dtb:maxPageNumber" content="0"/></head>
 <docTitle><text>{esc(TITLE)}</text></docTitle>
 <navMap>{''.join(pts)}</navMap>
@@ -184,7 +208,7 @@ def opf(items) -> str:
         '<item id="title" href="title.xhtml" media-type="application/xhtml+xml"/>',
     ]
     spine = ['<itemref idref="cover"/>', '<itemref idref="title"/>']
-    for i, (fname, _) in enumerate(items):
+    for i, (_, fname, _) in enumerate(items):
         manifest.append(f'<item id="c{i}" href="{fname}" media-type="application/xhtml+xml"/>')
         spine.append(f'<itemref idref="c{i}"/>')
     return f"""<?xml version="1.0" encoding="utf-8"?>
@@ -221,7 +245,7 @@ def main(argv):
         cid = f"p{doc['part']}c{doc['chapter']:02d}"
         fname = f"{cid}.xhtml"
         files[fname] = chapter_xhtml(doc, cid)
-        items.append((fname, doc["title_es"].split(". ")[0]))
+        items.append((doc["part"], fname, doc["title_es"].split(". ")[0]))
     with zipfile.ZipFile(out, "w") as z:
         z.writestr(zipfile.ZipInfo("mimetype"), "application/epub+zip", compress_type=zipfile.ZIP_STORED)
         z.writestr("META-INF/container.xml", """<?xml version="1.0" encoding="utf-8"?>
