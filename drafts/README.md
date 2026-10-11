@@ -7,7 +7,6 @@ missing. None of them has a summary or context yet.
 
 | File | Done |
 |---|---|
-| part1-ch34.yaml | 44 of 62 paragraphs |
 | part1-ch39.yaml | 9 of 19 paragraphs |
 | part1-ch40.yaml | 10 of 29 paragraphs |
 
