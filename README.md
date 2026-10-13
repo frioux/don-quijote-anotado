@@ -11,6 +11,8 @@ Status: Part I complete (Chapters 1–52); Part II, Chapters 1–23.
 
 Read it in the browser: <https://frioux.github.io/don-quijote-anotado/> (the same EPUB, rendered with epub.js; tap a number for the note). The address bar follows the paragraph at the top of the page (`#p1c02-p5` is Part I, Chapter 2, paragraph 5), so you can copy it to link to any place in the book. The EPUB itself is built and published by GitHub Actions on every push.
 
+The browser reader also keeps your own glosses: double-tap (or double-click) a word and type your English for it, and it appears small above the word. Glosses are stored in that browser's localStorage, keyed by paragraph and word position; the Glosses menu in the header can hide them, export them as JSON, and import them on another device.
+
 ## Build
 
     make fetch      # download sources into sources/ (already committed)
@@ -37,6 +39,7 @@ The editorial rules for filling in a chapter are in ANNOTATING.md.
     assets/cover.jpg          the cover, committed
     sources/                  raw public-domain sources, see SOURCES.md
     site/index.html           browser reader for GitHub Pages (epub.js)
+    site/glosses.js           the reader's personal word glosses (double-tap a word)
     .github/workflows/        builds, validates and deploys on push
 
 ## Reading it on a Kindle

@@ -34,5 +34,5 @@ clean:
 # Static site for GitHub Pages: the viewer page plus the built EPUB.
 site: build
 	rm -rf _site && mkdir -p _site
-	cp site/index.html _site/
+	cp site/* _site/
 	cp $(OUT) _site/
